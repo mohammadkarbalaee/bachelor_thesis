@@ -1,0 +1,76 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{reference}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=efb7eac3243b82c61457567f0ab3bf52}{%
+           family={Lorem},
+           familyi={L\bibinitperiod},
+           given={Ipsum\bibnamedelima D},
+           giveni={I\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=ed1f5ff8acf0a007217156af3f4c66e8}{%
+           family={Ipsum},
+           familyi={I\bibinitperiod},
+           given={Dolor\bibnamedelima S},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=4850b3c6fa055449152648ca33375717}{%
+           family={Amet},
+           familyi={A\bibinitperiod},
+           given={Consectetur\bibnamedelima A},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=2ab3a7b76cbd89ae652a5513ad0341f7}{%
+           family={Elit},
+           familyi={E\bibinitperiod},
+           given={Vivamus\bibnamedelima N},
+           giveni={V\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=33247e83d1dff52e5bdad38f832cbe2a}{%
+           family={Adipiscing},
+           familyi={A\bibinitperiod},
+           given={Elit},
+           giveni={E\bibinitperiod}}}%
+        {{hash=fe899096c186dd31b255a92688a099c4}{%
+           family={Consectetur},
+           familyi={C\bibinitperiod},
+           given={Adipiscing\bibnamedelima Elit},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{0f601c0369cac0e93040b88a8601e921}
+      \strng{fullhash}{d9aa9b84fb45a310b4426ab4ee29dea2}
+      \strng{bibnamehash}{d9aa9b84fb45a310b4426ab4ee29dea2}
+      \strng{authorbibnamehash}{d9aa9b84fb45a310b4426ab4ee29dea2}
+      \strng{authornamehash}{0f601c0369cac0e93040b88a8601e921}
+      \strng{authorfullhash}{d9aa9b84fb45a310b4426ab4ee29dea2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Lorem Ipsum Dolor Conference}
+      \field{title}{Lorem Ipsum: Dolor Sit Amet Consectetur Adipiscing Elit}
+      \field{year}{2023}
+      \field{pages}{123\bibrangedash 456}
+      \range{pages}{334}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

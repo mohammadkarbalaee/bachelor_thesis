@@ -10,6 +10,7 @@
     parskip=half            % half line spacing between paragraphs
 ]{scrbook}
 
+
 \input{preamble}                      % load preamble
 \begin{document}
 
@@ -20,7 +21,7 @@
 \pagenumbering{Roman}
 
 \include{content/0_abstract}            % Abstract
-\tableofcontents                        % Contents
+\tableofcontents\markboth{Contents}{}                        % Contents
 \listoffigures                          % List of Figures
 \listoftables                           % List of Tables
 \listofalgorithms\markboth{List of Algorithms}{}

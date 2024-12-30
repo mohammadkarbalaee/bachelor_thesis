@@ -1,0 +1,45 @@
+\documentclass[
+    oneside, 
+    fontsize=12pt,          % default font size 12pt
+    paper=a4,               % DIN A4 page format
+    numbers=noenddot,       % remove dots behind chapter numbers (e.g. 1.5 not 1.5.)
+    listof=totoc,           % add list of figures, tables, etc. to ToC
+    listof=entryprefix,     % add entry name to figures, tables, etc.
+    listof=nochaptergap,    % no chapter gap for figures, tables, etc.
+    bibliography=totoc,     % add bibliography to ToC but without a chapter number
+    parskip=half            % half line spacing between paragraphs
+]{scrbook}
+
+\input{preamble}                      % load preamble
+\begin{document}
+
+\include{framework/titlepage}           % title page
+
+% Roman numbering
+\frontmatter
+\pagenumbering{Roman}
+
+\include{content/0_abstract}            % Abstract
+\tableofcontents                        % Contents
+\listoffigures                          % List of Figures
+\listoftables                           % List of Tables
+\listofalgorithms\markboth{List of Algorithms}{}
+\include{framework/abbreviations}       % Abbreviations
+
+% Content
+\include{content/1_introduction}
+\mainmatter
+\include{content/2_background}
+\include{content/3_method}
+\include{content/4_result}
+\include{content/5_discussion}
+\include{content/6_conclusion}
+
+% Bibliography
+\printbibliography
+
+% Declaration of Authorship
+\include{framework/declaration_of_authorship}   
+
+
+\end{document}

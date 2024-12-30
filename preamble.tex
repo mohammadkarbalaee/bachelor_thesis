@@ -1,0 +1,272 @@
+% ##################################################
+% ENCODING
+% ##################################################
+\usepackage{cmap}               % PDF character encoding
+\usepackage[T1]{fontenc}        % 8-bit font encoding
+\usepackage[utf8]{inputenc}     % UTF-8 input encoding
+
+\usepackage[draft]{todonotes}   % notes showed
+
+% ##################################################
+% DOCUMENT VARIABLES
+% ##################################################
+% Personal data
+\newcommand{\docAuthor}{XXXX YYYY}
+\newcommand{\docMatriculationNumber}{XXXXXXXX}
+\newcommand{\docStudyProgram}{XXXX}
+\newcommand{\docStreetName}{}
+\newcommand{\docPostalCode}{XXXXX}
+\newcommand{\docCity}{Erlangen}
+\newcommand{\docEmail}{}
+
+% Document data
+\newcommand{\docTitle}{Title}
+\newcommand{\docSubTitle}{}     % leave empty to remove
+\newcommand{\docType}{Master Thesis}
+\newcommand{\docSupervisor}{XXXX}
+\newcommand{\docSecondSupervisor}{XXXX}
+\newcommand{\docCoSupervisor}{XXXX}
+\newcommand{\docStartDate}{DD.MM.YYYY}
+\newcommand{\docDeadline}{DD.MM.YYYY}
+
+
+% ##################################################
+% GENERAL
+% ##################################################
+\usepackage{scrhack}            % better KOMA adaptions
+\usepackage[]{xcolor}      % color support
+\usepackage{chngcntr}           % for renumbering stuff
+\usepackage{amsmath}
+\usepackage{listings}
+\usepackage{subcaption}
+\usepackage{booktabs}
+\usepackage{sidecap}
+\usepackage{graphicx}
+\usepackage{svg}
+\usepackage{pgf}
+\usepackage{pgfplots}
+\usepackage{lmodern}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{array}
+\usepackage{placeins}
+\usepackage{multirow}
+\usepackage[ruled,vlined,linesnumbered]{algorithm2e}
+\captionsetup{labelfont={bf}}
+
+
+% ##################################################
+% PDF SETTINGS
+% ##################################################
+\usepackage[
+    colorlinks=false,
+   	linkcolor=black,
+   	citecolor=black,
+  	filecolor=black,
+	urlcolor=black,
+    bookmarks=true,
+    bookmarksopen=true,
+    bookmarksopenlevel=3,
+    bookmarksnumbered,
+    plainpages=false,
+    pdfpagelabels=true,
+    hyperfootnotes,
+    pdftitle ={\docTitle},
+    pdfauthor={\docAuthor},
+    pdfcreator={\docAuthor}
+]{hyperref}
+
+
+% ##################################################
+% FONTS AND SPACING
+% ##################################################
+% \renewcommand{\familydefault}{\sfdefault}   % default font
+\usepackage[onehalfspacing]{setspace}       % default 1.5 spacing
+\raggedbottom   % don't stretch spacing to fit page length
+
+% font sizes and styles
+\addtokomafont{chapter}{\normalfont\bfseries} %\sffamily\large\bfseries
+\addtokomafont{section}{\normalfont\bfseries} %\sffamily\normalsize\bfseries
+\addtokomafont{subsection}{\normalfont\bfseries} 
+\addtokomafont{subsubsection}{\normalfont\bfseries} %\sffamily\normalsize\mdseries
+\addtokomafont{caption}{\normalfont\mdseries} %\sffamily\normalsize\mdseries
+
+% url font style
+\usepackage{relsize}
+\renewcommand*{\UrlFont}{\ttfamily\smaller\relax}
+\renewcommand{\texttt}{\ttfamily\smaller\relax}
+
+% ##################################################
+% PAGE FORMATTING
+% ##################################################
+% Page layout
+\usepackage[
+	left=4cm,
+	right=2cm,
+	top=2cm,
+	bottom=2cm,
+        includehead,
+        includefoot,
+]{geometry}
+
+% Page header
+\usepackage[
+    % headsepline,        % seperator line beneath page header on normal pages
+    % plainheadsepline    % seperator line beneath page header on pages like ToC
+]{scrlayer-scrpage}
+\clearpairofpagestyles                  % clear default settings
+% \addtokomafont{pagehead}{\normalfont}   % use normal font for page header
+\addtokomafont{pagefoot}{\normalfont}
+\ofoot*{\thepage}                       % page number
+\ohead*{\leftmark}                      % chapter name
+
+
+% ##################################################
+% IMAGES AND FIGURES
+% ##################################################
+\usepackage{graphicx}       % support for including images
+\graphicspath{{pictures/}}  % default path
+
+% simple numbering without chapter
+\renewcommand{\thefigure}{\arabic{figure}}
+% \counterwithout{figure}{chapter}
+
+
+% ##################################################
+% TABLES
+% ##################################################
+\usepackage{booktabs}   % beautiful table style
+\usepackage{multirow}   % multi row and multi column table functionality
+\usepackage{pbox}
+
+% simple numbering without chapter
+\renewcommand{\thetable}{\arabic{table}}
+\counterwithout{table}{chapter}
+
+% ##################################################
+% SOURCE CODE LISTINGS
+% ##################################################
+\usepackage{listings}
+\usepackage{beramono}   % use a typewriter font which supports bold characters
+\usepackage{enumitem}
+
+% \renewcommand{\lstlistlistingname}{List of Code Listings}   % 
+% \renewcommand{\lstlistingname}{Code Listing}
+\newcommand{\listoflolentryname}{\lstlistingname}   % prefix for List of Code Listings
+
+% define colors for source code highlighting
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.5,0,0.33}
+\definecolor{codepurblue}{rgb}{0.16,0.0,1.0}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+% set source code style
+\lstdefinestyle{codestyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\bfseries\color{codepurple},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurblue},
+    basicstyle=\scriptsize\ttfamily,
+    breakatwhitespace=false,
+    breaklines=true,
+    captionpos=b,
+    keepspaces=true,
+    numbers=left,
+    numbersep=5pt,
+    showspaces=false,
+    showstringspaces=false,
+    showtabs=false,
+    tabsize=2,
+    escapeinside={(*@}{@*)}
+}
+\lstset{style=codestyle, numberbychapter=false}
+
+
+% ##################################################
+% TABLE OF CONTENTS
+% ##################################################
+\KOMAoptions{toc=chapterentrydotfill}       % dotted lines for chapters
+\addtokomafont{chapterentry}{\normalfont}   % use normal font for chapter entries
+\setuptoc{toc}{totoc}                       % add ToC to ToC
+
+% spacing
+\DeclareTOCStyleEntry[beforeskip=0cm]{chapter}{chapter}
+\DeclareTOCStyleEntry[beforeskip=0cm]{section}{section}
+\DeclareTOCStyleEntry[beforeskip=0cm]{default}{subsection}
+\DeclareTOCStyleEntry[beforeskip=0cm]{default}{subsubsection}
+% colons after entry names
+\BeforeStartingTOC[lof]{\def\autodot{:}}
+\BeforeStartingTOC[lot]{\def\autodot{:}}
+\BeforeStartingTOC[lol]{\def\autodot{:}}
+
+
+% ##################################################
+% BIBLIOGRAPHY
+% ##################################################
+\usepackage{csquotes}
+\RequirePackage[backend=biber,
+sorting=nyt,
+style=authoryear,
+sortcites=true,
+maxcitenames=2,
+mincitenames=1,
+maxbibnames=100,
+date=year,
+url=false,
+urldate=long,
+isbn=false,
+firstinits=true,
+doi=false,
+terseinits=false,
+autocite=inline,
+uniquename=false,
+dashed=false,
+uniquelist=false,
+block=none, 
+hyperref=true, 
+]{biblatex}
+
+% \usepackage[backend=biber,citestyle=misq]{biblatex}
+% \bibliographystyle{misq}
+\addbibresource{bibtex.bib}
+\setlength\bibitemsep{.5\baselineskip}
+\setcounter{biburlnumpenalty}{9000} % break URLs on numbers
+\setcounter{biburllcpenalty}{9000}  % break URLs on lower case letters
+\setcounter{biburlucpenalty}{9000}  % break URLs on upper case letters
+
+
+% ##################################################
+% ABBREVIATIONS
+% ##################################################
+\usepackage[printonlyused]{acronym}
+
+
+% ##################################################
+% APPENDIX
+% ##################################################
+\usepackage[title,titletoc]{appendix}
+
+% appendix chapter
+\newcommand{\appendixchapter}[1]{
+    \cleardoublepage
+    \pagenumbering{arabic}
+    \renewcommand{\thepage}{\thechapter-\arabic{page}}
+    \chapter{#1}
+}
+
+% insert monthly report pdf as picture in order to keep page header
+\newcommand{\monthlyreport}[2]{
+    \section{#1}
+    \centering
+    \includegraphics[trim=55 35 55 35,clip,width=1\textwidth]{#2}
+    \clearpage
+}
+
+
+% ##################################################
+% MISC
+% ##################################################
+% better referencing of images, tables, etc.
+\usepackage[nameinlink, noabbrev]{cleveref} 

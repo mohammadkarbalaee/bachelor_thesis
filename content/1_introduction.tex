@@ -1,11 +1,53 @@
 \chapter{Introduction\markboth{Introduction}{}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Traffic sign recognition plays a pivotal role in autonomous driving systems by enabling 
+vehicles to interpret and respond to road signs in real-time.
+ Accurate recognition is essential for ensuring the safety 
+ and efficiency of these systems. However, real-world scenarios
+  introduce significant challenges. Environmental conditions such
+   as poor lighting, rain, or fog, physical obstructions like overgrown 
+   trees or dirt-covered signs, and damaged or unclear signage can all 
+   hinder reliable recognition. These challenges emphasize the need for
+    innovative solutions that address the limitations of traditional standalone recognition models.\cite{10782104}
+
+Integrating traffic sign recognition with \ac{V2X} 
+communication presents a promising avenue for overcoming these challenges.
+ V2X communication fosters a connected environment where vehicles and 
+ infrastructure exchange data in real-time, enabling collaborative decision-making. \cite{PEARRE201961}
+  By leveraging V2X, vehicles can validate their recognition results through shared observations, 
+  reducing the risks associated with isolated errors and enhancing overall system reliability.
+   This synergy holds the potential to revolutionize traffic sign recognition by combining 
+   the strengths of machine learning techniques and connected vehicular ecosystems.
 
 \section{Problem Statement}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Despite advancements in traffic sign recognition technology,
+ existing systems often struggle in real-world conditions due to environmental factors, damaged signage, and obstructions. 
+ These limitations pose a risk to road safety, as errors in recognizing critical traffic signs can lead to incorrect or delayed responses.\cite{avant1986recognition}
+ Standalone recognition systems further exacerbate the problem by lacking a mechanism to cross-verify observations, leaving room for inaccuracies that may compromise autonomous driving systems' reliability.
+
+While V2X communication offers a potential solution by facilitating real-time data sharing among vehicles, its implementation presents several challenges. These include ensuring data security, minimizing latency, and developing efficient mechanisms for aggregating shared data to derive consensus. Furthermore, research in this area remains limited, particularly in the context of applying V2X communication to enhance traffic sign recognition. Addressing these gaps is crucial for the safe and effective deployment of autonomous vehicles in complex, real-world scenarios.
 
 \section{Objectives}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+This thesis seeks to improve the reliability and accuracy of traffic sign recognition systems through the integration of V2X communication. The specific objectives of the research are as follows:
+
+\begin{itemize}
+    \item \textbf{Develop a robust traffic sign recognition model:} Create a system capable of operating effectively under real-world conditions, accounting for challenges like environmental variability and occlusions.
+    \item \textbf{Examine V2X communication principles and security challenges:} Investigate the vulnerabilities and risks associated with real-time vehicular communication to ensure secure data exchange.
+    \item \textbf{Design a reliable consensus mechanism:} Develop an efficient method to aggregate recognition data from multiple vehicles, improving decision-making accuracy.
+    \item \textbf{Simulate real-world scenarios:} Evaluate the performance of the integrated system in terms of recognition reliability, security, and efficiency within simulated environments.
+\end{itemize}
+
+\section{Scope of the Study}
+
+This study contributes to the advancement of intelligent transportation systems by addressing critical challenges in traffic sign recognition and vehicular communication. Its findings are expected to enhance the safety, reliability, and efficiency of autonomous driving systems. By bridging the gap between recognition accuracy and collaborative data sharing through V2X, this research underscores the importance of secure and reliable vehicular communication in building public trust in autonomous technologies.
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+\section{Methodology Overview}
+
+The research employs a multidisciplinary approach to address the outlined objectives:
+\begin{itemize}
+    \item \textbf{Traffic Sign Recognition Model:} Advanced machine learning techniques will be used to develop a robust recognition system capable of handling real-world challenges.
+    \item \textbf{V2X Communication Security:} The study will investigate cryptographic techniques and security protocols to ensure safe data exchange among vehicles.
+    \item \textbf{Consensus Mechanism Design:} An efficient algorithm will be proposed to aggregate recognition results from multiple vehicles, improving overall system accuracy.
+    \item \textbf{Simulation and Evaluation:} The proposed system will be tested in simulated environments, replicating real-world scenarios to measure performance, security, and efficiency.
+\end{itemize}

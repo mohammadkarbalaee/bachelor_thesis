@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.31)  31 DEC 2024 03:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.31)  31 DEC 2024 15:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -957,7 +957,7 @@ Package biblatex Info: ... file 'blx-dm.def' found.
 File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'authoryear.dbx' not found.
+Package biblatex Info: ... file 'numeric.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@afterword=\count405
@@ -1065,10 +1065,10 @@ File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 \biburllcskip=\muskip21
 \c@smartand=\count481
 )
-Package biblatex Info: Trying to load bibliography style 'authoryear'...
-Package biblatex Info: ... file 'authoryear.bbx' found.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx
-File: authoryear.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
@@ -1076,17 +1076,21 @@ File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count482
 \c@bbx:relatedtotal=\count483
 ))
-Package biblatex Info: Trying to load citation style 'authoryear'...
-Package biblatex Info: ... file 'authoryear.cbx' found.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/cbx/authoryear.cbx
-File: authoryear.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
 Package biblatex Info: Redefining '\footcitetext'.
 Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
 Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
@@ -1308,7 +1312,7 @@ Package biblatex Info: Reference segment=0 on input line 15.
 File: pictures/sbu.png Graphic file (type png)
 <use pictures/sbu.png>
 Package pdftex.def Info: pictures/sbu.png  used on input line 6.
-(pdftex.def)             Requested size: 228.41118pt x 170.71652pt.
+(pdftex.def)             Requested size: 190.34044pt x 142.26378pt.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 17.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -1359,8 +1363,15 @@ File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 
 
 ] (./main.toc
-Package acronym Info: Label `acro:XAI' newly defined as it shall be overridden
-although it is yet undefined on input line 10.
+Overfull \hbox (3.96545pt too wide) detected at line 8
+ []\T1/lmr/m/n/12 VIII
+ []
+
+
+Overfull \hbox (3.96545pt too wide) detected at line 9
+ []\T1/lmr/m/n/12 VIII
+ []
+
 )
 \tf@toc=\write6
 \openout6 = `main.toc'.
@@ -1384,7 +1395,7 @@ although it is yet undefined on input line 10.
  [4
 
 
-{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}] (./main.loa)
+] (./main.loa)
 \tf@loa=\write9
 \openout9 = `main.loa'.
 
@@ -1467,13 +1478,19 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\endgroup' on input line 1.
 
-) [7
+Package acronym Info: Label `acro:V2X' newly defined as it shall be overridden
+although it is yet undefined on input line 12.
+[7
 
 
 
 
 
-] [8]
+]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 34.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [8{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]) [9]
 \openout2 = `content/2_background.aux'.
 
  (./content/2_background.tex
@@ -1534,23 +1551,19 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\endgroup' on input line 1.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ac' on input line 4.
-
-
+)
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.6 
-     [1
+l.33 \include{content/2_background}
+                                    [1
 
 
 
 
 
 
-]) [2]
+]
 \openout2 = `content/3_method.aux'.
 
  (./content/3_method.tex
@@ -1611,53 +1624,13 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\endgroup' on input line 1.
 
-[3
+) [2
 
 
 
 
 
 ]
-LaTeX Font Info:    Trying to load font information for T1+fvm on input line 12.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/bera/t1fvm.fd
-File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
-)
-LaTeX Font Info:    Calculating math sizes for size <10.00002> on input line 12.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.00002> on input line 12.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6.99997> on input line 12.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 12.
-<images/sample.jpeg, id=123, 321.2pt x 321.2pt>
-File: images/sample.jpeg Graphic file (type jpg)
-<use images/sample.jpeg>
-Package pdftex.def Info: images/sample.jpeg  used on input line 20.
-(pdftex.def)             Requested size: 102.43228pt x 102.43321pt.
-File: images/sample.jpeg Graphic file (type jpg)
-<use images/sample.jpeg>
-Package pdftex.def Info: images/sample.jpeg  used on input line 26.
-(pdftex.def)             Requested size: 102.43228pt x 102.43321pt.
-File: images/sample.jpeg Graphic file (type jpg)
-<use images/sample.jpeg>
-Package pdftex.def Info: images/sample.jpeg  used on input line 32.
-(pdftex.def)             Requested size: 102.43228pt x 102.43321pt.
-File: images/sample.jpeg Graphic file (type jpg)
-<use images/sample.jpeg>
-Package pdftex.def Info: images/sample.jpeg  used on input line 38.
-(pdftex.def)             Requested size: 102.43228pt x 102.43321pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 69.
-(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ot1lmtt.fd
-File: ot1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)<<ot1tt.cmap>>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) [4{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}] [5{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc} <./images/sample.jpeg>]
 \openout2 = `content/4_result.aux'.
 
  (./content/4_result.tex
@@ -1718,13 +1691,13 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\endgroup' on input line 1.
 
-) [6
+) [3
 
 
 
 
 
-] [7]
+]
 \openout2 = `content/5_discussion.aux'.
 
  (./content/5_discussion.tex
@@ -1785,7 +1758,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\endgroup' on input line 1.
 
-) [8
+) [4
 
 
 
@@ -1852,7 +1825,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\endgroup' on input line 1.
 
-) [9
+) [5
 
 
 
@@ -1860,15 +1833,26 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 ]
 chapter without number
-[10
+LaTeX Font Info:    Trying to load font information for T1+fvm on input line 40.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/bera/t1fvm.fd
+File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
+)
+LaTeX Font Info:    Calculating math sizes for size <10.00002> on input line 40.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.00002> on input line 40.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6.99997> on input line 40.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 40.
+ [6
 
 
 
 
-]
+{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}]
 \openout2 = `framework/declaration_of_authorship.aux'.
 
- (./framework/declaration_of_authorship.tex) [11
+ (./framework/declaration_of_authorship.tex) [7
 
 
 
@@ -1884,18 +1868,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 52303 strings out of 474116
- 1182198 string characters out of 5743681
- 2226159 words of memory out of 5000000
- 73703 multiletter control sequences out of 15000+600000
- 639710 words of font info for 93 fonts, out of 8000000 for 9000
+ 52214 strings out of 474116
+ 1181051 string characters out of 5743681
+ 2220793 words of memory out of 5000000
+ 73634 multiletter control sequences out of 15000+600000
+ 632964 words of font info for 89 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 130i,19n,134p,10948b,1323s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (20 pages, 556340 bytes).
+ 130i,20n,134p,10948b,1700s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmro12.pfb>
+Output written on main.pdf (17 pages, 448561 bytes).
 PDF statistics:
- 285 PDF objects out of 1000 (max. 8388607)
- 238 compressed objects within 3 object streams
- 50 named destinations out of 1000 (max. 500000)
- 175 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 237 PDF objects out of 1000 (max. 8388607)
+ 200 compressed objects within 2 object streams
+ 41 named destinations out of 1000 (max. 500000)
+ 174 words of extra memory for PDF output out of 10000 (max. 10000000)
 

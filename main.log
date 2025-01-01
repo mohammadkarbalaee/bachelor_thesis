@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.31)  1 JAN 2025 19:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.31)  1 JAN 2025 20:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1323,6 +1323,11 @@ Package biblatex Warning: Biber reported the following issues
 (biblatex)                with 'cite-key':
 (biblatex)                - inproceedings entry 'cite-key' (bibtex.bib): Invalid format '2024/07/01' of date field 'date' - ignoring.
 
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'cite-key1':
+(biblatex)                - inproceedings entry 'cite-key1' (bibtex.bib): Invalid format '2024/12/01' of date field 'date' - ignoring.
+
 )
 Package biblatex Info: Reference section=0 on input line 15.
 Package biblatex Info: Reference segment=0 on input line 15.
@@ -1582,7 +1587,7 @@ Package acronym Info: Label `acro:V2P' newly defined as it shall be overridden
 although it is yet undefined on input line 13.
 Package acronym Info: Label `acro:V2C' newly defined as it shall be overridden
 although it is yet undefined on input line 14.
-<images/figure1.png, id=170, 1223.57124pt x 866.23625pt>
+<images/figure1.png, id=168, 1223.57124pt x 866.23625pt>
 File: images/figure1.png Graphic file (type png)
 <use images/figure1.png>
 Package pdftex.def Info: images/figure1.png  used on input line 19.
@@ -1610,7 +1615,7 @@ Package acronym Info: Label `acro:DSRC' newly defined as it shall be overridden
 although it is yet undefined on input line 40.
 Package acronym Info: Label `acro:C-V2X' newly defined as it shall be overridden
 although it is yet undefined on input line 42.
- [2 <./images/figure1.png>]) [3]
+ [2 <./images/figure1.png>]) [3] [4]
 \openout2 = `content/3_method.aux'.
 
  (./content/3_method.tex
@@ -1671,7 +1676,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\endgroup' on input line 1.
 
-) [4
+) [5
 
 
 
@@ -1738,7 +1743,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\endgroup' on input line 1.
 
-) [5
+) [6
 
 
 
@@ -1805,7 +1810,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\endgroup' on input line 1.
 
-) [6
+) [7
 
 
 
@@ -1872,7 +1877,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\endgroup' on input line 1.
 
-) [7
+) [8
 
 
 
@@ -1891,15 +1896,15 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6.99997> on input line 40.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 40.
- [8
+ [9
 
 
 
 
-{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}]
+{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}] [10]
 \openout2 = `framework/declaration_of_authorship.aux'.
 
- (./framework/declaration_of_authorship.tex) [9
+ (./framework/declaration_of_authorship.tex) [11
 
 
 
@@ -1915,18 +1920,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 52417 strings out of 474116
- 1184815 string characters out of 5743681
- 2227105 words of memory out of 5000000
- 73796 multiletter control sequences out of 15000+600000
+ 52439 strings out of 474116
+ 1185455 string characters out of 5743681
+ 2231303 words of memory out of 5000000
+ 73814 multiletter control sequences out of 15000+600000
  641729 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 130i,20n,134p,10948b,1697s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 130i,20n,134p,10948b,1699s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmro12.pfb>
-Output written on main.pdf (19 pages, 1557389 bytes).
+Output written on main.pdf (21 pages, 1560003 bytes).
 PDF statistics:
- 350 PDF objects out of 1000 (max. 8388607)
- 307 compressed objects within 4 object streams
- 73 named destinations out of 1000 (max. 500000)
- 227 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 364 PDF objects out of 1000 (max. 8388607)
+ 319 compressed objects within 4 object streams
+ 77 named destinations out of 1000 (max. 500000)
+ 219 words of extra memory for PDF output out of 10000 (max. 10000000)
 

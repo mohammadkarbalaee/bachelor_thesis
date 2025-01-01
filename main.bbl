@@ -297,6 +297,138 @@
       \endverb
       \keyw{Sensors;Energy consumption;Optimization;Minimization;Delays;Costs;Real-time systems;Servers;Particle swarm optimization;Wireless sensor networks;V2I networks;joint communications and sensing;mobile edge computing (MEC);age of information (AoI)}
     \endentry
+    \entry{cite-key1}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=b7823e69f609e6fcd7c52466da686131}{%
+           family={Ahmad},
+           familyi={A\bibinitperiod},
+           given={Adeel},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7451016b0ec866b109ceb92317de9366}{%
+           family={Sial},
+           familyi={S\bibinitperiod},
+           given={Muhammad\bibnamedelima Nadeem},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=0eab7c556e456f7c4d68069e5719fdf0}{%
+           family={Awan},
+           familyi={A\bibinitperiod},
+           given={Mahshan\bibnamedelima Zaheer},
+           giveni={M\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=978d9139dc82d03b165b5a99ea9f0e5a}{%
+           family={Ullah},
+           familyi={U\bibinitperiod},
+           given={Sadiq},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{9de4140b8125245879e05f525d6e21b3}
+      \strng{fullhash}{38610a34e59a74cae00b8afd0003c3a9}
+      \strng{bibnamehash}{38610a34e59a74cae00b8afd0003c3a9}
+      \strng{authorbibnamehash}{38610a34e59a74cae00b8afd0003c3a9}
+      \strng{authornamehash}{9de4140b8125245879e05f525d6e21b3}
+      \strng{authorfullhash}{38610a34e59a74cae00b8afd0003c3a9}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Cellular vehicle-to-everything (C-V2X) is a promising area for research in wireless communication as it provides an improved performance for safe connectivity of autonomous vehicles over half duplex (HD) Direct Short Range Communication (DSRC) in terms of range, reliability and infrastructure cost. In this work, full duplex (FD) communication for Base Stations (BSs) over shared channels is presented for the first time in C-V2X networks. Three modes, Mode A, B and C have been defined based on autonomous, cellular HD and cellular FD communication. Network model has been built by plotting vehicles, pedestrians and traffic infrastructure according to Cox Process while BSs have been distributed according to 2-D Poisson Point Process (PPP) in a circular region. Mathematical model for success probability of FD communication over BSs in C-V2X networks using nearest neighbor criterion has been developed and same is compared with HD communication. Analytical results have also been compared with system model using Monte Carlo simulations. For the very first time, we have shown that success probability of FD is comparable with that of HD communication in terms of signal to interference noise ratio (SINR) ranging from −40dB to 60dB, with less than 10{\%} degradation in the range from −15dB to 10dB, which is minimal. Other network characteristics like intensities of vehicles, roads and BSs have also shown minimal degradation (less than 10{\%}) in performance of FD as compared to HD for C-V2X network. Effect of imperfect self interference cancellation (SIC) for different values has also been presented to highlight significance of achieving perfect SIC for FD in C-V2X networks.}
+      \field{isbn}{1572-9451}
+      \field{journaltitle}{Telecommunication Systems}
+      \field{number}{4}
+      \field{title}{Coverage probability of C-V2X network with full duplex communication on BSs over shared channels}
+      \field{volume}{87}
+      \field{year}{2024}
+      \field{pages}{1167\bibrangedash 1182}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/s11235-024-01220-8
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s11235-024-01220-8
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s11235-024-01220-8
+      \endverb
+      \warn{\item inproceedings entry 'cite-key1' (bibtex.bib): Invalid format '2024/12/01' of date field 'date' - ignoring}
+    \endentry
+    \entry{Sidorenko2024}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=bf668f9d87410fd2e70a10f55f1d743a}{%
+           family={Sidorenko},
+           familyi={S\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Halmstad University Press}%
+      }
+      \list{location}{1}{%
+        {Halmstad}%
+      }
+      \strng{namehash}{bf668f9d87410fd2e70a10f55f1d743a}
+      \strng{fullhash}{bf668f9d87410fd2e70a10f55f1d743a}
+      \strng{bibnamehash}{bf668f9d87410fd2e70a10f55f1d743a}
+      \strng{authorbibnamehash}{bf668f9d87410fd2e70a10f55f1d743a}
+      \strng{authornamehash}{bf668f9d87410fd2e70a10f55f1d743a}
+      \strng{authorfullhash}{bf668f9d87410fd2e70a10f55f1d743a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cooperative Automated Driving for Enhanced Safety and Ethical Decision-Making}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1842503&dswid=-8341
+      \endverb
+      \verb{url}
+      \verb https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1842503&dswid=-8341
+      \endverb
+    \endentry
+    \entry{zEslami}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=3fe07197c4a4c542a6404394338d5986}{%
+           family={Pakniat},
+           familyi={P\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=5da4870bd6ac2c08701e6f7176a3bc9e}{%
+           family={Eslami},
+           familyi={E\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Imam Hussein University}%
+      }
+      \strng{namehash}{953d6f6a9ed94e082af980fecb10bac7}
+      \strng{fullhash}{953d6f6a9ed94e082af980fecb10bac7}
+      \strng{bibnamehash}{953d6f6a9ed94e082af980fecb10bac7}
+      \strng{authorbibnamehash}{953d6f6a9ed94e082af980fecb10bac7}
+      \strng{authornamehash}{953d6f6a9ed94e082af980fecb10bac7}
+      \strng{authorfullhash}{953d6f6a9ed94e082af980fecb10bac7}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A key component of intelligent transportation systems is the so-called Vehicular Ad-hoc Network (VANET). These networks refer to a set of smart vehicles which provide communication services on the road using wireless technologies. In addition to enhancing road safety, VANETs can contribute to vehicle and driver’s security. Therefore, the research in this area is heavily centered around important security and privacy issues, in particular authentication of the messages exchanged while reducing communication overhead. In order to provide a solution to this problem, Zhong et al. recently proposed an efficient privacy-preserving authentication scheme for VANETs based on certificateless aggregate signatures. In their scheme, the length of the aggregated signature is fixed and does not depend on the number of input signatures. The goal of our paper is to show that the scheme of Zhong et al. fails to provide the required authentication for VANETs. We prove that it is easily possible to forge the signature of a vehicle on an arbitrary message after observing only one pair of (message, signature) signed by the target vehicle. We further propose an improvement over Zhong et al.’s scheme that overcomes the mentioned drawback and therefore provides the required authenticity in VANETs.}
+      \field{issn}{2322-4347}
+      \field{journaltitle}{Electronic and Cyber Defense}
+      \field{number}{1}
+      \field{title}{Security Analysis and Improvement of an Intelligent Transportation System based on Certificateless Aggregate Signature}
+      \field{volume}{8}
+      \field{year}{2020}
+      \field{pages}{25\bibrangedash 33}
+      \range{pages}{9}
+      \verb{eprint}
+      \verb https://ecdj.ihu.ac.ir/article_204746_3a7cab69ce0f1a3eb6d111d72dafeb51.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://ecdj.ihu.ac.ir/article_204746.html
+      \endverb
+      \verb{url}
+      \verb https://ecdj.ihu.ac.ir/article_204746.html
+      \endverb
+      \keyw{VANET,Privacy-preserving,Aggregate signature,Certificateless Cryptography,Forgeability}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

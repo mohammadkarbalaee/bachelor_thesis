@@ -1,0 +1,18 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'main.blg'
+[58] biber-darwin:340> INFO - === Wed Jan  1, 2025, 19:38:12
+[71] Biber.pm:419> INFO - Reading 'main.bcf'
+[143] Biber.pm:979> INFO - Found 6 citekeys in bib section 0
+[154] Biber.pm:4419> INFO - Processing section 0
+[164] Biber.pm:4610> INFO - Looking for bibtex file 'bibtex.bib' for section 0
+[165] bibtex.pm:1713> INFO - LaTeX decoding ...
+[173] bibtex.pm:1519> INFO - Found BibTeX data source 'bibtex.bib'
+[247] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[247] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[248] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[248] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[255] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[259] bbl.pm:763> INFO - Output to main.bbl
+[259] Biber.pm:131> WARN - inproceedings entry 'cite-key' (bibtex.bib): Invalid format '2024/07/01' of date field 'date' - ignoring
+[259] Biber.pm:131> WARN - ISBN '1572-834X' in entry 'cite-key' is invalid - run biber with '--validate_datamodel' for details.
+[259] Biber.pm:133> INFO - WARNINGS: 2

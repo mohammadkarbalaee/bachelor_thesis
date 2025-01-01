@@ -18,57 +18,129 @@
 
 
 \refsection{0}
-  \datalist[entry]{nyt/global//global/global}
-    \entry{reference}{inproceedings}{}
-      \name{author}{6}{}{%
-        {{hash=efb7eac3243b82c61457567f0ab3bf52}{%
-           family={Lorem},
-           familyi={L\bibinitperiod},
-           given={Ipsum\bibnamedelima D},
-           giveni={I\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=ed1f5ff8acf0a007217156af3f4c66e8}{%
-           family={Ipsum},
-           familyi={I\bibinitperiod},
-           given={Dolor\bibnamedelima S},
-           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=4850b3c6fa055449152648ca33375717}{%
-           family={Amet},
+  \datalist[entry]{none/global//global/global}
+    \entry{10782104}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=e14c60f4cbe66d242aeed24f2b9f62ba}{%
+           family={Yeola},
+           familyi={Y\bibinitperiod},
+           given={Atharva},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1490a052bd0048be38d2f9bf0c34d08d}{%
+           family={Adak},
            familyi={A\bibinitperiod},
-           given={Consectetur\bibnamedelima A},
-           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=2ab3a7b76cbd89ae652a5513ad0341f7}{%
-           family={Elit},
-           familyi={E\bibinitperiod},
-           given={Vivamus\bibnamedelima N},
-           giveni={V\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
-        {{hash=33247e83d1dff52e5bdad38f832cbe2a}{%
-           family={Adipiscing},
-           familyi={A\bibinitperiod},
-           given={Elit},
-           giveni={E\bibinitperiod}}}%
-        {{hash=fe899096c186dd31b255a92688a099c4}{%
-           family={Consectetur},
+           given={Chandranath},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c5a657298e376db703fc0a6dea9e6eee}{%
+           family={Chattopadhyay},
            familyi={C\bibinitperiod},
-           given={Adipiscing\bibnamedelima Elit},
-           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+           given={Soumi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=559ccbcbf2976933785826ccb1a76508}{%
+           family={Chanda},
+           familyi={C\bibinitperiod},
+           given={Sukalpa},
+           giveni={S\bibinitperiod}}}%
       }
-      \strng{namehash}{0f601c0369cac0e93040b88a8601e921}
-      \strng{fullhash}{d9aa9b84fb45a310b4426ab4ee29dea2}
-      \strng{bibnamehash}{d9aa9b84fb45a310b4426ab4ee29dea2}
-      \strng{authorbibnamehash}{d9aa9b84fb45a310b4426ab4ee29dea2}
-      \strng{authornamehash}{0f601c0369cac0e93040b88a8601e921}
-      \strng{authorfullhash}{d9aa9b84fb45a310b4426ab4ee29dea2}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \strng{namehash}{0a86558f0c297b5f1c172536394d938e}
+      \strng{fullhash}{ac27292a09b542d2d83cbaae90828b91}
+      \strng{bibnamehash}{ac27292a09b542d2d83cbaae90828b91}
+      \strng{authorbibnamehash}{ac27292a09b542d2d83cbaae90828b91}
+      \strng{authornamehash}{0a86558f0c297b5f1c172536394d938e}
+      \strng{authorfullhash}{ac27292a09b542d2d83cbaae90828b91}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the Lorem Ipsum Dolor Conference}
-      \field{title}{Lorem Ipsum: Dolor Sit Amet Consectetur Adipiscing Elit}
-      \field{year}{2023}
-      \field{pages}{123\bibrangedash 456}
-      \range{pages}{334}
+      \field{booktitle}{2024 IEEE International Conference on Computer Vision and Machine Intelligence (CVMI)}
+      \field{title}{Enhancing Traffic Sign Recognition: A Deep Learning Approach for Occluded Environments}
+      \field{year}{2024}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/CVMI61877.2024.10782104
+      \endverb
+      \keyw{Computer vision;Visualization;Technological innovation;Accuracy;Navigation;Transportation;Transformers;Robustness;Safety;Autonomous vehicles;Autonomous Vehicles;Traffic Signs;Occlusion;Transformer Networks}
+    \endentry
+    \entry{PEARRE201961}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=066583b356808f87a536a35f500e69a9}{%
+           family={Pearre},
+           familyi={P\bibinitperiod},
+           given={Nathaniel\bibnamedelima S.},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=615b54fd6e385c79ccc7e33ad67148cd}{%
+           family={Ribberink},
+           familyi={R\bibinitperiod},
+           given={Hajo},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{3ac21ec0532906746b92e271a5512556}
+      \strng{fullhash}{3ac21ec0532906746b92e271a5512556}
+      \strng{bibnamehash}{3ac21ec0532906746b92e271a5512556}
+      \strng{authorbibnamehash}{3ac21ec0532906746b92e271a5512556}
+      \strng{authornamehash}{3ac21ec0532906746b92e271a5512556}
+      \strng{authorfullhash}{3ac21ec0532906746b92e271a5512556}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1364-0321}
+      \field{journaltitle}{Renewable and Sustainable Energy Reviews}
+      \field{title}{Review of research on V2X technologies, strategies, and operations}
+      \field{volume}{105}
+      \field{year}{2019}
+      \field{pages}{61\bibrangedash 70}
+      \range{pages}{10}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.rser.2019.01.047
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1364032119300516
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1364032119300516
+      \endverb
+    \endentry
+    \entry{avant1986recognition}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=e3817da7e0b98495daa0f5aa1d23d35b}{%
+           family={Avant},
+           familyi={A\bibinitperiod},
+           given={Lloyd\bibnamedelima L},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=833eb9107a54742138e2bd89f713fb17}{%
+           family={Brewer},
+           familyi={B\bibinitperiod},
+           given={Kenneth\bibnamedelima A},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=783ee2be019b5b8f7cc05b913ff32282}{%
+           family={Thieman},
+           familyi={T\bibinitperiod},
+           given={ALICE\bibnamedelima A},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=5857a97d2b795aaf1cbd32a43ce41103}{%
+           family={Woodman},
+           familyi={W\bibinitperiod},
+           given={William\bibnamedelima F},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{32a1522c93a2a92fb6d1e1951f31c59b}
+      \strng{fullhash}{99ced31aa9a690bc23f11ccca69007fc}
+      \strng{bibnamehash}{99ced31aa9a690bc23f11ccca69007fc}
+      \strng{authorbibnamehash}{99ced31aa9a690bc23f11ccca69007fc}
+      \strng{authornamehash}{32a1522c93a2a92fb6d1e1951f31c59b}
+      \strng{authorfullhash}{99ced31aa9a690bc23f11ccca69007fc}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transportation Research Record}
+      \field{title}{Recognition errors among highway signs}
+      \field{volume}{1027}
+      \field{year}{1986}
+      \field{pages}{42\bibrangedash 45}
+      \range{pages}{4}
     \endentry
   \enddatalist
 \endrefsection

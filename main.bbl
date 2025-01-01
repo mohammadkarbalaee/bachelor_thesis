@@ -142,6 +142,161 @@
       \field{pages}{42\bibrangedash 45}
       \range{pages}{4}
     \endentry
+    \entry{8605302}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=d158c91b6b66c5ac40c8369d65f59389}{%
+           family={Tong},
+           familyi={T\bibinitperiod},
+           given={Wang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=cc24335e581ba13356f0e39feeb3b680}{%
+           family={Hussain},
+           familyi={H\bibinitperiod},
+           given={Azhar},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9935c1e5a6098b060ab1cce4e1e3e28a}{%
+           family={Bo},
+           familyi={B\bibinitperiod},
+           given={Wang\bibnamedelima Xi},
+           giveni={W\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+        {{hash=c4f29226f63630488832efc39c0efe7b}{%
+           family={Maharjan},
+           familyi={M\bibinitperiod},
+           given={Sabita},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{5fe1ef35700f44c3b1cc6f8659a847ac}
+      \strng{fullhash}{7ea0926e170f018ef642728eb41bb8bd}
+      \strng{bibnamehash}{7ea0926e170f018ef642728eb41bb8bd}
+      \strng{authorbibnamehash}{7ea0926e170f018ef642728eb41bb8bd}
+      \strng{authornamehash}{5fe1ef35700f44c3b1cc6f8659a847ac}
+      \strng{authorfullhash}{7ea0926e170f018ef642728eb41bb8bd}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{Artificial Intelligence for Vehicle-to-Everything: A Survey}
+      \field{volume}{7}
+      \field{year}{2019}
+      \field{pages}{10823\bibrangedash 10843}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2019.2891073
+      \endverb
+      \keyw{Vehicle-to-everything;Particle swarm optimization;Long Term Evolution;Safety;Vehicular ad hoc networks;Autonomous vehicles;Artificial intelligence;machine learning;VANETs;V2X;predictions;platoon;VEC}
+    \endentry
+    \entry{cite-key}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=8d79c6222bb9da025b2a5bc71caa42c5}{%
+           family={Nayak},
+           familyi={N\bibinitperiod},
+           given={Deepak\bibnamedelima Kumar},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=c07bbc4855699827a8dbce4a4f4fd488}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Anshuman},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1f28f860306599e8e4472c2dd6c682ea}{%
+           family={Reddy},
+           familyi={R\bibinitperiod},
+           given={S.\bibnamedelimi R.\bibnamedelimi Vamsidhar},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=a75e45593e67798015adc97ea4bf4c8b}{%
+           family={Roy},
+           familyi={R\bibinitperiod},
+           given={Sanjay\bibnamedelima Dhar},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=dc790f88dcbbec9cd744c25704b1955a}{%
+           family={Kundu},
+           familyi={K\bibinitperiod},
+           given={Sumit},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{5860be25b4ad99a34630407a4a5a3027}
+      \strng{fullhash}{07f9e05af998c7018bfc6653ad1715b4}
+      \strng{bibnamehash}{07f9e05af998c7018bfc6653ad1715b4}
+      \strng{authorbibnamehash}{07f9e05af998c7018bfc6653ad1715b4}
+      \strng{authornamehash}{5860be25b4ad99a34630407a4a5a3027}
+      \strng{authorfullhash}{07f9e05af998c7018bfc6653ad1715b4}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In the future, intelligent transportation systems will rely heavily on vehicle to vehicle (V2V) communication-based cooperative vehicular networks since they can provide several applications for tackling traffic congestion and road safety. Future 6G and New Radio 5G (NR5G) technology will facilitate improving cellular vehicle to everything (CV2X) communication performance. Cellular-assisted V2V communications, in which cellular evolved Node base stations (eNBs) relay the transmission from one vehicle to another, have lately been proposed to overcome the performance restrictions of conventional dedicated short-range communication (DSRC) protocols (Kimura in IEEE Trans Veh Technol 70(4): 3396--3411, 2021. 10.1109/TVT.2021.3063694). These cellular-aided communications have demonstrated the potential for more reliable V2V communications with a larger capacity and longer transmission distances. In this paper, we theoretically examine the effectiveness of cellular vehicle to everything communications, where a vehicle broadcasts a message to its nearby vehicles or user equipment (UEs). It happens in two ways, i.e., direct vehicle to vehicle and via the closest eNB through an uplink. Then the closest eNB forwards the message to the destination vehicle via downlink i.e., vehicle to network (V2N) or vehicle to infrastructure (V2I). To obtain a suitable model for estimating the Bit Error Rate (BER) and the Packet Error Rate (PER), we consider the movement of three vehicles are in a straight line on the roadways with different velocities. Using numerical examples, we assess the analytical findings and show how different system factors affect the effectiveness of CV2X communications. A simulation has been carried out in the network (system) level context.}
+      \field{isbn}{1572-834X}
+      \field{journaltitle}{Wireless Personal Communications}
+      \field{number}{1}
+      \field{title}{Performance Analysis of NR 5G Cellular Vehicle to Everything Communication in Mode 3}
+      \field{volume}{137}
+      \field{year}{2024}
+      \field{pages}{27\bibrangedash 48}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1007/s11277-024-11295-w
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s11277-024-11295-w
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s11277-024-11295-w
+      \endverb
+      \warn{\item inproceedings entry 'cite-key' (bibtex.bib): Invalid format '2024/07/01' of date field 'date' - ignoring}
+    \endentry
+    \entry{10806826}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=2165d8aad0eb97b3cc5907e400ca9cbf}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Mei\bibnamedelima Ling},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=01087701daf40f375737f1f5f6e35f62}{%
+           family={Ke},
+           familyi={K\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod}}}%
+        {{hash=dea309c9966618b69b003390be28d790}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=e2a6e9c973fe4ccd144fcd76bb8e51d6}{%
+           family={Qin},
+           familyi={Q\bibinitperiod},
+           given={Meng\bibnamedelima Jiao},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a32aa299135d554addb3c38684fc1607}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xiu\bibnamedelima Yin},
+           giveni={X\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=606f6294da5666449e3851433d155758}{%
+           family={Ng},
+           familyi={N\bibinitperiod},
+           given={Derrick\bibnamedelimb Wing\bibnamedelima Kwan},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{b142c6dcb05db8bc3609ff4ba5e97ba5}
+      \strng{fullhash}{03bbd587229645b94446e42f9790735e}
+      \strng{bibnamehash}{03bbd587229645b94446e42f9790735e}
+      \strng{authorbibnamehash}{03bbd587229645b94446e42f9790735e}
+      \strng{authornamehash}{b142c6dcb05db8bc3609ff4ba5e97ba5}
+      \strng{authorfullhash}{03bbd587229645b94446e42f9790735e}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Communications}
+      \field{title}{Joint Communications, Sensing, and MEC for AoI-aware V2I Networks}
+      \field{year}{2024}
+      \field{pages}{1\bibrangedash 1}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1109/TCOMM.2024.3519539
+      \endverb
+      \keyw{Sensors;Energy consumption;Optimization;Minimization;Delays;Costs;Real-time systems;Servers;Particle swarm optimization;Wireless sensor networks;V2I networks;joint communications and sensing;mobile edge computing (MEC);age of information (AoI)}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

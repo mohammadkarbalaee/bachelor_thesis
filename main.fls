@@ -44,6 +44,8 @@ OUTPUT main.pdf
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/cmap/t1.cmap
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/float/float.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/todonotes/todonotes.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/todonotes/todonotes.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
@@ -184,6 +186,9 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/float.hak
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/float.hak
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/float.hak
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/chngcntr/chngcntr.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/chngcntr/chngcntr.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
@@ -626,6 +631,14 @@ OUTPUT content/2_background.aux
 INPUT ./content/2_background.tex
 INPUT ./content/2_background.tex
 INPUT content/2_background.tex
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmr12.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
+INPUT ./images/figure1.png
+INPUT ./images/figure1.png
+INPUT ./images/figure1.png
+INPUT ./images/figure1.png
+INPUT ./images/figure1.png
 INPUT ./content/3_method.tex
 INPUT ./content/3_method.tex
 OUTPUT content/3_method.aux

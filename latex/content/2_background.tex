@@ -55,7 +55,7 @@ cameras and LiDAR, providing an additional layer of environmental awareness \cit
 Despite its potential, V2X faces several challenges. Security and privacy concerns arise from the constant exchange 
 of real-time data, while ensuring seamless interoperability across manufacturers remains a significant hurdle \cite{zEslami}.
 
-A critical subset of V2X communication is the Vehicular Ad Hoc Network (VANET), which enables vehicles to form dynamic,
+A critical subset of V2X communication is the \ac{VANET}, which enables vehicles to form dynamic,
  self-organized communication networks without relying on fixed infrastructure. In VANETs, vehicles act as both transmitters
   and receivers, exchanging information with other vehicles (V2V) and infrastructure (V2I). The decentralized nature of VANET allows for real-time 
   communication, making it essential for time-sensitive applications. However, this decentralized architecture also 
@@ -70,3 +70,31 @@ Conditional privacy means that while others are unable to identify vehicles base
 it should still be possible to trace vehicles if necessary. Furthermore, given the coverage 
 limitations of RSUs and the traffic volume within these areas, data compression becomes a critical
  issue that must be addressed in VANET systems to maintain efficient communication \cite{zEslami}.
+
+ \section{Traffic Sign Recognition (\ac{TSR})}
+
+ Traffic Sign Recognition (TSR) is a critical component of intelligent transportation systems (ITS) and autonomous 
+ vehicle technology. Its primary goal is to identify and interpret traffic signs to aid driver decision-making or to
+  enable autonomous vehicles to navigate roads safely and efficiently. By accurately recognizing signs such as speed 
+  limits, stop signs, and warnings, TSR systems enhance road safety and contribute to the seamless integration of
+   automated driving technologies \cite{Thakur2024}. 
+
+The importance of TSR extends beyond autonomous vehicles. \ac{ADAS} also rely heavily 
+on TSR to provide real-time feedback to human drivers, reducing accidents caused by missed or misinterpreted traffic 
+signs. For instance, TSR systems can alert drivers about an upcoming speed limit change or detect stop signs even in 
+adverse weather conditions \cite{Zhang2022}. 
+
+Developing robust TSR systems poses unique challenges, given the vast diversity of traffic signs worldwide, as well 
+as the influence of environmental factors such as poor lighting, occlusion, and weather-related impairments. As a result, 
+TSR has become a prominent research area in computer vision and machine learning, driving advancements in algorithms and
+ models that strive to match human-level accuracy and reliability \cite{cite-key2}.
+
+ \subsection{Datasets for TSR: The GTSRB Dataset}
+
+ The \ac{GTSRB} dataset has been selected as the primary dataset for this study.
+  Widely recognized in the field of traffic sign recognition, GTSRB serves as a standard benchmark for developing and evaluating
+   machine learning models. Its comprehensive collection of real-world traffic sign images provides the foundation for building
+    robust TSR systems \cite{STALLKAMP2012323}.
+
+
+

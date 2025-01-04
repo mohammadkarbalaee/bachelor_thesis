@@ -429,6 +429,222 @@
       \endverb
       \keyw{VANET,Privacy-preserving,Aggregate signature,Certificateless Cryptography,Forgeability}
     \endentry
+    \entry{Thakur2024}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=62d9013d25ca1ec09a3a205d4b21622b}{%
+           family={Thakur},
+           familyi={T\bibinitperiod},
+           given={D.K.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a3ad3a71da3c224976c4efa26f333c2c}{%
+           family={Gholap},
+           familyi={G\bibinitperiod},
+           given={D.D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f64252591ef48dd27473d027a6e0f7f9}{%
+           family={Kale},
+           familyi={K\bibinitperiod},
+           given={C.T.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=1b7bc50f0e8c27336ea13a9187924b67}{%
+           family={Suryawanshi},
+           familyi={S\bibinitperiod},
+           given={B.D.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{7da4c521269162ee4d89f45e003bea4e}
+      \strng{fullhash}{9d74d07a142e7050912cfc332792e451}
+      \strng{bibnamehash}{9d74d07a142e7050912cfc332792e451}
+      \strng{authorbibnamehash}{9d74d07a142e7050912cfc332792e451}
+      \strng{authornamehash}{7da4c521269162ee4d89f45e003bea4e}
+      \strng{authorfullhash}{9d74d07a142e7050912cfc332792e451}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{TSSM Academic Publications}
+      \field{title}{Automatic Self Driving Car}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://tssm.edu.in/storage/Menus/NAAC/2024/Criteria3/3.3.1/Publ_2024_024.pdf
+      \endverb
+      \verb{url}
+      \verb https://tssm.edu.in/storage/Menus/NAAC/2024/Criteria3/3.3.1/Publ_2024_024.pdf
+      \endverb
+    \endentry
+    \entry{Zhang2022}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=ac94487142bcc73ec00646f41c277977}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jianming},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d234ee6f4b0241ede69febfef0fbb9ed}{%
+           family={Zou},
+           familyi={Z\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=66a23ef9437557f02d6a387311440fc3}{%
+           family={Kuang},
+           familyi={K\bibinitperiod},
+           given={Li-Dan},
+           giveni={L\bibinithyphendelim D\bibinitperiod}}}%
+        {{hash=57cf8531003f9d0c22b8a30358523ffc}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a982d310d44aa7f29ab3a8b3de1959b7}{%
+           family={Sherratt},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi Simon},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=5410d0aff426416143923fd223b4d9c6}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Xiaofeng},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{f114c0102416c1209e4a899bd442dc31}
+      \strng{fullhash}{60367faaf642c2235124ba80a6ddd84b}
+      \strng{bibnamehash}{60367faaf642c2235124ba80a6ddd84b}
+      \strng{authorbibnamehash}{60367faaf642c2235124ba80a6ddd84b}
+      \strng{authornamehash}{f114c0102416c1209e4a899bd442dc31}
+      \strng{authorfullhash}{60367faaf642c2235124ba80a6ddd84b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Human-centric Computing and Information Sciences}
+      \field{number}{23}
+      \field{title}{CCTSDB 2021: A More Comprehensive Traffic Sign Detection Benchmark}
+      \field{volume}{12}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.22967/HCIS.2022.12.023
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.22967/HCIS.2022.12.023
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.22967/HCIS.2022.12.023
+      \endverb
+    \endentry
+    \entry{cite-key2}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=9fc4d397065c9e8086e75063e0600d6a}{%
+           family={Turquet},
+           familyi={T\bibinitperiod},
+           given={Antoine},
+           giveni={A\bibinitperiod}}}%
+        {{hash=354f94e90b61ed6bee9701fef3774ee8}{%
+           family={Wuestefeld},
+           familyi={W\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=39e126a31f2968a08d2c152862772068}{%
+           family={Svendsen},
+           familyi={S\bibinitperiod},
+           given={Guro\bibnamedelima K.},
+           giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=9f53af2e035f5e5e4cdcf61fe7169873}{%
+           family={Nyhammer},
+           familyi={N\bibinitperiod},
+           given={Finn\bibnamedelima K.},
+           giveni={F\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=12c4c464efa29de30028b31c28cdf026}{%
+           family={Nilsen},
+           familyi={N\bibinitperiod},
+           given={Espen\bibnamedelima L.},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=d227084e7aa8c8e1c0af4711d0ddebda}{%
+           family={Persson},
+           familyi={P\bibinitperiod},
+           given={Andreas\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=f1f1a22b98cd345c7d6bcf76dd83ba03}{%
+           family={Refsum},
+           familyi={R\bibinitperiod},
+           given={Vetle},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{e6265223daef230f488788997000b4d3}
+      \strng{fullhash}{0a13beed313d0a034b4ff1d4992ec364}
+      \strng{bibnamehash}{0a13beed313d0a034b4ff1d4992ec364}
+      \strng{authorbibnamehash}{0a13beed313d0a034b4ff1d4992ec364}
+      \strng{authornamehash}{e6265223daef230f488788997000b4d3}
+      \strng{authorfullhash}{0a13beed313d0a034b4ff1d4992ec364}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Avalanches present substantial hazard risk in mountainous regions, particularly when avalanches obstruct roads, either hitting vehicles directly or leaving traffic exposed to subsequent avalanches during cycles. Traditional detection methods often are designed to cover only a limited section of a road stretch, hampering effective risk management. This research introduces a novel approach using Distributed Acoustic Sensing (DAS) for avalanche detection. The monitoring site in Northern Norway is known to be frequently impacted by avalanches. Between 2022--2024, we continuously monitored the road for avalanches blocking the traffic. The automated alert system identifies avalanches affecting the road and estimates accumulated snow. The system provides continuous, real-time monitoring with competitive sensitivity and accuracy over large areas (up to 170 km) and for multiple sites on parallel. DAS powered alert system can work unaffected by visual barriers or adverse weather conditions. The system successfully identified 10 road-impacting avalanches (100{\%} detection rate). Our results via DAS align with the previous works and indicate that low frequency part of the signal (<20 Hz) is crucial for detection and size estimation of avalanche events. Alternative fiber installation methods are evaluated for optimal sensitivity to avalanches. Consequently, this study demonstrates its durability and lower maintenance requirements, especially when compared to the high setup costs and coverage limitations of radar systems, or the weather and lighting vulnerabilities of cameras. Furthermore the system can detect vehicles on the road as important supplemental information for search and rescue operations, and thus the authorities can be alerted, thereby playing a vital role in urgent rescue efforts.}
+      \field{isbn}{2624-795X}
+      \field{journaltitle}{GeoHazards}
+      \field{number}{4}
+      \field{title}{Automated Snow Avalanche Monitoring and Alert System Using Distributed Acoustic Sensing in Norway}
+      \field{volume}{5}
+      \field{year}{2024}
+      \field{pages}{1326\bibrangedash 1345}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.3390/geohazards5040063
+      \endverb
+      \keyw{distributed acoustic sensing; snow avalanche dynamics; automated avalanche detection; hazardous mass movements; natural hazards; signal processing; Norway}
+    \endentry
+    \entry{STALLKAMP2012323}{article}{}
+      \name{author}{4}{}{%
+        {{hash=2a673ec49f66ee36459519886b4e67b0}{%
+           family={Stallkamp},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c5f4bdda5bf4234d425f2e0d2d5d2339}{%
+           family={Schlipsing},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=58242760acf1cad4bd1addab52a32695}{%
+           family={Salmen},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5af89ea0c1300eef8b47f194195321e3}{%
+           family={Igel},
+           familyi={I\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{6dd490a2bc01911e81bbfbaca781fa66}
+      \strng{fullhash}{453bfc86c02b2572bb49ab682e37d464}
+      \strng{bibnamehash}{453bfc86c02b2572bb49ab682e37d464}
+      \strng{authorbibnamehash}{453bfc86c02b2572bb49ab682e37d464}
+      \strng{authornamehash}{6dd490a2bc01911e81bbfbaca781fa66}
+      \strng{authorfullhash}{453bfc86c02b2572bb49ab682e37d464}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Traffic signs are characterized by a wide variability in their visual appearance in real-world environments. For example, changes of illumination, varying weather conditions and partial occlusions impact the perception of road signs. In practice, a large number of different sign classes needs to be recognized with very high accuracy. Traffic signs have been designed to be easily readable for humans, who perform very well at this task. For computer systems, however, classifying traffic signs still seems to pose a challenging pattern recognition problem. Both image processing and machine learning algorithms are continuously refined to improve on this task. But little systematic comparison of such systems exist. What is the status quo? Do today’s algorithms reach human performance? For assessing the performance of state-of-the-art machine learning algorithms, we present a publicly available traffic sign dataset with more than 50,000 images of German road signs in 43 classes. The data was considered in the second stage of the German Traffic Sign Recognition Benchmark held at IJCNN 2011. The results of this competition are reported and the best-performing algorithms are briefly described. Convolutional neural networks (CNNs) showed particularly high classification accuracies in the competition. We measured the performance of human subjects on the same data—and the CNNs outperformed the human test persons.}
+      \field{issn}{0893-6080}
+      \field{journaltitle}{Neural Networks}
+      \field{note}{Selected Papers from IJCNN 2011}
+      \field{title}{Man vs. computer: Benchmarking machine learning algorithms for traffic sign recognition}
+      \field{volume}{32}
+      \field{year}{2012}
+      \field{pages}{323\bibrangedash 332}
+      \range{pages}{10}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.neunet.2012.02.016
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0893608012000457
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0893608012000457
+      \endverb
+      \keyw{Traffic sign recognition,Machine learning,Convolutional neural networks,Benchmarking}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

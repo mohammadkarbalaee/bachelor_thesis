@@ -1,8 +1,8 @@
-PWD /Users/mohammad/Documents/GitHub/bachelor_thesis
+PWD /Users/mohammad/Documents/GitHub/bachelor_thesis/latex
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/mohammad/Documents/GitHub/bachelor_thesis/main.tex
+INPUT /Users/mohammad/Documents/GitHub/bachelor_thesis/latex/main.tex
 OUTPUT main.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrbook.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrbook.cls

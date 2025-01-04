@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.31)  1 JAN 2025 20:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.31)  5 JAN 2025 02:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/mohammad/Documents/GitHub/bachelor_thesis/main.tex
-(/Users/mohammad/Documents/GitHub/bachelor_thesis/main.tex
+**/Users/mohammad/Documents/GitHub/bachelor_thesis/latex/main.tex
+(/Users/mohammad/Documents/GitHub/bachelor_thesis/latex/main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrbook.cls
@@ -1398,6 +1398,8 @@ Overfull \hbox (3.96545pt too wide) detected at line 9
  []\T1/lmr/m/n/12 VIII
  []
 
+Package acronym Info: Label `acro:TSR' newly defined as it shall be overridden
+although it is yet undefined on input line 17.
 )
 \tf@toc=\write6
 \openout6 = `main.toc'.
@@ -1587,7 +1589,7 @@ Package acronym Info: Label `acro:V2P' newly defined as it shall be overridden
 although it is yet undefined on input line 13.
 Package acronym Info: Label `acro:V2C' newly defined as it shall be overridden
 although it is yet undefined on input line 14.
-<images/figure1.png, id=168, 1223.57124pt x 866.23625pt>
+<images/figure1.png, id=189, 1223.57124pt x 866.23625pt>
 File: images/figure1.png Graphic file (type png)
 <use images/figure1.png>
 Package pdftex.def Info: images/figure1.png  used on input line 19.
@@ -1615,7 +1617,19 @@ Package acronym Info: Label `acro:DSRC' newly defined as it shall be overridden
 although it is yet undefined on input line 40.
 Package acronym Info: Label `acro:C-V2X' newly defined as it shall be overridden
 although it is yet undefined on input line 42.
- [2 <./images/figure1.png>]) [3] [4]
+ [2 <./images/figure1.png>]
+Package acronym Info: Label `acro:VANET' newly defined as it shall be overridden
+although it is yet undefined on input line 58.
+ [3]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ac' on input line 74.
+
+Package acronym Info: Label `acro:ADAS' newly defined as it shall be overridden
+although it is yet undefined on input line 82.
+Package acronym Info: Label `acro:GTSRB' newly defined as it shall be overridden
+although it is yet undefined on input line 94.
+) [4] [5]
 \openout2 = `content/3_method.aux'.
 
  (./content/3_method.tex
@@ -1676,7 +1690,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\endgroup' on input line 1.
 
-) [5
+) [6
 
 
 
@@ -1743,7 +1757,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\endgroup' on input line 1.
 
-) [6
+) [7
 
 
 
@@ -1810,7 +1824,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\endgroup' on input line 1.
 
-) [7
+) [8
 
 
 
@@ -1877,7 +1891,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\endgroup' on input line 1.
 
-) [8
+) [9
 
 
 
@@ -1896,15 +1910,15 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6.99997> on input line 40.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 40.
- [9
+ [10
 
 
 
 
-{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}] [10]
+{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}] [11]
 \openout2 = `framework/declaration_of_authorship.aux'.
 
- (./framework/declaration_of_authorship.tex) [11
+ (./framework/declaration_of_authorship.tex) [12
 
 
 
@@ -1920,18 +1934,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 52439 strings out of 474116
- 1185455 string characters out of 5743681
- 2231303 words of memory out of 5000000
- 73814 multiletter control sequences out of 15000+600000
+ 52501 strings out of 474116
+ 1186849 string characters out of 5743681
+ 2231014 words of memory out of 5000000
+ 73861 multiletter control sequences out of 15000+600000
  641729 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 130i,20n,134p,10948b,1699s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 130i,20n,134p,10954b,1697s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmro12.pfb>
-Output written on main.pdf (21 pages, 1560003 bytes).
+Output written on main.pdf (22 pages, 1565835 bytes).
 PDF statistics:
- 364 PDF objects out of 1000 (max. 8388607)
- 319 compressed objects within 4 object streams
- 77 named destinations out of 1000 (max. 500000)
- 219 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 412 PDF objects out of 1000 (max. 8388607)
+ 366 compressed objects within 4 object streams
+ 92 named destinations out of 1000 (max. 500000)
+ 235 words of extra memory for PDF output out of 10000 (max. 10000000)
 

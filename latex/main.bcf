@@ -2376,6 +2376,16 @@
     <bcf:citekey order="13" intorder="1">Zhang2022</bcf:citekey>
     <bcf:citekey order="14" intorder="1">cite-key2</bcf:citekey>
     <bcf:citekey order="15" intorder="1">STALLKAMP2012323</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">10.1109/tits.2012.2209421</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">10.1016/j.neunet.2012.02.023</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">10.3390/a10040127</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">10.18178/wcse.2019.06.020</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">10.18280/isi.250211</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">10.1016/j.neunet.2012.02.023</bcf:citekey>
+    <bcf:citekey order="21" intorder="2">10.1109/icde48307.2020.00079</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">10.1109/aipr50011.2020.9425267</bcf:citekey>
+    <bcf:citekey order="22" intorder="2">10.48550/arxiv.1911.07399</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">10.1109/cvpr42600.2020.00038</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

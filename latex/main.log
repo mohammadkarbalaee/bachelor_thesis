@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.31)  5 JAN 2025 02:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.31)  7 JAN 2025 00:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1164,7 +1164,7 @@ Package csquotes Info: ... none found.
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 15.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (./main.aux (./framework/titlepage.aux) (./content/0_abstract.aux) (./framework/abbreviations.aux) (./content/1_introduction.aux) (./content/2_background.aux) (./content/3_method.aux) (./content/4_result.aux) (./content/5_discussion.aux) (./content/6_conclusion.aux) (./framework/declaration_of_authorship.aux))
+) (./main.aux (./framework/titlepage.aux) (./content/0_abstract.aux) (./framework/abbreviations.aux) (./content/1_introduction.aux) (./content/2_background.aux) (./content/3_method.aux) (./content/4_result.aux) (./content/5_discussion.aux) (./content/6_conclusion.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
@@ -1389,17 +1389,8 @@ File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 
 
 ] (./main.toc
-Overfull \hbox (3.96545pt too wide) detected at line 8
- []\T1/lmr/m/n/12 VIII
- []
-
-
-Overfull \hbox (3.96545pt too wide) detected at line 9
- []\T1/lmr/m/n/12 VIII
- []
-
 Package acronym Info: Label `acro:TSR' newly defined as it shall be overridden
-although it is yet undefined on input line 17.
+although it is yet undefined on input line 16.
 )
 \tf@toc=\write6
 \openout6 = `main.toc'.
@@ -1423,17 +1414,10 @@ although it is yet undefined on input line 17.
  [4
 
 
-] (./main.loa)
-\tf@loa=\write9
-\openout9 = `main.loa'.
-
- [5
-
-
 ]
 \openout2 = `framework/abbreviations.aux'.
 
- (./framework/abbreviations.tex) [6
+ (./framework/abbreviations.tex) [5
 
 
 
@@ -1508,7 +1492,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Package acronym Info: Label `acro:V2X' newly defined as it shall be overridden
 although it is yet undefined on input line 12.
-[7
+[6
 
 
 
@@ -1518,7 +1502,7 @@ although it is yet undefined on input line 12.
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 34.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [8{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]) [9]
+)) [7{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
 \openout2 = `content/2_background.aux'.
 
  (./content/2_background.tex
@@ -1589,7 +1573,7 @@ Package acronym Info: Label `acro:V2P' newly defined as it shall be overridden
 although it is yet undefined on input line 13.
 Package acronym Info: Label `acro:V2C' newly defined as it shall be overridden
 although it is yet undefined on input line 14.
-<images/figure1.png, id=189, 1223.57124pt x 866.23625pt>
+<images/figure1.png, id=182, 1223.57124pt x 866.23625pt>
 File: images/figure1.png Graphic file (type png)
 <use images/figure1.png>
 Package pdftex.def Info: images/figure1.png  used on input line 19.
@@ -1629,7 +1613,15 @@ Package acronym Info: Label `acro:ADAS' newly defined as it shall be overridden
 although it is yet undefined on input line 82.
 Package acronym Info: Label `acro:GTSRB' newly defined as it shall be overridden
 although it is yet undefined on input line 94.
-) [4] [5]
+[4]
+<images/figure2.png, id=231, 1117.17375pt x 666.49pt>
+File: images/figure2.png Graphic file (type png)
+<use images/figure2.png>
+Package pdftex.def Info: images/figure2.png  used on input line 110.
+(pdftex.def)             Requested size: 426.79141pt x 254.61124pt.
+Package acronym Info: Label `acro:CNNs' newly defined as it shall be overridden
+although it is yet undefined on input line 116.
+ [5 <./images/figure2.png>]) [6]
 \openout2 = `content/3_method.aux'.
 
  (./content/3_method.tex
@@ -1690,7 +1682,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\endgroup' on input line 1.
 
-) [6
+) [7
 
 
 
@@ -1757,7 +1749,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\endgroup' on input line 1.
 
-) [7
+) [8
 
 
 
@@ -1824,7 +1816,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\endgroup' on input line 1.
 
-) [8
+) [9
 
 
 
@@ -1891,7 +1883,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\endgroup' on input line 1.
 
-) [9
+) [10
 
 
 
@@ -1910,19 +1902,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6.99997> on input line 40.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 40.
- [10
+ [11
 
 
 
 
-{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}] [11]
-\openout2 = `framework/declaration_of_authorship.aux'.
-
- (./framework/declaration_of_authorship.tex) [12
-
-
-
-] (./main.aux (./framework/titlepage.aux) (./content/0_abstract.aux) (./framework/abbreviations.aux) (./content/1_introduction.aux) (./content/2_background.aux) (./content/3_method.aux) (./content/4_result.aux) (./content/5_discussion.aux) (./content/6_conclusion.aux) (./framework/declaration_of_authorship.aux))
+{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}] [12] [13] (./main.aux (./framework/titlepage.aux) (./content/0_abstract.aux) (./framework/abbreviations.aux) (./content/1_introduction.aux) (./content/2_background.aux) (./content/3_method.aux) (./content/4_result.aux) (./content/5_discussion.aux) (./content/6_conclusion.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -1934,18 +1919,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 52501 strings out of 474116
- 1186849 string characters out of 5743681
- 2231014 words of memory out of 5000000
- 73861 multiletter control sequences out of 15000+600000
+ 52516 strings out of 474116
+ 1187587 string characters out of 5743681
+ 2231313 words of memory out of 5000000
+ 73878 multiletter control sequences out of 15000+600000
  641729 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 130i,20n,134p,10954b,1697s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 130i,20n,134p,10954b,1699s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmro12.pfb>
-Output written on main.pdf (22 pages, 1565835 bytes).
+Output written on main.pdf (21 pages, 7307723 bytes).
 PDF statistics:
- 412 PDF objects out of 1000 (max. 8388607)
- 366 compressed objects within 4 object streams
- 92 named destinations out of 1000 (max. 500000)
- 235 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 437 PDF objects out of 1000 (max. 8388607)
+ 390 compressed objects within 4 object streams
+ 100 named destinations out of 1000 (max. 500000)
+ 224 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -511,6 +511,7 @@
       \strng{authorbibnamehash}{60367faaf642c2235124ba80a6ddd84b}
       \strng{authornamehash}{f114c0102416c1209e4a899bd442dc31}
       \strng{authorfullhash}{60367faaf642c2235124ba80a6ddd84b}
+      \field{extraname}{1}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
@@ -644,6 +645,308 @@
       \verb https://www.sciencedirect.com/science/article/pii/S0893608012000457
       \endverb
       \keyw{Traffic sign recognition,Machine learning,Convolutional neural networks,Benchmarking}
+    \endentry
+    \entry{10.1109/tits.2012.2209421}{article}{}
+      \name{author}{3}{}{%
+        {{hash=75fd4d2eeb9155b655d875878c1ce79a}{%
+           family={Møgelmose},
+           familyi={M\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5d197b5176ff929bae824213006a1e07}{%
+           family={Trivedi},
+           familyi={T\bibinitperiod},
+           given={Mohan\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=13bab869a6231c2e4e4c5a51a8120dbb}{%
+           family={Moeslund},
+           familyi={M\bibinitperiod},
+           given={Thomas\bibnamedelima B.},
+           giveni={T\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{0fe4f1f5c51046f58803dd778984aa1c}
+      \strng{fullhash}{cdc8ff32155ace873b1a367f9726d795}
+      \strng{bibnamehash}{cdc8ff32155ace873b1a367f9726d795}
+      \strng{authorbibnamehash}{cdc8ff32155ace873b1a367f9726d795}
+      \strng{authornamehash}{0fe4f1f5c51046f58803dd778984aa1c}
+      \strng{authorfullhash}{cdc8ff32155ace873b1a367f9726d795}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ieee Transactions on Intelligent Transportation Systems}
+      \field{title}{Vision-Based Traffic Sign Detection and Analysis for Intelligent Driver Assistance Systems: Perspectives and Survey}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.1109/tits.2012.2209421
+      \endverb
+    \endentry
+    \entry{10.1016/j.neunet.2012.02.023}{article}{}
+      \name{author}{4}{}{%
+        {{hash=b44d52b65e72fd8ceb4f0fe71c2d13b5}{%
+           family={Cireşan},
+           familyi={C\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=be71dea014b345d130231579ad7a5115}{%
+           family={Meier},
+           familyi={M\bibinitperiod},
+           given={Ueli},
+           giveni={U\bibinitperiod}}}%
+        {{hash=296aa51baf6b5dce74c13806342b5bbe}{%
+           family={Masci},
+           familyi={M\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2333709f91a1b22edafa71582c31e391}{%
+           family={Schmidhuber},
+           familyi={S\bibinitperiod},
+           given={Juergen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{89c4b3f2bde9562234682a419fde3d91}
+      \strng{fullhash}{dfa5eb066707ee95896898c8c87ac7df}
+      \strng{bibnamehash}{dfa5eb066707ee95896898c8c87ac7df}
+      \strng{authorbibnamehash}{dfa5eb066707ee95896898c8c87ac7df}
+      \strng{authornamehash}{89c4b3f2bde9562234682a419fde3d91}
+      \strng{authorfullhash}{dfa5eb066707ee95896898c8c87ac7df}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neural Networks}
+      \field{title}{Multi-Column Deep Neural Network for Traffic Sign Classification}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.1016/j.neunet.2012.02.023
+      \endverb
+    \endentry
+    \entry{10.3390/a10040127}{article}{}
+      \name{author}{4}{}{%
+        {{hash=ac94487142bcc73ec00646f41c277977}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jianming},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fbfe0351adcb79a6fb8f77069aeb6bc4}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Mei‐Chuan},
+           giveni={M\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=5a10e773b0c5daeacc2678a5203a4f6f}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Xiaokang},
+           giveni={X\bibinitperiod}}}%
+        {{hash=12487718a6678d379872f6a52995bebb}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xudong},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{f114c0102416c1209e4a899bd442dc31}
+      \strng{fullhash}{ff723c04acb9825ea55d9a116528780c}
+      \strng{bibnamehash}{ff723c04acb9825ea55d9a116528780c}
+      \strng{authorbibnamehash}{ff723c04acb9825ea55d9a116528780c}
+      \strng{authornamehash}{f114c0102416c1209e4a899bd442dc31}
+      \strng{authorfullhash}{ff723c04acb9825ea55d9a116528780c}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Algorithms}
+      \field{title}{A Real-Time Chinese Traffic Sign Detection Algorithm Based on Modified YOLOv2}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.3390/a10040127
+      \endverb
+    \endentry
+    \entry{10.18178/wcse.2019.06.020}{article}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{Traffic Sign Recognition Based on Up-Sampling Convolution}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.18178/wcse.2019.06.020
+      \endverb
+    \endentry
+    \entry{10.18280/isi.250211}{article}{}
+      \name{author}{4}{}{%
+        {{hash=262610c078c21a7839e4d485cbf3c560}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Tingmei},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8a8f8aa31f899f8ebd1df74a0f1736c6}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Haiwei},
+           giveni={H\bibinitperiod}}}%
+        {{hash=74cbc34b948c3f8ae9e2f3dbfd3284d5}{%
+           family={Xue},
+           familyi={X\bibinitperiod},
+           given={Yuanjie},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=0037799fce7ffa3aed9ba3334cf2f36b}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Zhengkun},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{b9b2073e1935baf68e5a142e655a58ce}
+      \strng{fullhash}{dd3445d4ca3e79d21bf19280ebe1f3c1}
+      \strng{bibnamehash}{dd3445d4ca3e79d21bf19280ebe1f3c1}
+      \strng{authorbibnamehash}{dd3445d4ca3e79d21bf19280ebe1f3c1}
+      \strng{authornamehash}{b9b2073e1935baf68e5a142e655a58ce}
+      \strng{authorfullhash}{dd3445d4ca3e79d21bf19280ebe1f3c1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ingénierie Des Systèmes D Information}
+      \field{title}{A Traffic Signal Recognition Algorithm Based on Self-Paced Learning and Deep Learning}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.18280/isi.250211
+      \endverb
+    \endentry
+    \entry{10.1109/icde48307.2020.00079}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2444637d3e0834a008113b3beb12f7d1}{%
+           family={Garg},
+           familyi={G\bibinitperiod},
+           given={Yash},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=399bd1c960718df3b308bf5760ad78a7}{%
+           family={Candan},
+           familyi={C\bibinitperiod},
+           given={K.\bibnamedelimi Selçuk},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=b22b9b5cb992dbed6bdf42cb7bf5b6de}{%
+           family={Sapino},
+           familyi={S\bibinitperiod},
+           given={Maria\bibnamedelima Luisa},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{61e9b16fce3e38f66ed6f584b6c87f31}
+      \strng{fullhash}{544a9eabdd1cc2ad22a26d7396a310f8}
+      \strng{bibnamehash}{544a9eabdd1cc2ad22a26d7396a310f8}
+      \strng{authorbibnamehash}{544a9eabdd1cc2ad22a26d7396a310f8}
+      \strng{authornamehash}{61e9b16fce3e38f66ed6f584b6c87f31}
+      \strng{authorfullhash}{544a9eabdd1cc2ad22a26d7396a310f8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{SAN : Scale-Space Attention Networks}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1109/icde48307.2020.00079
+      \endverb
+    \endentry
+    \entry{10.1109/aipr50011.2020.9425267}{article}{}
+      \name{author}{4}{}{%
+        {{hash=01419658868cd27b824232a370754fe8}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={K.\bibnamedelimi Naveen},
+           giveni={K\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=870f7eaa15eb3e652ffb6e6a8463c694}{%
+           family={Chalavadi},
+           familyi={C\bibinitperiod},
+           given={Vishnu},
+           giveni={V\bibinitperiod}}}%
+        {{hash=ea453791f76fde1a0747833b2bdfa9dc}{%
+           family={Mitra},
+           familyi={M\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=54915411a6d649302936da4571544001}{%
+           family={Mohan},
+           familyi={M\bibinitperiod},
+           given={C.\bibnamedelimi Krishna},
+           giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{46c97101bf98abbecfd852a9773f898a}
+      \strng{fullhash}{fd1c91eb1464e02a1c17e3e6345b5d0e}
+      \strng{bibnamehash}{fd1c91eb1464e02a1c17e3e6345b5d0e}
+      \strng{authorbibnamehash}{fd1c91eb1464e02a1c17e3e6345b5d0e}
+      \strng{authornamehash}{46c97101bf98abbecfd852a9773f898a}
+      \strng{authorfullhash}{fd1c91eb1464e02a1c17e3e6345b5d0e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Black-Box Adversarial Attacks in Autonomous Vehicle Technology}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1109/aipr50011.2020.9425267
+      \endverb
+    \endentry
+    \entry{10.48550/arxiv.1911.07399}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b2b4a12d92d99e08819b78bcdb3170a0}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Xijie},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{b2b4a12d92d99e08819b78bcdb3170a0}
+      \strng{fullhash}{b2b4a12d92d99e08819b78bcdb3170a0}
+      \strng{bibnamehash}{b2b4a12d92d99e08819b78bcdb3170a0}
+      \strng{authorbibnamehash}{b2b4a12d92d99e08819b78bcdb3170a0}
+      \strng{authornamehash}{b2b4a12d92d99e08819b78bcdb3170a0}
+      \strng{authorfullhash}{b2b4a12d92d99e08819b78bcdb3170a0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{NeuronInspect: Detecting Backdoors in Neural Networks via Output Explanations}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.48550/arxiv.1911.07399
+      \endverb
+    \endentry
+    \entry{10.1109/cvpr42600.2020.00038}{article}{}
+      \name{author}{4}{}{%
+        {{hash=44020fedcaf68a92e900a015c614deb4}{%
+           family={Kolouri},
+           familyi={K\bibinitperiod},
+           given={Soheil},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4407388da277b330096a51bf433603ae}{%
+           family={Saha},
+           familyi={S\bibinitperiod},
+           given={Aniruddha},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3243eb7133d2c0f3de1d3d53cace9afd}{%
+           family={Pirsiavash},
+           familyi={P\bibinitperiod},
+           given={Hamed},
+           giveni={H\bibinitperiod}}}%
+        {{hash=2e8c932748feda187aa092bcd0e2f785}{%
+           family={Hoffmann},
+           familyi={H\bibinitperiod},
+           given={Herbert},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{648f7df7a9b2ab34e630903e99c3c66a}
+      \strng{fullhash}{fb34d87b55cea77b8e296e3354ef4713}
+      \strng{bibnamehash}{fb34d87b55cea77b8e296e3354ef4713}
+      \strng{authorbibnamehash}{fb34d87b55cea77b8e296e3354ef4713}
+      \strng{authornamehash}{648f7df7a9b2ab34e630903e99c3c66a}
+      \strng{authorfullhash}{fb34d87b55cea77b8e296e3354ef4713}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1109/cvpr42600.2020.00038
+      \endverb
     \endentry
   \enddatalist
 \endrefsection

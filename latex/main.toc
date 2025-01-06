@@ -2,12 +2,11 @@
 \contentsline {chapter}{\nonumberline Contents}{II}{chapter*.3}%
 \contentsline {chapter}{\nonumberline List of Figures}{III}{chapter*.5}%
 \contentsline {chapter}{\nonumberline List of Tables}{IV}{chapter*.6}%
-\contentsline {chapter}{List of Abbreviations}{VI}{chapter*.8}%
-\contentsline {chapter}{\nonumberline Introduction\markboth {Introduction}{}}{VII}{chapter*.9}%
-\contentsline {section}{\numberline {1}Problem Statement}{VII}{section.0.1}%
-\contentsline {section}{\numberline {2}Objectives}{VIII}{section.0.2}%
-\contentsline {section}{\numberline {3}Scope of the Study}{VIII}{section.0.3}%
-\contentsline {section}{\numberline {4}Methodology Overview}{IX}{section.0.4}%
+\contentsline {chapter}{List of Abbreviations}{V}{chapter*.7}%
+\contentsline {chapter}{\nonumberline Introduction\markboth {Introduction}{}}{VI}{chapter*.8}%
+\contentsline {section}{\numberline {1}Problem Statement}{VI}{section.0.1}%
+\contentsline {section}{\numberline {2}Objectives}{VII}{section.0.2}%
+\contentsline {section}{\numberline {3}Scope of the Study}{VII}{section.0.3}%
 \contentsline {chapter}{\numberline {1}Background\markboth {Background}{}}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Vehicle-to-Everything (V2X) Communication}{1}{section.1.1}%
 \contentsline {subsection}{\numberline {1.1.1}Types of V2X Communication}{1}{subsection.1.1.1}%
@@ -16,10 +15,9 @@
 \contentsline {subsection}{\numberline {1.1.4}Security Challenges in V2X Communication}{3}{subsection.1.1.4}%
 \contentsline {section}{\numberline {1.2}Traffic Sign Recognition (\ac {TSR})}{4}{section.1.2}%
 \contentsline {subsection}{\numberline {1.2.1}Datasets for TSR: The GTSRB Dataset}{4}{subsection.1.2.1}%
-\contentsline {chapter}{\numberline {2}Methodology\markboth {Methodology}{}}{6}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Results\markboth {Results}{}}{7}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Discussion\markboth {Discussion}{}}{8}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Conclusions\markboth {Conclusions}{}}{9}{chapter.5}%
-\contentsline {chapter}{\nonumberline Bibliography}{10}{chapter*.25}%
-\contentsline {chapter}{Declaration of authorship}{12}{chapter*.26}%
+\contentsline {chapter}{\numberline {2}Methodology\markboth {Methodology}{}}{7}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Results\markboth {Results}{}}{8}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Discussion\markboth {Discussion}{}}{9}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Conclusions\markboth {Conclusions}{}}{10}{chapter.5}%
+\contentsline {chapter}{\nonumberline Bibliography}{11}{chapter*.26}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

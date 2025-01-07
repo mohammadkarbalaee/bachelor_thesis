@@ -350,6 +350,49 @@
       \endverb
       \warn{\item inproceedings entry 'cite-key1' (bibtex.bib): Invalid format '2024/12/01' of date field 'date' - ignoring}
     \endentry
+    \entry{8690818}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=a19d1b4fa5cd4b5354674e7f5449726f}{%
+           family={Miucic},
+           familyi={M\bibinitperiod},
+           given={Radovan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e9a62ca178bbee7eb2082d25bbd3f099}{%
+           family={Sheikh},
+           familyi={S\bibinitperiod},
+           given={Ashish},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ebbdc5e433d2b28024600399d87936c5}{%
+           family={Medenica},
+           familyi={M\bibinitperiod},
+           given={Zeljko},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=ed3dfaa56764dd0de8f4c97ba0f9af0f}{%
+           family={Kunde},
+           familyi={K\bibinitperiod},
+           given={Raju},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{e7fb8f7ec899501b568740f22bc95f7d}
+      \strng{fullhash}{2522219c0005f4bc360439e7766cd63d}
+      \strng{bibnamehash}{2522219c0005f4bc360439e7766cd63d}
+      \strng{authorbibnamehash}{2522219c0005f4bc360439e7766cd63d}
+      \strng{authornamehash}{e7fb8f7ec899501b568740f22bc95f7d}
+      \strng{authorfullhash}{2522219c0005f4bc360439e7766cd63d}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 IEEE 88th Vehicular Technology Conference (VTC-Fall)}
+      \field{title}{V2X Applications Using Collaborative Perception}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/VTCFall.2018.8690818
+      \endverb
+      \keyw{Vehicle-to-everything;Collaboration;Cameras;Global Positioning System;Safety;Sensors;Acceleration;V2V;V2X;Collaborative Perception;Rebroadcasting;DSRC}
+    \endentry
     \entry{Sidorenko2024}{inproceedings}{}
       \name{author}{1}{}{%
         {{hash=bf668f9d87410fd2e70a10f55f1d743a}{%

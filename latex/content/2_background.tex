@@ -1,5 +1,11 @@
 \chapter{Background\markboth{Background}{}}
 
+This section provides an overview of the foundational concepts and technologies relevant to this research. 
+It discusses V2X communication, its enabling technologies, applications, and associated challenges, 
+as well as TSR as a critical component of intelligent transportation systems. Additionally, 
+it introduces the dataset used for this study, highlighting its significance in training and evaluating machine learning models
+ for traffic sign recognition.
+
 \section{Vehicle-to-Everything (V2X) Communication}
 
 Vehicle-to-Everything (V2X) communication is a groundbreaking technology that enables vehicles to exchange data with
@@ -48,7 +54,13 @@ and intersections. RSUs act as intermediaries between vehicles and the infrastru
 Applications of V2X are vast and transformative. In addition to enhancing safety through 
 collision prevention, V2X optimizes traffic management by reducing congestion and enabling 
 efficient vehicle platooning. For autonomous vehicles, V2X complements onboard sensors like 
-cameras and LiDAR, providing an additional layer of environmental awareness \cite{Sidorenko2024}. 
+cameras and LiDAR, providing an additional layer of environmental awareness \cite{8690818,Sidorenko2024}. 
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.6\textwidth]{images/figure3.png}
+  \caption{Illustration of the collaborative perception concept}
+  \label{fig:fig3}
+\end{figure}
 
 \subsection{Security Challenges in V2X Communication}
 
@@ -107,7 +119,7 @@ TSR has become a prominent research area in computer vision and machine learning
 
         \begin{figure}[H]
           \centering
-          \includegraphics[width=1\textwidth]{images/figure2.png}
+          \includegraphics[width=0.8\textwidth]{images/figure2.png}
           \caption{Representatives of the 43 traffic sign classes in the GTSRB dataset.}
           \label{fig:fig2}
       \end{figure}
@@ -116,8 +128,18 @@ TSR has become a prominent research area in computer vision and machine learning
          particularly \ac{CNNs}, which have demonstrated significant efficacy in recognizing traffic signs 
          \cite{10.3390/a10040127}.
 
-    The GTSRB dataset is particularly notable for its real-world applicability, as it includes images captured under varying conditions, such as different lighting and weather scenarios, which enhances the robustness of the models trained on it \cite{10.18178/wcse.2019.06.020}. The dataset's structure supports both supervised learning and evaluation methodologies, making it an ideal benchmark for comparing the performance of various algorithms and architectures \cite{10.18280/isi.250211}. For instance, researchers have utilized GTSRB to validate innovative approaches, such as multi-column deep neural networks and attention mechanisms, which have shown promising results in improving classification accuracy \cite{10.1016/j.neunet.2012.02.023,10.1109/icde48307.2020.00079}.
+    The GTSRB dataset is particularly notable for its real-world applicability, as it includes images captured under varying
+     conditions, such as different lighting and weather scenarios, which enhances the robustness of the models trained on 
+     it \cite{10.18178/wcse.2019.06.020}. The dataset's structure supports both supervised learning and evaluation methodologies
+     , making it an ideal benchmark for comparing the performance of various algorithms and architectures 
+     \cite{10.18280/isi.250211}. For instance, researchers have utilized GTSRB to validate innovative approaches, such as multi-column deep neural networks and attention mechanisms, which have shown promising results in improving classification accuracy \cite{10.1016/j.neunet.2012.02.023,10.1109/icde48307.2020.00079}.
     
+     \begin{figure}[H]
+      \centering
+      \includegraphics[width=1\textwidth]{images/figure4.png}
+      \caption{Example of a CNN architecture used for TSR}
+      \label{fig:fig4}
+  \end{figure}
     Moreover, the GTSRB dataset has been instrumental in advancing the understanding of adversarial attacks and model robustness in traffic sign recognition systems. Studies have employed GTSRB to evaluate the resilience of CNNs against various forms of adversarial perturbations, highlighting the importance of security in autonomous driving applications \cite{10.1109/aipr50011.2020.9425267,10.48550/arxiv.1911.07399}. The dataset's widespread use in the academic community underscores its significance as a benchmark for both foundational and cutting-edge research in traffic sign recognition \cite{10.1109/cvpr42600.2020.00038}.
     
     In summary, the GTSRB dataset serves as a critical benchmark in the domain of traffic sign recognition, providing a rich resource for training and evaluating machine learning models. Its comprehensive collection of images, diverse classes, and real-world applicability make it an invaluable tool for researchers aiming to enhance the accuracy and reliability of traffic sign recognition systems.

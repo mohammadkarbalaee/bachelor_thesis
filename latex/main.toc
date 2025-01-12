@@ -1,12 +1,9 @@
 \contentsline {chapter}{Abstract}{I}{chapter*.2}%
 \contentsline {chapter}{\nonumberline Contents}{II}{chapter*.3}%
-\contentsline {chapter}{\nonumberline List of Figures}{IV}{chapter*.5}%
-\contentsline {chapter}{\nonumberline List of Tables}{V}{chapter*.6}%
-\contentsline {chapter}{List of Abbreviations}{VI}{chapter*.7}%
-\contentsline {chapter}{\nonumberline Introduction\markboth {Introduction}{}}{VII}{chapter*.8}%
-\contentsline {section}{\numberline {1}Problem Statement}{VII}{section.0.1}%
-\contentsline {section}{\numberline {2}Objectives}{VIII}{section.0.2}%
-\contentsline {section}{\numberline {3}Scope of the Study}{VIII}{section.0.3}%
+\contentsline {chapter}{\nonumberline Introduction\markboth {Introduction}{}}{IV}{chapter*.5}%
+\contentsline {section}{\numberline {1}Problem Statement}{IV}{section.0.1}%
+\contentsline {section}{\numberline {2}Objectives}{V}{section.0.2}%
+\contentsline {section}{\numberline {3}Scope of the Study}{V}{section.0.3}%
 \contentsline {chapter}{\numberline {1}Background\markboth {Background}{}}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Vehicle-to-Everything (V2X) Communication}{1}{section.1.1}%
 \contentsline {subsection}{\numberline {1.1.1}Types of V2X Communication}{1}{subsection.1.1.1}%
@@ -16,17 +13,22 @@
 \contentsline {section}{\numberline {1.2}Traffic Sign Recognition (\ac {TSR})}{4}{section.1.2}%
 \contentsline {subsection}{\numberline {1.2.1}Datasets for TSR: The GTSRB Dataset}{5}{subsection.1.2.1}%
 \contentsline {chapter}{\numberline {2}Methodology\markboth {Methodology}{}}{8}{chapter.2}%
-\contentsline {section}{\numberline {2.1}General intro}{8}{section.2.1}%
-\contentsline {section}{\numberline {2.2}model}{8}{section.2.2}%
-\contentsline {section}{\numberline {2.3}simulation system}{8}{section.2.3}%
-\contentsline {section}{\numberline {2.4}conducted tests}{8}{section.2.4}%
-\contentsline {chapter}{\numberline {3}Results\markboth {Results}{}}{9}{chapter.3}%
-\contentsline {section}{\numberline {3.1}generally what results}{9}{section.3.1}%
-\contentsline {section}{\numberline {3.2}pure test}{9}{section.3.2}%
-\contentsline {section}{\numberline {3.3}brightness test}{9}{section.3.3}%
-\contentsline {section}{\numberline {3.4}motion blur}{9}{section.3.4}%
-\contentsline {section}{\numberline {3.5}angles}{9}{section.3.5}%
-\contentsline {chapter}{\numberline {4}Discussion\markboth {Discussion}{}}{10}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Conclusions\markboth {Conclusions}{}}{11}{chapter.5}%
-\contentsline {chapter}{\nonumberline Bibliography}{12}{chapter*.28}%
+\contentsline {section}{\numberline {2.1}Deep Learning Model Training}{9}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}MobileNetV2}{9}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Pretrained Model Selection}{11}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Dataset Partitioning}{12}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Image Preprocessing and Data Augmentation}{12}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}Fine-Tuning Strategy}{13}{subsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.1.6}Training Configuration}{13}{subsection.2.1.6}%
+\contentsline {section}{\numberline {2.2}simulation system}{13}{section.2.2}%
+\contentsline {section}{\numberline {2.3}conducted tests}{13}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Results\markboth {Results}{}}{14}{chapter.3}%
+\contentsline {section}{\numberline {3.1}generally what results}{14}{section.3.1}%
+\contentsline {section}{\numberline {3.2}pure test}{14}{section.3.2}%
+\contentsline {section}{\numberline {3.3}brightness test}{14}{section.3.3}%
+\contentsline {section}{\numberline {3.4}motion blur}{14}{section.3.4}%
+\contentsline {section}{\numberline {3.5}angles}{14}{section.3.5}%
+\contentsline {chapter}{\numberline {4}Discussion\markboth {Discussion}{}}{15}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Conclusions\markboth {Conclusions}{}}{16}{chapter.5}%
+\contentsline {chapter}{\nonumberline Bibliography}{17}{chapter*.29}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

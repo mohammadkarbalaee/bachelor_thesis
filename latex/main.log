@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.31)  13 JAN 2025 05:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.31)  13 JAN 2025 15:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1800,7 +1800,54 @@ File: images/figure10.png Graphic file (type png)
 <use images/figure10.png>
 Package pdftex.def Info: images/figure10.png  used on input line 146.
 (pdftex.def)             Requested size: 341.43442pt x 186.70837pt.
- [16 <./images/figure10.png>]) [17]
+ [16 <./images/figure10.png>]
+<images/figure11/1.png, id=351, 32.12pt x 33.12375pt>
+File: images/figure11/1.png Graphic file (type png)
+<use images/figure11/1.png>
+Package pdftex.def Info: images/figure11/1.png  used on input line 163.
+(pdftex.def)             Requested size: 106.69785pt x 110.04103pt.
+<images/figure11/3.png, id=352, 147.55125pt x 130.4875pt>
+File: images/figure11/3.png Graphic file (type png)
+<use images/figure11/3.png>
+Package pdftex.def Info: images/figure11/3.png  used on input line 168.
+(pdftex.def)             Requested size: 128.03871pt x 113.23448pt.
+<images/figure11/2.png, id=353, 42.1575pt x 45.16875pt>
+File: images/figure11/2.png Graphic file (type png)
+<use images/figure11/2.png>
+Package pdftex.def Info: images/figure11/2.png  used on input line 173.
+(pdftex.def)             Requested size: 106.69785pt x 114.32205pt.
+<images/figure12/1.png, id=354, 58.2175pt x 59.22125pt>
+File: images/figure12/1.png Graphic file (type png)
+<use images/figure12/1.png>
+Package pdftex.def Info: images/figure12/1.png  used on input line 196.
+(pdftex.def)             Requested size: 106.69785pt x 108.54909pt.
+<images/figure12/2.png, id=355, 105.39375pt x 91.34125pt>
+File: images/figure12/2.png Graphic file (type png)
+<use images/figure12/2.png>
+Package pdftex.def Info: images/figure12/2.png  used on input line 201.
+(pdftex.def)             Requested size: 128.03871pt x 110.96924pt.
+<images/figure12/3.png, id=356, 35.13126pt x 34.1275pt>
+File: images/figure12/3.png Graphic file (type png)
+<use images/figure12/3.png>
+Package pdftex.def Info: images/figure12/3.png  used on input line 206.
+(pdftex.def)             Requested size: 110.96341pt x 107.81145pt.
+ [17 <./images/figure11/1.png (PNG copy)> <./images/figure11/3.png (PNG copy)> <./images/figure11/2.png (PNG copy)>]
+<images/figure13/2.png, id=364, 36.135pt x 38.1425pt>
+File: images/figure13/2.png Graphic file (type png)
+<use images/figure13/2.png>
+Package pdftex.def Info: images/figure13/2.png  used on input line 225.
+(pdftex.def)             Requested size: 136.57637pt x 144.20323pt.
+<images/figure13/1.png, id=365, 60.225pt x 63.23625pt>
+File: images/figure13/1.png Graphic file (type png)
+<use images/figure13/1.png>
+Package pdftex.def Info: images/figure13/1.png  used on input line 230.
+(pdftex.def)             Requested size: 136.57637pt x 143.41881pt.
+<images/figure13/3.png, id=366, 75.28125pt x 76.285pt>
+File: images/figure13/3.png Graphic file (type png)
+<use images/figure13/3.png>
+Package pdftex.def Info: images/figure13/3.png  used on input line 235.
+(pdftex.def)             Requested size: 136.57637pt x 138.42567pt.
+) [18 <./images/figure12/1.png (PNG copy)> <./images/figure12/2.png (PNG copy)> <./images/figure12/3.png (PNG copy)> <./images/figure13/2.png (PNG copy)> <./images/figure13/1.png (PNG copy)> <./images/figure13/3.png (PNG copy)>]
 \openout2 = `content/4_result.aux'.
 
  (./content/4_result.tex
@@ -1861,7 +1908,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\endgroup' on input line 1.
 
-) [18
+) [19
 
 
 
@@ -1928,7 +1975,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\endgroup' on input line 1.
 
-) [19
+) [20
 
 
 
@@ -1995,7 +2042,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\endgroup' on input line 1.
 
-) [20
+) [21
 
 
 
@@ -2014,22 +2061,22 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6.99997> on input line 40.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 40.
- [21
+ [22
 
 
 
 
-{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}] [22]
+{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}] [23]
 Overfull \hbox (8.80382pt too wide) in paragraph at lines 41--41
 []\T1/lmr/m/n/12 P. Perez-Murueta, A. Gómez-Espinosa, C. Cár-de-nas, and M. González-Mendoza.
  []
 
-[23]
+[24]
 Overfull \hbox (4.19809pt too wide) in paragraph at lines 41--41
 []\T1/lmr/m/n/12 M. San-dler, A. Howard, M. Zhu, A. Zh-mogi-nov, and L.[]C. Chen. ^^P  Mo-bileNetV2:
  []
 
-[24] [25] (./main.aux (./framework/titlepage.aux) (./content/0_abstract.aux) (./content/1_introduction.aux) (./content/2_background.aux) (./content/3_method.aux) (./content/4_result.aux) (./content/5_discussion.aux) (./content/6_conclusion.aux))
+[25] [26] (./main.aux (./framework/titlepage.aux) (./content/0_abstract.aux) (./content/1_introduction.aux) (./content/2_background.aux) (./content/3_method.aux) (./content/4_result.aux) (./content/5_discussion.aux) (./content/6_conclusion.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -2041,18 +2088,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 52669 strings out of 474116
- 1192728 string characters out of 5743681
- 2231130 words of memory out of 5000000
- 73992 multiletter control sequences out of 15000+600000
- 641729 words of font info for 92 fonts, out of 8000000 for 9000
+ 52782 strings out of 474116
+ 1195092 string characters out of 5743681
+ 2233070 words of memory out of 5000000
+ 74099 multiletter control sequences out of 15000+600000
+ 647714 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  130i,20n,134p,10954b,1697s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmro12.pfb>
-Output written on main.pdf (31 pages, 10640142 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmro12.pfb>
+Output written on main.pdf (32 pages, 10759098 bytes).
 PDF statistics:
- 634 PDF objects out of 1000 (max. 8388607)
- 560 compressed objects within 6 object streams
- 152 named destinations out of 1000 (max. 500000)
- 411 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 656 PDF objects out of 1000 (max. 8388607)
+ 570 compressed objects within 6 object streams
+ 154 named destinations out of 1000 (max. 500000)
+ 456 words of extra memory for PDF output out of 10000 (max. 10000000)
 

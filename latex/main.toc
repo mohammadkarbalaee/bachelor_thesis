@@ -28,16 +28,15 @@
 \contentsline {section}{\numberline {2.3}Simulating Adverse Conditions}{15}{section.2.3}%
 \contentsline {subsection}{\numberline {2.3.1}Normal (no alterations)}{16}{subsection.2.3.1}%
 \contentsline {subsection}{\numberline {2.3.2}Brightness Variation}{16}{subsection.2.3.2}%
-\contentsline {subsubsection}{\nonumberline Adjustment}{17}{subsubsection*.31}%
 \contentsline {subsection}{\numberline {2.3.3}Motion Blur}{17}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}Angle and Rotation Adjustments}{17}{subsection.2.3.4}%
-\contentsline {chapter}{\numberline {3}Results\markboth {Results}{}}{18}{chapter.3}%
-\contentsline {section}{\numberline {3.1}generally what results}{18}{section.3.1}%
-\contentsline {section}{\numberline {3.2}pure test}{18}{section.3.2}%
-\contentsline {section}{\numberline {3.3}brightness test}{18}{section.3.3}%
-\contentsline {section}{\numberline {3.4}motion blur}{18}{section.3.4}%
-\contentsline {section}{\numberline {3.5}angles}{18}{section.3.5}%
-\contentsline {chapter}{\numberline {4}Discussion\markboth {Discussion}{}}{19}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Conclusions\markboth {Conclusions}{}}{20}{chapter.5}%
-\contentsline {chapter}{\nonumberline Bibliography}{21}{chapter*.32}%
+\contentsline {subsection}{\numberline {2.3.4}Angle and Rotation Adjustments}{18}{subsection.2.3.4}%
+\contentsline {chapter}{\numberline {3}Results\markboth {Results}{}}{19}{chapter.3}%
+\contentsline {section}{\numberline {3.1}generally what results}{19}{section.3.1}%
+\contentsline {section}{\numberline {3.2}pure test}{19}{section.3.2}%
+\contentsline {section}{\numberline {3.3}brightness test}{19}{section.3.3}%
+\contentsline {section}{\numberline {3.4}motion blur}{19}{section.3.4}%
+\contentsline {section}{\numberline {3.5}angles}{19}{section.3.5}%
+\contentsline {chapter}{\numberline {4}Discussion\markboth {Discussion}{}}{20}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Conclusions\markboth {Conclusions}{}}{21}{chapter.5}%
+\contentsline {chapter}{\nonumberline Bibliography}{22}{chapter*.33}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

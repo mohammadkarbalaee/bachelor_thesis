@@ -48,8 +48,8 @@
       \strng{authorbibnamehash}{ac27292a09b542d2d83cbaae90828b91}
       \strng{authornamehash}{0a86558f0c297b5f1c172536394d938e}
       \strng{authorfullhash}{ac27292a09b542d2d83cbaae90828b91}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{2024 IEEE International Conference on Computer Vision and Machine Intelligence (CVMI)}
@@ -81,8 +81,8 @@
       \strng{authorbibnamehash}{3ac21ec0532906746b92e271a5512556}
       \strng{authornamehash}{3ac21ec0532906746b92e271a5512556}
       \strng{authorfullhash}{3ac21ec0532906746b92e271a5512556}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1364-0321}
@@ -131,8 +131,8 @@
       \strng{authorbibnamehash}{99ced31aa9a690bc23f11ccca69007fc}
       \strng{authornamehash}{32a1522c93a2a92fb6d1e1951f31c59b}
       \strng{authorfullhash}{99ced31aa9a690bc23f11ccca69007fc}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Transportation Research Record}
@@ -171,8 +171,8 @@
       \strng{authorbibnamehash}{7ea0926e170f018ef642728eb41bb8bd}
       \strng{authornamehash}{5fe1ef35700f44c3b1cc6f8659a847ac}
       \strng{authorfullhash}{7ea0926e170f018ef642728eb41bb8bd}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Access}
@@ -220,8 +220,8 @@
       \strng{authorbibnamehash}{07f9e05af998c7018bfc6653ad1715b4}
       \strng{authornamehash}{5860be25b4ad99a34630407a4a5a3027}
       \strng{authorfullhash}{07f9e05af998c7018bfc6653ad1715b4}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In the future, intelligent transportation systems will rely heavily on vehicle to vehicle (V2V) communication-based cooperative vehicular networks since they can provide several applications for tackling traffic congestion and road safety. Future 6G and New Radio 5G (NR5G) technology will facilitate improving cellular vehicle to everything (CV2X) communication performance. Cellular-assisted V2V communications, in which cellular evolved Node base stations (eNBs) relay the transmission from one vehicle to another, have lately been proposed to overcome the performance restrictions of conventional dedicated short-range communication (DSRC) protocols (Kimura in IEEE Trans Veh Technol 70(4): 3396--3411, 2021. 10.1109/TVT.2021.3063694). These cellular-aided communications have demonstrated the potential for more reliable V2V communications with a larger capacity and longer transmission distances. In this paper, we theoretically examine the effectiveness of cellular vehicle to everything communications, where a vehicle broadcasts a message to its nearby vehicles or user equipment (UEs). It happens in two ways, i.e., direct vehicle to vehicle and via the closest eNB through an uplink. Then the closest eNB forwards the message to the destination vehicle via downlink i.e., vehicle to network (V2N) or vehicle to infrastructure (V2I). To obtain a suitable model for estimating the Bit Error Rate (BER) and the Packet Error Rate (PER), we consider the movement of three vehicles are in a straight line on the roadways with different velocities. Using numerical examples, we assess the analytical findings and show how different system factors affect the effectiveness of CV2X communications. A simulation has been carried out in the network (system) level context.}
@@ -283,8 +283,8 @@
       \strng{authorbibnamehash}{03bbd587229645b94446e42f9790735e}
       \strng{authornamehash}{b142c6dcb05db8bc3609ff4ba5e97ba5}
       \strng{authorfullhash}{03bbd587229645b94446e42f9790735e}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Transactions on Communications}
@@ -326,8 +326,8 @@
       \strng{authorbibnamehash}{38610a34e59a74cae00b8afd0003c3a9}
       \strng{authornamehash}{9de4140b8125245879e05f525d6e21b3}
       \strng{authorfullhash}{38610a34e59a74cae00b8afd0003c3a9}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Cellular vehicle-to-everything (C-V2X) is a promising area for research in wireless communication as it provides an improved performance for safe connectivity of autonomous vehicles over half duplex (HD) Direct Short Range Communication (DSRC) in terms of range, reliability and infrastructure cost. In this work, full duplex (FD) communication for Base Stations (BSs) over shared channels is presented for the first time in C-V2X networks. Three modes, Mode A, B and C have been defined based on autonomous, cellular HD and cellular FD communication. Network model has been built by plotting vehicles, pedestrians and traffic infrastructure according to Cox Process while BSs have been distributed according to 2-D Poisson Point Process (PPP) in a circular region. Mathematical model for success probability of FD communication over BSs in C-V2X networks using nearest neighbor criterion has been developed and same is compared with HD communication. Analytical results have also been compared with system model using Monte Carlo simulations. For the very first time, we have shown that success probability of FD is comparable with that of HD communication in terms of signal to interference noise ratio (SINR) ranging from −40dB to 60dB, with less than 10{\%} degradation in the range from −15dB to 10dB, which is minimal. Other network characteristics like intensities of vehicles, roads and BSs have also shown minimal degradation (less than 10{\%}) in performance of FD as compared to HD for C-V2X network. Effect of imperfect self interference cancellation (SIC) for different values has also been presented to highlight significance of achieving perfect SIC for FD in C-V2X networks.}
@@ -379,8 +379,8 @@
       \strng{authorbibnamehash}{2522219c0005f4bc360439e7766cd63d}
       \strng{authornamehash}{e7fb8f7ec899501b568740f22bc95f7d}
       \strng{authorfullhash}{2522219c0005f4bc360439e7766cd63d}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{2018 IEEE 88th Vehicular Technology Conference (VTC-Fall)}
@@ -413,8 +413,8 @@
       \strng{authorbibnamehash}{bf668f9d87410fd2e70a10f55f1d743a}
       \strng{authornamehash}{bf668f9d87410fd2e70a10f55f1d743a}
       \strng{authorfullhash}{bf668f9d87410fd2e70a10f55f1d743a}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Cooperative Automated Driving for Enhanced Safety and Ethical Decision-Making}
@@ -448,8 +448,8 @@
       \strng{authorbibnamehash}{953d6f6a9ed94e082af980fecb10bac7}
       \strng{authornamehash}{953d6f6a9ed94e082af980fecb10bac7}
       \strng{authorfullhash}{953d6f6a9ed94e082af980fecb10bac7}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A key component of intelligent transportation systems is the so-called Vehicular Ad-hoc Network (VANET). These networks refer to a set of smart vehicles which provide communication services on the road using wireless technologies. In addition to enhancing road safety, VANETs can contribute to vehicle and driver’s security. Therefore, the research in this area is heavily centered around important security and privacy issues, in particular authentication of the messages exchanged while reducing communication overhead. In order to provide a solution to this problem, Zhong et al. recently proposed an efficient privacy-preserving authentication scheme for VANETs based on certificateless aggregate signatures. In their scheme, the length of the aggregated signature is fixed and does not depend on the number of input signatures. The goal of our paper is to show that the scheme of Zhong et al. fails to provide the required authentication for VANETs. We prove that it is easily possible to forge the signature of a vehicle on an arbitrary message after observing only one pair of (message, signature) signed by the target vehicle. We further propose an improvement over Zhong et al.’s scheme that overcomes the mentioned drawback and therefore provides the required authenticity in VANETs.}
@@ -806,8 +806,8 @@
       \endverb
     \endentry
     \entry{10.18178/wcse.2019.06.020}{article}{}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{title}{Traffic Sign Recognition Based on Up-Sampling Convolution}
       \field{year}{2019}
@@ -1180,8 +1180,8 @@
       \strng{authorbibnamehash}{dd2f581c3d15aab33632e8748b9f6f30}
       \strng{authornamehash}{d62f626c7ab60e7f33233e1bebbf3556}
       \strng{authorfullhash}{dd2f581c3d15aab33632e8748b9f6f30}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Applied Sciences}
@@ -1512,8 +1512,8 @@
       \strng{authorbibnamehash}{946ca9ac9f0d764c9a53558ad947c700}
       \strng{authornamehash}{946ca9ac9f0d764c9a53558ad947c700}
       \strng{authorfullhash}{946ca9ac9f0d764c9a53558ad947c700}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Advanced Computer Science and Applications}

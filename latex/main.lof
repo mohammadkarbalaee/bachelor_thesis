@@ -1,0 +1,16 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces An overview of V2X scenario}}{2}{figure.caption.15}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Illustration of the collaborative perception concept}}{3}{figure.caption.21}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Representatives of the 43 traffic sign classes in the GTSRB dataset.}}{6}{figure.caption.25}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Example of a CNN architecture used for TSR}}{7}{figure.caption.27}%
+\contentsline {figure}{\numberline {1}{\ignorespaces The difference between residual block and inverted residual.}}{9}{figure.caption.28}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Evolution of separable convolution blocks}}{10}{figure.caption.29}%
+\contentsline {figure}{\numberline {3}{\ignorespaces MobileNetV2 network architecture \blx@tocontentsinit {0}\cite {10.1109/ojemb.2021.3066097}.}}{10}{figure.caption.30}%
+\contentsline {figure}{\numberline {4}{\ignorespaces MobileNetV2 layers.}}{11}{figure.caption.31}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Different luminosity and light coverage on different vehicles.}}{16}{figure.caption.32}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Different luminosity and light coverage at random.}}{17}{figure.caption.33}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Simulation of different motion blur intensities on vehicle perception.}}{18}{figure.caption.34}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Simulation of various rotation angles affecting object recognition.}}{18}{figure.caption.35}%
+\contentsline {figure}{\numberline {1}{\ignorespaces Precision-Recall Curve for 43 Classes}}{20}{figure.caption.36}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Calibration Curve showing the relationship between predicted probabilities and the fraction of positives.}}{22}{figure.caption.45}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Confusion Matrix.}}{24}{figure.caption.54}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

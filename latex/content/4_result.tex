@@ -4,6 +4,51 @@ This section provides a detailed report of the results obtained from the trained
 
 \section{Model's Performance}
 The following sections offer a comprehensive report on the performance of the trained model. This includes results from multiple assessment methods and performance metrics. Key visualizations, such as the Calibration Curve, which illustrates the relationship between predicted probabilities and actual outcomes, and the Confusion Matrix, which details the model's classification accuracy across all classes, are presented. These results provide a clear and organized summary of the model's performance, which will be further evaluated and discussed in later sections.
+
+\subsection{Precision-Recall Curve}
+
+The Precision-Recall (PR) curve is a valuable tool for evaluating the performance of classification models, especially in the context of imbalanced datasets. This report analyzes the provided PR curve for a multi-class classification model tasked with traffic sign recognition across 43 distinct classes. The objective is to assess the model's precision and recall balance, identify strengths and weaknesses, and suggest improvements.
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{images/figure16.png}
+    \caption{Precision-Recall Curve for 43 Classes}
+    \label{fig:pr_curve}
+\end{figure}
+
+\subsubsection{Axes Interpretation}
+\begin{itemize}
+    \item \textbf{Recall (X-axis):} Proportion of actual positives correctly identified.
+    \item \textbf{Precision (Y-axis):} Proportion of predicted positives that are correct.
+\end{itemize}
+
+\subsubsection{Performance Overview}
+
+The model's performance varies across different classes as indicated by the Average Precision (AP) scores:
+
+\begin{itemize}
+    \item \textbf{High-Performing Classes:} Classes with \textbf{AP = 1.00}, such as Classes 0, 1, 2, 7, 9, 11, 12, 13, 15, 16, 18, 23, 24, 29, 31, and 41, show excellent precision and recall.
+    \item \textbf{Moderately Performing Classes:} Classes with AP between \textbf{0.88 and 0.99}, such as Classes 3 (0.95), 10 (0.91), 21 (0.90), and 26 (0.96), indicate good but not perfect performance.
+    \item \textbf{Low-Performing Classes:} Notably, Classes 19 (0.63), 20 (0.71), 35 (0.42), 37 (0.67), and 39 (0.68) exhibit poor classification accuracy, reflecting areas for improvement.
+\end{itemize}
+
+\subsubsection{Observations}
+
+\begin{itemize}
+    \item Most PR curves cluster near the top-right corner, signaling strong precision and recall for many classes.
+    \item Classes with lower AP values show dispersed PR curves, indicating inconsistent performance.
+    \item Class 35 stands out with a significantly low AP of 0.42, suggesting challenges in correctly identifying this class.
+\end{itemize}
+
+\subsubsection{Potential Causes of Poor Performance}
+
+\begin{itemize}
+    \item \textbf{Class Imbalance:} Some classes may have fewer training samples, leading to inadequate model learning.
+    \item \textbf{Visual Similarity:} Similar traffic signs might be causing misclassifications between certain classes.
+    \item \textbf{Environmental Distortions:} Motion blur, rotation, and varying lighting conditions could degrade performance.
+\end{itemize}
+
 \subsection{Calibration Curve}
 
 The calibration curve provides insights into how well the model's predicted probabilities align with the actual outcomes. This analysis is crucial for understanding whether the model's confidence in its predictions is justified.

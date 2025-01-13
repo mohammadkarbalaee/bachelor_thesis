@@ -70,11 +70,92 @@ To adapt MobileNetV2 for traffic sign recognition, the final classification laye
 
 The model was trained over 10 epochs with a batch size of 16, utilizing the Adam optimizer with a learning rate of 0.001. Cross-entropy loss was employed as the objective function to handle the multi-class classification task. A validation split of 20\% within the training set enabled continuous performance monitoring and adjustment during training. These hyperparameters were chosen to provide an optimal trade-off between model convergence speed and generalization performance, ensuring efficient and stable learning across the dataset.
 
-\section{simulation system}
-\section{conducted tests}
+\section{VANET Simulation}
 
+This VANET (Vehicular Ad-Hoc Network) simulation models how vehicles dynamically communicate with one another in a decentralized network. Each vehicle operates as a node capable of transmitting and receiving information within a specific communication range. This setup mirrors real-world vehicle-to-vehicle (V2V) communication used in intelligent transportation systems to improve traffic safety and efficiency.
 
+\subsection{Network Interface Structure}
+\begin{itemize}
+    \item \textbf{Transmission:} Each vehicle is equipped with a \textit{Network Interface} that allows it to broadcast messages (such as alerts or detected hazards) to nearby vehicles. Transmission is limited by a \textit{communication range}, ensuring that only vehicles within proximity receive the information.
+    \item \textbf{Reception Queue:} Vehicles maintain a \textit{reception queue} where incoming messages are stored. This queue ensures that vehicles can process multiple messages in an orderly fashion.
+    \item \textbf{Processing Messages:} Vehicles periodically check their reception queue and act upon the received information, allowing them to adapt to traffic conditions or hazards.
+    \item \textbf{Distance Calculation:} A key feature is the simulation of distance on a \textit{looped or circular road}, where the shortest path between vehicles is calculated, even if they are near the start and end of the road. This ensures continuous communication without boundary disruptions.
+\end{itemize}
 
+\subsection{Vehicle Initialization and Communication}
+\begin{itemize}
+    \item \textbf{Unique Vehicle IDs:} Each vehicle is assigned a unique identifier, distinguishing it within the network.
+    \item \textbf{Vehicle Positioning:} Vehicles are placed at specific positions along a simulated road, which is critical for calculating communication ranges and message dissemination.
+    \item \textbf{Dynamic Interaction:} As the simulation progresses, vehicles move and continually check for nearby vehicles to send or receive messages, simulating real-world traffic flow.
+\end{itemize}
+
+\subsection{Simulation Flow}
+\begin{enumerate}
+    \item Vehicles broadcast messages to nearby vehicles within their communication range.
+    \item Vehicles receive and store incoming messages in their reception queue.
+    \item Vehicles process messages to make decisions or pass the information along.
+    \item The simulation repeats these steps over multiple iterations, reflecting continuous vehicle interaction.
+\end{enumerate}
+
+\subsection{Communication Efficiency}
+\begin{itemize}
+    \item The simulation evaluates how effectively vehicles can transmit and receive data in dynamic traffic conditions.
+    \item By simulating road constraints (looped roads) and communication ranges, it models real-world challenges in VANET systems.
+\end{itemize}
+
+\section{Simulating Adverse Conditions}
+
+The primary goal of training the model and developing the VANET simulation system was to evaluate its performance under various conditions and assess its resilience.
+
+For each condition, two sets of tests were conducted:
+
+\begin{enumerate}
+    \item \textbf{Independent Vehicle Test:} A single vehicle operated without any connection or communication with other vehicles, relying solely on its own recognition capabilities.
+    
+    \item \textbf{VANET System Test:} The same conditions were applied, but this time vehicles communicated and shared information. Predictions were made collaboratively through a consensus mechanism, allowing vehicles to collectively interpret traffic signs.
+\end{enumerate}
+
+The environmental conditions used for testing were:
+
+\begin{enumerate}
+    \item Normal (no alterations)
+    \item Brightness variation
+    \item Motion blur
+    \item Angle and rotation adjustments
+\end{enumerate}
+
+\subsection{Normal (no alterations)}
+
+To initiate the tests and simulations, both the system and the standalone vehicle were evaluated using the original dataset
+ without any modifications or simulated conditions. This was a standard test conducted on the dataset's test set. Regardless
+  of being part of the VANET system or operating independently, all vehicles utilized the same model to generate predictions
+   on the identical dataset.
+
+\subsection{Brightness Variation}
+
+Considering that vehicles are equipped with headlights of varying intensities, producing different levels 
+of brightness and illuminating varying distances ahead, we assumed that this could lead to differences in 
+recognition performance. Each vehicle, having a unique set of headlights, may perceive and interpret its 
+surroundings differently under such conditions. 
+
+Additionally, environmental lighting plays a significant role, as vehicles may be positioned at varying distances 
+from streetlights, resulting in different visibility conditions for each vehicle.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{images/figure10.png}
+    \caption{Different luminosity and light coverage on different vehicles.}
+    \label{fig:fig9}
+  \end{figure}
+
+  \subsubsection{Adjustment}
+
+  explain how the heck you did that. 
+  randomness and the image processing side of it. 
+
+\subsection{Motion Blur}
+
+\subsection{Angle and Rotation Adjustments}
 
 
 

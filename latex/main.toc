@@ -40,6 +40,6 @@
 \contentsline {subsection}{\numberline {3.1.2}Confusion Matrix}{21}{subsection.3.1.2}%
 \contentsline {section}{\numberline {3.2}Tests}{23}{section.3.2}%
 \contentsline {chapter}{\numberline {4}Discussion\markboth {Discussion}{}}{24}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Conclusions\markboth {Conclusions}{}}{25}{chapter.5}%
-\contentsline {chapter}{\nonumberline Bibliography}{26}{chapter*.44}%
+\contentsline {chapter}{\numberline {5}Conclusions\markboth {Conclusions}{}}{26}{chapter.5}%
+\contentsline {chapter}{\nonumberline Bibliography}{27}{chapter*.44}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

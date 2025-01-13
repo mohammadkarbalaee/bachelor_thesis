@@ -1,8 +1,17 @@
 \chapter{Discussion\markboth{Discussion}{}}
 
-say that based on what you achieved 
-in some scenarios the system works better than single recognition
+The results of the conducted tests underscore the significant impact of integrating traffic sign recognition within a Vehicular Ad-hoc Network (VANET), contingent upon varying situational contexts. This study aimed to evaluate how this integration could enhance vehicular communication and overall road safety by facilitating more reliable and accurate traffic sign detection.
 
-draw some charts 
-some tables
-how they differ. 
+Under optimal conditions—such as scenarios with high-resolution images and without any data interference or distortion—the VANET-based system did not present a distinct advantage over the standalone traffic sign recognition model. Both systems performed equivalently, indicating that in controlled environments where external factors are minimized, the addition of VANET does not yield measurable improvements.
+
+However, in more dynamic and realistic driving conditions where variability among vehicles is a critical factor, the VANET system demonstrated a pronounced advantage. These conditions may include discrepancies in sensor calibration, diverse lighting and weather environments, varying vehicle speeds, and differences in computational resources across vehicles. In such complex and unpredictable scenarios, the collaborative nature of VANET proved to be instrumental in improving detection accuracy and system reliability.
+
+This performance boost is primarily attributed to the system's ability to enable real-time data sharing and consensus-based decision-making among multiple vehicles. Through the proposed consensus and communication mechanism, vehicles collectively analyze and interpret traffic sign information. This cooperative strategy mitigates individual errors, reduces false positives and negatives, and allows for faster and more accurate recognition of traffic signs. For example, if one vehicle experiences sensor obstruction or misinterpretation due to environmental interference, other vehicles in the network can compensate by providing corroborative data.
+
+Moreover, the VANET system enhances resilience against data anomalies and potential cyber threats by distributing the decision-making process across multiple nodes. This decentralized approach not only improves fault tolerance but also strengthens the system's resistance to malicious attacks aimed at compromising individual vehicles' perception systems.
+
+The findings from this study emphasize the practical benefits of deploying VANET-integrated traffic sign recognition in real-world applications. The collective intelligence and communication fostered by this network significantly contribute to safer and more efficient driving experiences. By enabling vehicles to share and validate critical traffic information, the VANET system facilitates proactive responses to road conditions, reduces the likelihood of accidents, and optimizes traffic flow.
+
+Future research should focus on further enhancing the communication protocols within VANETs to handle high-density traffic scenarios and ensuring scalability for widespread deployment. Additionally, exploring the integration of advanced machine learning algorithms and sensor fusion techniques could further improve the robustness and adaptability of the system across diverse driving environments.
+
+In conclusion, while standalone traffic sign recognition systems perform adequately under ideal conditions, their integration within a VANET framework offers substantial advantages in more variable and challenging environments. The cooperative recognition and decision-making processes enabled by VANET significantly improve the reliability, accuracy, and safety of traffic sign detection, underscoring the value of collaborative vehicular communication systems in modern transportation networks.

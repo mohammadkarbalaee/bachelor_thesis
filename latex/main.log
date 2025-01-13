@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.31)  13 JAN 2025 17:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.31)  13 JAN 2025 18:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2018,13 +2018,13 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\endgroup' on input line 1.
 
-) [24
+[24
 
 
 
 
 
-]
+]) [25]
 \openout2 = `content/6_conclusion.aux'.
 
  (./content/6_conclusion.tex
@@ -2085,7 +2085,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\endgroup' on input line 1.
 
-) [25
+) [26
 
 
 
@@ -2104,22 +2104,22 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6.99997> on input line 40.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 40.
- [26
+ [27
 
 
 
 
-{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}] [27]
+{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}] [28]
 Overfull \hbox (8.80382pt too wide) in paragraph at lines 41--41
 []\T1/lmr/m/n/12 P. Perez-Murueta, A. Gómez-Espinosa, C. Cár-de-nas, and M. González-Mendoza.
  []
 
-[28]
+[29]
 Overfull \hbox (4.19809pt too wide) in paragraph at lines 41--41
 []\T1/lmr/m/n/12 M. San-dler, A. Howard, M. Zhu, A. Zh-mogi-nov, and L.[]C. Chen. ^^P  Mo-bileNetV2:
  []
 
-[29] [30] (./main.aux (./framework/titlepage.aux) (./content/0_abstract.aux) (./content/1_introduction.aux) (./content/2_background.aux) (./content/3_method.aux) (./content/4_result.aux) (./content/5_discussion.aux) (./content/6_conclusion.aux))
+[30] [31] (./main.aux (./framework/titlepage.aux) (./content/0_abstract.aux) (./content/1_introduction.aux) (./content/2_background.aux) (./content/3_method.aux) (./content/4_result.aux) (./content/5_discussion.aux) (./content/6_conclusion.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -2131,18 +2131,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 53671 strings out of 474116
- 1211797 string characters out of 5743681
+ 53672 strings out of 474116
+ 1211804 string characters out of 5743681
  2246754 words of memory out of 5000000
  74954 multiletter control sequences out of 15000+600000
  647714 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  130i,20n,134p,10954b,1699s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmro12.pfb>
-Output written on main.pdf (36 pages, 10887746 bytes).
+Output written on main.pdf (37 pages, 10891013 bytes).
 PDF statistics:
- 684 PDF objects out of 1000 (max. 8388607)
- 590 compressed objects within 6 object streams
- 168 named destinations out of 1000 (max. 500000)
+ 692 PDF objects out of 1000 (max. 8388607)
+ 597 compressed objects within 6 object streams
+ 169 named destinations out of 1000 (max. 500000)
  458 words of extra memory for PDF output out of 10000 (max. 10000000)
 

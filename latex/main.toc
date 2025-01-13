@@ -31,12 +31,15 @@
 \contentsline {subsection}{\numberline {2.3.3}Motion Blur}{17}{subsection.2.3.3}%
 \contentsline {subsection}{\numberline {2.3.4}Angle and Rotation Adjustments}{18}{subsection.2.3.4}%
 \contentsline {chapter}{\numberline {3}Results\markboth {Results}{}}{19}{chapter.3}%
-\contentsline {section}{\numberline {3.1}generally what results}{19}{section.3.1}%
-\contentsline {section}{\numberline {3.2}pure test}{19}{section.3.2}%
-\contentsline {section}{\numberline {3.3}brightness test}{19}{section.3.3}%
-\contentsline {section}{\numberline {3.4}motion blur}{19}{section.3.4}%
-\contentsline {section}{\numberline {3.5}angles}{19}{section.3.5}%
-\contentsline {chapter}{\numberline {4}Discussion\markboth {Discussion}{}}{20}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Conclusions\markboth {Conclusions}{}}{21}{chapter.5}%
-\contentsline {chapter}{\nonumberline Bibliography}{22}{chapter*.33}%
+\contentsline {section}{\numberline {3.1}Model's Performance}{19}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Calibration Curve}{19}{subsection.3.1.1}%
+\contentsline {subsubsection}{\nonumberline Below the Diagonal (Underconfidence)}{20}{subsubsection*.35}%
+\contentsline {subsubsection}{\nonumberline Near the Diagonal (Well-Calibrated)}{20}{subsubsection*.37}%
+\contentsline {subsubsection}{\nonumberline Above the Diagonal (Overconfidence)}{20}{subsubsection*.39}%
+\contentsline {subsubsection}{\nonumberline Sharp Rise at 1.0}{21}{subsubsection*.41}%
+\contentsline {subsection}{\numberline {3.1.2}Confusion Matrix}{21}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Tests}{23}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Discussion\markboth {Discussion}{}}{24}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Conclusions\markboth {Conclusions}{}}{25}{chapter.5}%
+\contentsline {chapter}{\nonumberline Bibliography}{26}{chapter*.44}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

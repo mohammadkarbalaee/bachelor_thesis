@@ -350,6 +350,49 @@
       \endverb
       \warn{\item inproceedings entry 'cite-key1' (bibtex.bib): Invalid format '2024/12/01' of date field 'date' - ignoring}
     \endentry
+    \entry{8690818}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=a19d1b4fa5cd4b5354674e7f5449726f}{%
+           family={Miucic},
+           familyi={M\bibinitperiod},
+           given={Radovan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e9a62ca178bbee7eb2082d25bbd3f099}{%
+           family={Sheikh},
+           familyi={S\bibinitperiod},
+           given={Ashish},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ebbdc5e433d2b28024600399d87936c5}{%
+           family={Medenica},
+           familyi={M\bibinitperiod},
+           given={Zeljko},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=ed3dfaa56764dd0de8f4c97ba0f9af0f}{%
+           family={Kunde},
+           familyi={K\bibinitperiod},
+           given={Raju},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{e7fb8f7ec899501b568740f22bc95f7d}
+      \strng{fullhash}{2522219c0005f4bc360439e7766cd63d}
+      \strng{bibnamehash}{2522219c0005f4bc360439e7766cd63d}
+      \strng{authorbibnamehash}{2522219c0005f4bc360439e7766cd63d}
+      \strng{authornamehash}{e7fb8f7ec899501b568740f22bc95f7d}
+      \strng{authorfullhash}{2522219c0005f4bc360439e7766cd63d}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 IEEE 88th Vehicular Technology Conference (VTC-Fall)}
+      \field{title}{V2X Applications Using Collaborative Perception}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/VTCFall.2018.8690818
+      \endverb
+      \keyw{Vehicle-to-everything;Collaboration;Cameras;Global Positioning System;Safety;Sensors;Acceleration;V2V;V2X;Collaborative Perception;Rebroadcasting;DSRC}
+    \endentry
     \entry{Sidorenko2024}{inproceedings}{}
       \name{author}{1}{}{%
         {{hash=bf668f9d87410fd2e70a10f55f1d743a}{%
@@ -511,6 +554,7 @@
       \strng{authorbibnamehash}{60367faaf642c2235124ba80a6ddd84b}
       \strng{authornamehash}{f114c0102416c1209e4a899bd442dc31}
       \strng{authorfullhash}{60367faaf642c2235124ba80a6ddd84b}
+      \field{extraname}{1}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
@@ -530,7 +574,7 @@
       \verb https://doi.org/10.22967/HCIS.2022.12.023
       \endverb
     \endentry
-    \entry{geohazards5040063}{inproceedings}{}
+    \entry{cite-key2}{inproceedings}{}
       \name{author}{7}{}{%
         {{hash=9fc4d397065c9e8086e75063e0600d6a}{%
            family={Turquet},
@@ -547,21 +591,21 @@
            familyi={S\bibinitperiod},
            given={Guro\bibnamedelima K.},
            giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=27f546561a9ccfb22610f672c20be878}{%
+        {{hash=9f53af2e035f5e5e4cdcf61fe7169873}{%
            family={Nyhammer},
            familyi={N\bibinitperiod},
-           given={Finn\bibnamedelima Kåre},
+           given={Finn\bibnamedelima K.},
            giveni={F\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=97a5fcbe1f7e40632c377707c189d6b4}{%
+        {{hash=12c4c464efa29de30028b31c28cdf026}{%
            family={Nilsen},
            familyi={N\bibinitperiod},
-           given={Espen\bibnamedelima Lauvlund},
+           given={Espen\bibnamedelima L.},
            giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=b9b7f7fa0506a1ce217ebf3f0eac26f1}{%
+        {{hash=d227084e7aa8c8e1c0af4711d0ddebda}{%
            family={Persson},
            familyi={P\bibinitperiod},
-           given={Andreas\bibnamedelima Per-Ola},
-           giveni={A\bibinitperiod\bibinitdelim P\bibinithyphendelim O\bibinitperiod}}}%
+           given={Andreas\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
         {{hash=f1f1a22b98cd345c7d6bcf76dd83ba03}{%
            family={Refsum},
            familyi={R\bibinitperiod},
@@ -569,17 +613,17 @@
            giveni={V\bibinitperiod}}}%
       }
       \strng{namehash}{e6265223daef230f488788997000b4d3}
-      \strng{fullhash}{857a517c30f76b3bd86254f7ae9dd968}
-      \strng{bibnamehash}{857a517c30f76b3bd86254f7ae9dd968}
-      \strng{authorbibnamehash}{857a517c30f76b3bd86254f7ae9dd968}
+      \strng{fullhash}{0a13beed313d0a034b4ff1d4992ec364}
+      \strng{bibnamehash}{0a13beed313d0a034b4ff1d4992ec364}
+      \strng{authorbibnamehash}{0a13beed313d0a034b4ff1d4992ec364}
       \strng{authornamehash}{e6265223daef230f488788997000b4d3}
-      \strng{authorfullhash}{857a517c30f76b3bd86254f7ae9dd968}
+      \strng{authorfullhash}{0a13beed313d0a034b4ff1d4992ec364}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Avalanches present substantial hazard risk in mountainous regions, particularly when avalanches obstruct roads, either hitting vehicles directly or leaving traffic exposed to subsequent avalanches during cycles. Traditional detection methods often are designed to cover only a limited section of a road stretch, hampering effective risk management. This research introduces a novel approach using Distributed Acoustic Sensing (DAS) for avalanche detection. The monitoring site in Northern Norway is known to be frequently impacted by avalanches. Between 2022–2024, we continuously monitored the road for avalanches blocking the traffic. The automated alert system identifies avalanches affecting the road and estimates accumulated snow. The system provides continuous, real-time monitoring with competitive sensitivity and accuracy over large areas (up to 170 km) and for multiple sites on parallel. DAS powered alert system can work unaffected by visual barriers or adverse weather conditions. The system successfully identified 10 road-impacting avalanches (100% detection rate). Our results via DAS align with the previous works and indicate that low frequency part of the signal (<20 Hz) is crucial for detection and size estimation of avalanche events. Alternative fiber installation methods are evaluated for optimal sensitivity to avalanches. Consequently, this study demonstrates its durability and lower maintenance requirements, especially when compared to the high setup costs and coverage limitations of radar systems, or the weather and lighting vulnerabilities of cameras. Furthermore the system can detect vehicles on the road as important supplemental information for search and rescue operations, and thus the authorities can be alerted, thereby playing a vital role in urgent rescue efforts.}
-      \field{issn}{2624-795X}
+      \field{abstract}{Avalanches present substantial hazard risk in mountainous regions, particularly when avalanches obstruct roads, either hitting vehicles directly or leaving traffic exposed to subsequent avalanches during cycles. Traditional detection methods often are designed to cover only a limited section of a road stretch, hampering effective risk management. This research introduces a novel approach using Distributed Acoustic Sensing (DAS) for avalanche detection. The monitoring site in Northern Norway is known to be frequently impacted by avalanches. Between 2022--2024, we continuously monitored the road for avalanches blocking the traffic. The automated alert system identifies avalanches affecting the road and estimates accumulated snow. The system provides continuous, real-time monitoring with competitive sensitivity and accuracy over large areas (up to 170 km) and for multiple sites on parallel. DAS powered alert system can work unaffected by visual barriers or adverse weather conditions. The system successfully identified 10 road-impacting avalanches (100{\%} detection rate). Our results via DAS align with the previous works and indicate that low frequency part of the signal (<20 Hz) is crucial for detection and size estimation of avalanche events. Alternative fiber installation methods are evaluated for optimal sensitivity to avalanches. Consequently, this study demonstrates its durability and lower maintenance requirements, especially when compared to the high setup costs and coverage limitations of radar systems, or the weather and lighting vulnerabilities of cameras. Furthermore the system can detect vehicles on the road as important supplemental information for search and rescue operations, and thus the authorities can be alerted, thereby playing a vital role in urgent rescue efforts.}
+      \field{isbn}{2624-795X}
       \field{journaltitle}{GeoHazards}
       \field{number}{4}
       \field{title}{Automated Snow Avalanche Monitoring and Alert System Using Distributed Acoustic Sensing in Norway}
@@ -590,11 +634,1046 @@
       \verb{doi}
       \verb 10.3390/geohazards5040063
       \endverb
+      \keyw{distributed acoustic sensing; snow avalanche dynamics; automated avalanche detection; hazardous mass movements; natural hazards; signal processing; Norway}
+    \endentry
+    \entry{STALLKAMP2012323}{article}{}
+      \name{author}{4}{}{%
+        {{hash=2a673ec49f66ee36459519886b4e67b0}{%
+           family={Stallkamp},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c5f4bdda5bf4234d425f2e0d2d5d2339}{%
+           family={Schlipsing},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=58242760acf1cad4bd1addab52a32695}{%
+           family={Salmen},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5af89ea0c1300eef8b47f194195321e3}{%
+           family={Igel},
+           familyi={I\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{6dd490a2bc01911e81bbfbaca781fa66}
+      \strng{fullhash}{453bfc86c02b2572bb49ab682e37d464}
+      \strng{bibnamehash}{453bfc86c02b2572bb49ab682e37d464}
+      \strng{authorbibnamehash}{453bfc86c02b2572bb49ab682e37d464}
+      \strng{authornamehash}{6dd490a2bc01911e81bbfbaca781fa66}
+      \strng{authorfullhash}{453bfc86c02b2572bb49ab682e37d464}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Traffic signs are characterized by a wide variability in their visual appearance in real-world environments. For example, changes of illumination, varying weather conditions and partial occlusions impact the perception of road signs. In practice, a large number of different sign classes needs to be recognized with very high accuracy. Traffic signs have been designed to be easily readable for humans, who perform very well at this task. For computer systems, however, classifying traffic signs still seems to pose a challenging pattern recognition problem. Both image processing and machine learning algorithms are continuously refined to improve on this task. But little systematic comparison of such systems exist. What is the status quo? Do today’s algorithms reach human performance? For assessing the performance of state-of-the-art machine learning algorithms, we present a publicly available traffic sign dataset with more than 50,000 images of German road signs in 43 classes. The data was considered in the second stage of the German Traffic Sign Recognition Benchmark held at IJCNN 2011. The results of this competition are reported and the best-performing algorithms are briefly described. Convolutional neural networks (CNNs) showed particularly high classification accuracies in the competition. We measured the performance of human subjects on the same data—and the CNNs outperformed the human test persons.}
+      \field{issn}{0893-6080}
+      \field{journaltitle}{Neural Networks}
+      \field{note}{Selected Papers from IJCNN 2011}
+      \field{title}{Man vs. computer: Benchmarking machine learning algorithms for traffic sign recognition}
+      \field{volume}{32}
+      \field{year}{2012}
+      \field{pages}{323\bibrangedash 332}
+      \range{pages}{10}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.neunet.2012.02.016
+      \endverb
       \verb{urlraw}
-      \verb https://www.mdpi.com/2624-795X/5/4/63
+      \verb https://www.sciencedirect.com/science/article/pii/S0893608012000457
       \endverb
       \verb{url}
-      \verb https://www.mdpi.com/2624-795X/5/4/63
+      \verb https://www.sciencedirect.com/science/article/pii/S0893608012000457
+      \endverb
+      \keyw{Traffic sign recognition,Machine learning,Convolutional neural networks,Benchmarking}
+    \endentry
+    \entry{10.1109/tits.2012.2209421}{article}{}
+      \name{author}{3}{}{%
+        {{hash=75fd4d2eeb9155b655d875878c1ce79a}{%
+           family={Møgelmose},
+           familyi={M\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5d197b5176ff929bae824213006a1e07}{%
+           family={Trivedi},
+           familyi={T\bibinitperiod},
+           given={Mohan\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=13bab869a6231c2e4e4c5a51a8120dbb}{%
+           family={Moeslund},
+           familyi={M\bibinitperiod},
+           given={Thomas\bibnamedelima B.},
+           giveni={T\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{0fe4f1f5c51046f58803dd778984aa1c}
+      \strng{fullhash}{cdc8ff32155ace873b1a367f9726d795}
+      \strng{bibnamehash}{cdc8ff32155ace873b1a367f9726d795}
+      \strng{authorbibnamehash}{cdc8ff32155ace873b1a367f9726d795}
+      \strng{authornamehash}{0fe4f1f5c51046f58803dd778984aa1c}
+      \strng{authorfullhash}{cdc8ff32155ace873b1a367f9726d795}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ieee Transactions on Intelligent Transportation Systems}
+      \field{title}{Vision-Based Traffic Sign Detection and Analysis for Intelligent Driver Assistance Systems: Perspectives and Survey}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.1109/tits.2012.2209421
+      \endverb
+    \endentry
+    \entry{10.1016/j.neunet.2012.02.023}{article}{}
+      \name{author}{4}{}{%
+        {{hash=b44d52b65e72fd8ceb4f0fe71c2d13b5}{%
+           family={Cireşan},
+           familyi={C\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=be71dea014b345d130231579ad7a5115}{%
+           family={Meier},
+           familyi={M\bibinitperiod},
+           given={Ueli},
+           giveni={U\bibinitperiod}}}%
+        {{hash=296aa51baf6b5dce74c13806342b5bbe}{%
+           family={Masci},
+           familyi={M\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2333709f91a1b22edafa71582c31e391}{%
+           family={Schmidhuber},
+           familyi={S\bibinitperiod},
+           given={Juergen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{89c4b3f2bde9562234682a419fde3d91}
+      \strng{fullhash}{dfa5eb066707ee95896898c8c87ac7df}
+      \strng{bibnamehash}{dfa5eb066707ee95896898c8c87ac7df}
+      \strng{authorbibnamehash}{dfa5eb066707ee95896898c8c87ac7df}
+      \strng{authornamehash}{89c4b3f2bde9562234682a419fde3d91}
+      \strng{authorfullhash}{dfa5eb066707ee95896898c8c87ac7df}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neural Networks}
+      \field{title}{Multi-Column Deep Neural Network for Traffic Sign Classification}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.1016/j.neunet.2012.02.023
+      \endverb
+    \endentry
+    \entry{10.3390/a10040127}{article}{}
+      \name{author}{4}{}{%
+        {{hash=ac94487142bcc73ec00646f41c277977}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jianming},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fbfe0351adcb79a6fb8f77069aeb6bc4}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Mei‐Chuan},
+           giveni={M\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=5a10e773b0c5daeacc2678a5203a4f6f}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Xiaokang},
+           giveni={X\bibinitperiod}}}%
+        {{hash=12487718a6678d379872f6a52995bebb}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xudong},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{f114c0102416c1209e4a899bd442dc31}
+      \strng{fullhash}{ff723c04acb9825ea55d9a116528780c}
+      \strng{bibnamehash}{ff723c04acb9825ea55d9a116528780c}
+      \strng{authorbibnamehash}{ff723c04acb9825ea55d9a116528780c}
+      \strng{authornamehash}{f114c0102416c1209e4a899bd442dc31}
+      \strng{authorfullhash}{ff723c04acb9825ea55d9a116528780c}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Algorithms}
+      \field{title}{A Real-Time Chinese Traffic Sign Detection Algorithm Based on Modified YOLOv2}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.3390/a10040127
+      \endverb
+    \endentry
+    \entry{10.18178/wcse.2019.06.020}{article}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{Traffic Sign Recognition Based on Up-Sampling Convolution}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.18178/wcse.2019.06.020
+      \endverb
+    \endentry
+    \entry{10.18280/isi.250211}{article}{}
+      \name{author}{4}{}{%
+        {{hash=262610c078c21a7839e4d485cbf3c560}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Tingmei},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8a8f8aa31f899f8ebd1df74a0f1736c6}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Haiwei},
+           giveni={H\bibinitperiod}}}%
+        {{hash=74cbc34b948c3f8ae9e2f3dbfd3284d5}{%
+           family={Xue},
+           familyi={X\bibinitperiod},
+           given={Yuanjie},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=0037799fce7ffa3aed9ba3334cf2f36b}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Zhengkun},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{b9b2073e1935baf68e5a142e655a58ce}
+      \strng{fullhash}{dd3445d4ca3e79d21bf19280ebe1f3c1}
+      \strng{bibnamehash}{dd3445d4ca3e79d21bf19280ebe1f3c1}
+      \strng{authorbibnamehash}{dd3445d4ca3e79d21bf19280ebe1f3c1}
+      \strng{authornamehash}{b9b2073e1935baf68e5a142e655a58ce}
+      \strng{authorfullhash}{dd3445d4ca3e79d21bf19280ebe1f3c1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ingénierie Des Systèmes D Information}
+      \field{title}{A Traffic Signal Recognition Algorithm Based on Self-Paced Learning and Deep Learning}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.18280/isi.250211
+      \endverb
+    \endentry
+    \entry{10.1109/icde48307.2020.00079}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2444637d3e0834a008113b3beb12f7d1}{%
+           family={Garg},
+           familyi={G\bibinitperiod},
+           given={Yash},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=399bd1c960718df3b308bf5760ad78a7}{%
+           family={Candan},
+           familyi={C\bibinitperiod},
+           given={K.\bibnamedelimi Selçuk},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=b22b9b5cb992dbed6bdf42cb7bf5b6de}{%
+           family={Sapino},
+           familyi={S\bibinitperiod},
+           given={Maria\bibnamedelima Luisa},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{61e9b16fce3e38f66ed6f584b6c87f31}
+      \strng{fullhash}{544a9eabdd1cc2ad22a26d7396a310f8}
+      \strng{bibnamehash}{544a9eabdd1cc2ad22a26d7396a310f8}
+      \strng{authorbibnamehash}{544a9eabdd1cc2ad22a26d7396a310f8}
+      \strng{authornamehash}{61e9b16fce3e38f66ed6f584b6c87f31}
+      \strng{authorfullhash}{544a9eabdd1cc2ad22a26d7396a310f8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{SAN : Scale-Space Attention Networks}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1109/icde48307.2020.00079
+      \endverb
+    \endentry
+    \entry{10.1109/aipr50011.2020.9425267}{article}{}
+      \name{author}{4}{}{%
+        {{hash=01419658868cd27b824232a370754fe8}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={K.\bibnamedelimi Naveen},
+           giveni={K\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=870f7eaa15eb3e652ffb6e6a8463c694}{%
+           family={Chalavadi},
+           familyi={C\bibinitperiod},
+           given={Vishnu},
+           giveni={V\bibinitperiod}}}%
+        {{hash=ea453791f76fde1a0747833b2bdfa9dc}{%
+           family={Mitra},
+           familyi={M\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=54915411a6d649302936da4571544001}{%
+           family={Mohan},
+           familyi={M\bibinitperiod},
+           given={C.\bibnamedelimi Krishna},
+           giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{46c97101bf98abbecfd852a9773f898a}
+      \strng{fullhash}{fd1c91eb1464e02a1c17e3e6345b5d0e}
+      \strng{bibnamehash}{fd1c91eb1464e02a1c17e3e6345b5d0e}
+      \strng{authorbibnamehash}{fd1c91eb1464e02a1c17e3e6345b5d0e}
+      \strng{authornamehash}{46c97101bf98abbecfd852a9773f898a}
+      \strng{authorfullhash}{fd1c91eb1464e02a1c17e3e6345b5d0e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Black-Box Adversarial Attacks in Autonomous Vehicle Technology}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1109/aipr50011.2020.9425267
+      \endverb
+    \endentry
+    \entry{10.48550/arxiv.1911.07399}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b2b4a12d92d99e08819b78bcdb3170a0}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Xijie},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{b2b4a12d92d99e08819b78bcdb3170a0}
+      \strng{fullhash}{b2b4a12d92d99e08819b78bcdb3170a0}
+      \strng{bibnamehash}{b2b4a12d92d99e08819b78bcdb3170a0}
+      \strng{authorbibnamehash}{b2b4a12d92d99e08819b78bcdb3170a0}
+      \strng{authornamehash}{b2b4a12d92d99e08819b78bcdb3170a0}
+      \strng{authorfullhash}{b2b4a12d92d99e08819b78bcdb3170a0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{NeuronInspect: Detecting Backdoors in Neural Networks via Output Explanations}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.48550/arxiv.1911.07399
+      \endverb
+    \endentry
+    \entry{10.1109/cvpr42600.2020.00038}{article}{}
+      \name{author}{4}{}{%
+        {{hash=44020fedcaf68a92e900a015c614deb4}{%
+           family={Kolouri},
+           familyi={K\bibinitperiod},
+           given={Soheil},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4407388da277b330096a51bf433603ae}{%
+           family={Saha},
+           familyi={S\bibinitperiod},
+           given={Aniruddha},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3243eb7133d2c0f3de1d3d53cace9afd}{%
+           family={Pirsiavash},
+           familyi={P\bibinitperiod},
+           given={Hamed},
+           giveni={H\bibinitperiod}}}%
+        {{hash=2e8c932748feda187aa092bcd0e2f785}{%
+           family={Hoffmann},
+           familyi={H\bibinitperiod},
+           given={Herbert},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{648f7df7a9b2ab34e630903e99c3c66a}
+      \strng{fullhash}{fb34d87b55cea77b8e296e3354ef4713}
+      \strng{bibnamehash}{fb34d87b55cea77b8e296e3354ef4713}
+      \strng{authorbibnamehash}{fb34d87b55cea77b8e296e3354ef4713}
+      \strng{authornamehash}{648f7df7a9b2ab34e630903e99c3c66a}
+      \strng{authorfullhash}{fb34d87b55cea77b8e296e3354ef4713}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1109/cvpr42600.2020.00038
+      \endverb
+    \endentry
+    \entry{10.1109/tits.2019.2913588}{article}{}
+      \name{author}{2}{}{%
+        {{hash=63936f6f5b993ea114406afc4c7f835f}{%
+           family={Tabernik},
+           familyi={T\bibinitperiod},
+           given={Domen},
+           giveni={D\bibinitperiod}}}%
+        {{hash=e2d71d8ab48fd39658dfd93636494494}{%
+           family={Skočaj},
+           familyi={S\bibinitperiod},
+           given={Danijel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{22a4df2ec0ca3ced10b54cf3709fedf2}
+      \strng{fullhash}{22a4df2ec0ca3ced10b54cf3709fedf2}
+      \strng{bibnamehash}{22a4df2ec0ca3ced10b54cf3709fedf2}
+      \strng{authorbibnamehash}{22a4df2ec0ca3ced10b54cf3709fedf2}
+      \strng{authornamehash}{22a4df2ec0ca3ced10b54cf3709fedf2}
+      \strng{authorfullhash}{22a4df2ec0ca3ced10b54cf3709fedf2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ieee Transactions on Intelligent Transportation Systems}
+      \field{title}{Deep Learning for Large-Scale Traffic-Sign Detection and Recognition}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1109/tits.2019.2913588
+      \endverb
+    \endentry
+    \entry{10.22214/ijraset.2022.40672}{article}{}
+      \name{author}{3}{}{%
+        {{hash=afd525a227c9ab2997e91b95dee0e030}{%
+           family={Hashim},
+           familyi={H\bibinitperiod},
+           given={Rabia},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ec6982c25c03987d49a8295dd3ec3104}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Ravinder\bibnamedelima Pal},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=6f260d93ffbc2fad3fdb4e4fd896302c}{%
+           family={Mehra},
+           familyi={M\bibinitperiod},
+           given={Monika},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b2cdbe9843342265642a3e6aec30e8c0}
+      \strng{fullhash}{fcf66128783cfd867fd8548c41708ae0}
+      \strng{bibnamehash}{fcf66128783cfd867fd8548c41708ae0}
+      \strng{authorbibnamehash}{fcf66128783cfd867fd8548c41708ae0}
+      \strng{authornamehash}{b2cdbe9843342265642a3e6aec30e8c0}
+      \strng{authorfullhash}{fcf66128783cfd867fd8548c41708ae0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal for Research in Applied Science and Engineering Technology}
+      \field{title}{Road Sign Detection System Using Neural Networks and Tensor Flow}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.22214/ijraset.2022.40672
+      \endverb
+    \endentry
+    \entry{10.1002/cpe.7979}{article}{}
+      \name{author}{1}{}{%
+        {{hash=929964e6b6100bcd8488110ec5c90262}{%
+           family={Priyadharshini},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{929964e6b6100bcd8488110ec5c90262}
+      \strng{fullhash}{929964e6b6100bcd8488110ec5c90262}
+      \strng{bibnamehash}{929964e6b6100bcd8488110ec5c90262}
+      \strng{authorbibnamehash}{929964e6b6100bcd8488110ec5c90262}
+      \strng{authornamehash}{929964e6b6100bcd8488110ec5c90262}
+      \strng{authorfullhash}{929964e6b6100bcd8488110ec5c90262}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Concurrency and Computation Practice and Experience}
+      \field{title}{An Efficient Key Agreement and Anonymous Privacy Preserving Scheme for Vehicular Ad‐hoc Networks With Handover Authentication}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1002/cpe.7979
+      \endverb
+    \endentry
+    \entry{10.1109/access.2022.3144112}{article}{}
+      \name{author}{2}{}{%
+        {{hash=30648108f9c1a577b2165b37535701d6}{%
+           family={Sepasgozar},
+           familyi={S\bibinitperiod},
+           given={Sanaz\bibnamedelima Shaker},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=2e92adc26def6f495dbe6361569625c0}{%
+           family={Pierre},
+           familyi={P\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{d50c628f02669d6b5dd1549db456fcfb}
+      \strng{fullhash}{d50c628f02669d6b5dd1549db456fcfb}
+      \strng{bibnamehash}{d50c628f02669d6b5dd1549db456fcfb}
+      \strng{authorbibnamehash}{d50c628f02669d6b5dd1549db456fcfb}
+      \strng{authornamehash}{d50c628f02669d6b5dd1549db456fcfb}
+      \strng{authorfullhash}{d50c628f02669d6b5dd1549db456fcfb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ieee Access}
+      \field{title}{Network Traffic Prediction Model Considering Road Traffic Parameters Using Artificial Intelligence Methods in VANET}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.1109/access.2022.3144112
+      \endverb
+    \endentry
+    \entry{10.32604/cmc.2019.03581}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a4f1db50ce07b8d5024ad00d3a26c9a5}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=ecb879430019ae288e9d47ab2ed4988c}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Hui},
+           giveni={H\bibinitperiod}}}%
+        {{hash=2de27d5f9f33712df2862197178d44ba}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xiaorui},
+           giveni={X\bibinitperiod}}}%
+        {{hash=6bc83ae65626741dbb1131b51f24c280}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Xiaozheng},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{467672cf195df5730f470d1806796ee2}
+      \strng{fullhash}{abfa6231de571b66e14cf2c065fcc798}
+      \strng{bibnamehash}{abfa6231de571b66e14cf2c065fcc798}
+      \strng{authorbibnamehash}{abfa6231de571b66e14cf2c065fcc798}
+      \strng{authornamehash}{467672cf195df5730f470d1806796ee2}
+      \strng{authorfullhash}{abfa6231de571b66e14cf2c065fcc798}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers Materials \& Continua}
+      \field{title}{Traffic Sign Recognition Method Integrating Multi-Layer Features and Kernel Extreme Learning Machine Classifier}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.32604/cmc.2019.03581
+      \endverb
+    \endentry
+    \entry{10.3390/app9132717}{article}{}
+      \name{author}{4}{}{%
+        {{hash=6282735a50f6f4470cab364b95853d1c}{%
+           family={Perez-Murueta},
+           familyi={P\bibinithyphendelim M\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod}}}%
+        {{hash=2fee832863552d26f123a9d00a291190}{%
+           family={Gómez-Espinosa},
+           familyi={G\bibinithyphendelim E\bibinitperiod},
+           given={Alfonso},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9050270d1d4cfcd49081942d491e6e5a}{%
+           family={Cárdenas},
+           familyi={C\bibinitperiod},
+           given={César},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e52a3b56a20f4750fb29168155767c9b}{%
+           family={González-Mendoza},
+           familyi={G\bibinithyphendelim M\bibinitperiod},
+           given={Miguel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{d62f626c7ab60e7f33233e1bebbf3556}
+      \strng{fullhash}{dd2f581c3d15aab33632e8748b9f6f30}
+      \strng{bibnamehash}{dd2f581c3d15aab33632e8748b9f6f30}
+      \strng{authorbibnamehash}{dd2f581c3d15aab33632e8748b9f6f30}
+      \strng{authornamehash}{d62f626c7ab60e7f33233e1bebbf3556}
+      \strng{authorfullhash}{dd2f581c3d15aab33632e8748b9f6f30}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Sciences}
+      \field{title}{Deep Learning System for Vehicular Re-Routing and Congestion Avoidance}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.3390/app9132717
+      \endverb
+    \endentry
+    \entry{10.1371/journal.pone.0283121}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c66a82aca3e9460f6f752a1c7693b1eb}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Maleika\bibnamedelima Heenaye-Mamode},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=2078987fc56a0b01c1c8d76115a82b02}{%
+           family={Makoonlall},
+           familyi={M\bibinitperiod},
+           given={Anjana},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e85ffafa7c55ec5a3af1d58776f49f3a}{%
+           family={Nazurally},
+           familyi={N\bibinitperiod},
+           given={Nadeem},
+           giveni={N\bibinitperiod}}}%
+        {{hash=41a50dae2af8c89d163ed404a3d17c4c}{%
+           family={Mungloo-Dilmohamud},
+           familyi={M\bibinithyphendelim D\bibinitperiod},
+           given={Zahra},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{5273ab1290a9d85f8f7532c39589e84a}
+      \strng{fullhash}{1fafb3b5aaf3f5e5d51230de9187dc02}
+      \strng{bibnamehash}{1fafb3b5aaf3f5e5d51230de9187dc02}
+      \strng{authorbibnamehash}{1fafb3b5aaf3f5e5d51230de9187dc02}
+      \strng{authornamehash}{5273ab1290a9d85f8f7532c39589e84a}
+      \strng{authorfullhash}{1fafb3b5aaf3f5e5d51230de9187dc02}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Plos One}
+      \field{title}{Identification of Crown of Thorns Starfish (COTS) Using Convolutional Neural Network (CNN) and Attention Model}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0283121
+      \endverb
+    \endentry
+    \entry{10.1109/cvpr.2018.00474}{article}{}
+      \name{author}{5}{}{%
+        {{hash=8f90fd131c2bbfde4d0e9fdd7ed4ea8b}{%
+           family={Sandler},
+           familyi={S\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=315c4166fc1f7cb66324a7f0d82827cd}{%
+           family={Howard},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d767e8e4d733bcf728bcdf2c193462f7}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Menglong},
+           giveni={M\bibinitperiod}}}%
+        {{hash=48f4090a93cf9f445057a9d6defe7973}{%
+           family={Zhmoginov},
+           familyi={Z\bibinitperiod},
+           given={Andrey},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9dddfcfd529634a150ee38ee5c0203d7}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Liang-Chieh},
+           giveni={L\bibinithyphendelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{70179dd377b16c4cfcc0748ef0bd028a}
+      \strng{fullhash}{8d58d04315a5e1c06300772330b235d7}
+      \strng{bibnamehash}{8d58d04315a5e1c06300772330b235d7}
+      \strng{authorbibnamehash}{8d58d04315a5e1c06300772330b235d7}
+      \strng{authornamehash}{70179dd377b16c4cfcc0748ef0bd028a}
+      \strng{authorfullhash}{8d58d04315a5e1c06300772330b235d7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MobileNetV2: Inverted Residuals and Linear Bottlenecks}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1109/cvpr.2018.00474
+      \endverb
+    \endentry
+    \entry{10.21203/rs.3.rs-4523549/v1}{article}{}
+      \name{author}{1}{}{%
+        {{hash=704c226bede3f0a730bd839e1d4d1eec}{%
+           family={Lahiani},
+           familyi={L\bibinitperiod},
+           given={Houssem},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{704c226bede3f0a730bd839e1d4d1eec}
+      \strng{fullhash}{704c226bede3f0a730bd839e1d4d1eec}
+      \strng{bibnamehash}{704c226bede3f0a730bd839e1d4d1eec}
+      \strng{authorbibnamehash}{704c226bede3f0a730bd839e1d4d1eec}
+      \strng{authornamehash}{704c226bede3f0a730bd839e1d4d1eec}
+      \strng{authorfullhash}{704c226bede3f0a730bd839e1d4d1eec}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Comparative Study of Two Deep Learning Architectures for Gesture Recognition on ArSL2018 Dataset}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.21203/rs.3.rs-4523549/v1
+      \endverb
+    \endentry
+    \entry{10.1109/ojemb.2021.3066097}{article}{}
+      \name{author}{8}{}{%
+        {{hash=7e172076985d1c6fbfdbbd105a7b280e}{%
+           family={Akay},
+           familyi={A\bibinitperiod},
+           given={Metin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=384ae4e26306092cc1e56e64da6e92e3}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Yong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=e37d9a1dcf2faf5a31c083730e580bfe}{%
+           family={Sershen},
+           familyi={S\bibinitperiod},
+           given={Cheryl\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=42882120f463434a2b42b2407acd2f9d}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Minghua},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c148da152347cba385a8b92c7bf2a3e6}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Ting\bibnamedelima Y.},
+           giveni={T\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=5b2d39de0964149ea6fa9225bcea0828}{%
+           family={Assassi},
+           familyi={A\bibinitperiod},
+           given={Shervin},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c1f55d1cc82d2679d401d8af5ea9b0f5}{%
+           family={Mohan},
+           familyi={M\bibinitperiod},
+           given={Chandra},
+           giveni={C\bibinitperiod}}}%
+        {{hash=4fe47fd15ec3a6c095ab8fa00045571c}{%
+           family={Akay},
+           familyi={A\bibinitperiod},
+           given={Yasemin\bibnamedelima M.},
+           giveni={Y\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{4eea19f2fb6cabe21eb66a6373431fe3}
+      \strng{fullhash}{e490ca4e4411ae96956227ace0a0dcd7}
+      \strng{bibnamehash}{e490ca4e4411ae96956227ace0a0dcd7}
+      \strng{authorbibnamehash}{e490ca4e4411ae96956227ace0a0dcd7}
+      \strng{authornamehash}{4eea19f2fb6cabe21eb66a6373431fe3}
+      \strng{authorfullhash}{e490ca4e4411ae96956227ace0a0dcd7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ieee Open Journal of Engineering in Medicine and Biology}
+      \field{title}{Deep Learning Classification of Systemic Sclerosis Skin Using the MobileNetV2 Model}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1109/ojemb.2021.3066097
+      \endverb
+    \endentry
+    \entry{10.1002/cpe.7405}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9319b03c3f258292f16c66a44770edb9}{%
+           family={Sünnetci},
+           familyi={S\bibinitperiod},
+           given={Kubilay\bibnamedelima Muhammed},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=1ab602306b8bc45dce0b72da84d9a036}{%
+           family={Kaba},
+           familyi={K\bibinitperiod},
+           given={Esat},
+           giveni={E\bibinitperiod}}}%
+        {{hash=be39ba4090cda049b5ed320a96c17367}{%
+           family={Çeliker},
+           familyi={Ç\bibinitperiod},
+           given={Fatma\bibnamedelima Beyazal},
+           giveni={F\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=96c40ec743d15a2c3d6f4e97350c6e73}{%
+           family={Alkan},
+           familyi={A\bibinitperiod},
+           given={Ahmet},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3619012c01c479766b8923e1ccba29d0}
+      \strng{fullhash}{5bb2f0a817036fb7eb594e56e49e56f3}
+      \strng{bibnamehash}{5bb2f0a817036fb7eb594e56e49e56f3}
+      \strng{authorbibnamehash}{5bb2f0a817036fb7eb594e56e49e56f3}
+      \strng{authornamehash}{3619012c01c479766b8923e1ccba29d0}
+      \strng{authorfullhash}{5bb2f0a817036fb7eb594e56e49e56f3}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Concurrency and Computation Practice and Experience}
+      \field{title}{Comparative Parotid Gland Segmentation by Using ResNet‐18 and MobileNetV2 Based DeepLab V3+ Architectures From Magnetic Resonance Images}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.1002/cpe.7405
+      \endverb
+    \endentry
+    \entry{10.3389/fpls.2023.1321877}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c45ad946d7464cd455c0b3a3efa5b835}{%
+           family={Alam\bibnamedelima Mazumder},
+           familyi={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Md.\bibnamedelimi Khairul},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{c45ad946d7464cd455c0b3a3efa5b835}
+      \strng{fullhash}{c45ad946d7464cd455c0b3a3efa5b835}
+      \strng{bibnamehash}{c45ad946d7464cd455c0b3a3efa5b835}
+      \strng{authorbibnamehash}{c45ad946d7464cd455c0b3a3efa5b835}
+      \strng{authornamehash}{c45ad946d7464cd455c0b3a3efa5b835}
+      \strng{authorfullhash}{c45ad946d7464cd455c0b3a3efa5b835}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Plant Science}
+      \field{title}{A Robust and Light-Weight Transfer Learning-Based Architecture for Accurate Detection of Leaf Diseases Across Multiple Plants Using Less Amount of Images}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.3389/fpls.2023.1321877
+      \endverb
+    \endentry
+    \entry{10.21203/rs.3.rs-4496133/v1}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7bafa9d7abc5b31ceb06240ce263d59f}{%
+           family={Mor},
+           familyi={M\bibinitperiod},
+           given={Nuriel\bibnamedelima Sahlom},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{7bafa9d7abc5b31ceb06240ce263d59f}
+      \strng{fullhash}{7bafa9d7abc5b31ceb06240ce263d59f}
+      \strng{bibnamehash}{7bafa9d7abc5b31ceb06240ce263d59f}
+      \strng{authorbibnamehash}{7bafa9d7abc5b31ceb06240ce263d59f}
+      \strng{authornamehash}{7bafa9d7abc5b31ceb06240ce263d59f}
+      \strng{authorfullhash}{7bafa9d7abc5b31ceb06240ce263d59f}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Comparative Analysis of Convolutional Neural Network and Vision Transformer Embeddings on a Novel Domain-Specific Task}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.21203/rs.3.rs-4496133/v1
+      \endverb
+    \endentry
+    \entry{10.55927/mudima.v3i9.5924}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fff48a7d028deaf2f4bb97e732933342}{%
+           family={Subrata\bibnamedelima Sandhiyasa},
+           familyi={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={I\bibnamedelima Made},
+           giveni={I\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{fff48a7d028deaf2f4bb97e732933342}
+      \strng{fullhash}{fff48a7d028deaf2f4bb97e732933342}
+      \strng{bibnamehash}{fff48a7d028deaf2f4bb97e732933342}
+      \strng{authorbibnamehash}{fff48a7d028deaf2f4bb97e732933342}
+      \strng{authornamehash}{fff48a7d028deaf2f4bb97e732933342}
+      \strng{authorfullhash}{fff48a7d028deaf2f4bb97e732933342}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jurnal Multidisiplin Madani}
+      \field{title}{Real Time Face Recognition for Mobile Application Based on Mobilenetv2}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.55927/mudima.v3i9.5924
+      \endverb
+    \endentry
+    \entry{10.5109/6792818}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3e1c1862c3a44a7094f0bdb210c675d0}{%
+           family={Chaudhary},
+           familyi={C\bibinitperiod},
+           given={Amit},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3e1c1862c3a44a7094f0bdb210c675d0}
+      \strng{fullhash}{3e1c1862c3a44a7094f0bdb210c675d0}
+      \strng{bibnamehash}{3e1c1862c3a44a7094f0bdb210c675d0}
+      \strng{authorbibnamehash}{3e1c1862c3a44a7094f0bdb210c675d0}
+      \strng{authornamehash}{3e1c1862c3a44a7094f0bdb210c675d0}
+      \strng{authorfullhash}{3e1c1862c3a44a7094f0bdb210c675d0}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Evergreen}
+      \field{title}{Road Surface Quality Detection Using Light Weight Neural Network for Visually Impaired Pedestrian}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.5109/6792818
+      \endverb
+    \endentry
+    \entry{10.14569/ijacsa.2023.01406105}{article}{}
+      \name{author}{1}{}{%
+        {{hash=946ca9ac9f0d764c9a53558ad947c700}{%
+           family={Jidan},
+           familyi={J\bibinitperiod},
+           given={Omar\bibnamedelima Jilani},
+           giveni={O\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{946ca9ac9f0d764c9a53558ad947c700}
+      \strng{fullhash}{946ca9ac9f0d764c9a53558ad947c700}
+      \strng{bibnamehash}{946ca9ac9f0d764c9a53558ad947c700}
+      \strng{authorbibnamehash}{946ca9ac9f0d764c9a53558ad947c700}
+      \strng{authornamehash}{946ca9ac9f0d764c9a53558ad947c700}
+      \strng{authorfullhash}{946ca9ac9f0d764c9a53558ad947c700}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Advanced Computer Science and Applications}
+      \field{title}{A Comprehensive Study of DCNN Algorithms-Based Transfer Learning for Human Eye Cataract Detection}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.14569/ijacsa.2023.01406105
+      \endverb
+    \endentry
+    \entry{10.1167/tvst.9.2.35}{article}{}
+      \name{author}{8}{}{%
+        {{hash=cc5deabe672e78be9303ff2bc7ad5e85}{%
+           family={Le},
+           familyi={L\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=e101eb03dc8558003fb062dccb10d492}{%
+           family={Alam},
+           familyi={A\bibinitperiod},
+           given={Minhaj\bibnamedelima Nur},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=fec3bbfcc8fb66756f0653b6bebca594}{%
+           family={Yao},
+           familyi={Y\bibinitperiod},
+           given={Cham\bibnamedelima K.},
+           giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=3246b5f21bd41492b6a14cabde6cc818}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Jennifer\bibnamedelima I.},
+           giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=b32cc03253db79889ef5897a06b4dc1e}{%
+           family={Hsieh},
+           familyi={H\bibinitperiod},
+           given={Yi‐Ting},
+           giveni={Y\bibinithyphendelim T\bibinitperiod}}}%
+        {{hash=e9195c8196aaf4dacc130745f0a00fee}{%
+           family={Paul\bibnamedelima Chan},
+           familyi={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Robison\bibnamedelima Vernon},
+           giveni={R\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=002a38ed39232e52d3171e357acb8308}{%
+           family={Toslak},
+           familyi={T\bibinitperiod},
+           given={Devrim},
+           giveni={D\bibinitperiod}}}%
+        {{hash=73494de3b09193837d893ef18a50e4b1}{%
+           family={Yao},
+           familyi={Y\bibinitperiod},
+           given={Xincheng},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{c72c053fea19faf829dc697a88759c30}
+      \strng{fullhash}{0e66fb6d4d6cd4de64b4dd77339ec34e}
+      \strng{bibnamehash}{0e66fb6d4d6cd4de64b4dd77339ec34e}
+      \strng{authorbibnamehash}{0e66fb6d4d6cd4de64b4dd77339ec34e}
+      \strng{authornamehash}{c72c053fea19faf829dc697a88759c30}
+      \strng{authorfullhash}{0e66fb6d4d6cd4de64b4dd77339ec34e}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Translational Vision Science \& Technology}
+      \field{title}{Transfer Learning for Automated OCTA Detection of Diabetic Retinopathy}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1167/tvst.9.2.35
+      \endverb
+    \endentry
+    \entry{10.48550/arxiv.1909.11229}{article}{}
+      \name{author}{7}{}{%
+        {{hash=e9ce9f297eef68c2076acd521169e180}{%
+           family={Mathis},
+           familyi={M\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=335c19c1ff0a1273fe3e5bb1879b98d5}{%
+           family={Biasi},
+           familyi={B\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a13c8464f464250a409c78edf90ea235}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Steffen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a6e11e6f878688226092610fe151c7a2}{%
+           family={Mert},
+           familyi={M\bibinitperiod},
+           given={Yuksekgonul},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=7893d7938859770eaf5f59d8c621bfda}{%
+           family={Rogers},
+           familyi={R\bibinitperiod},
+           given={Byron},
+           giveni={B\bibinitperiod}}}%
+        {{hash=653ad8c2337d9615a186b743cc8d69a5}{%
+           family={Bethge},
+           familyi={B\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=17fa62dd13e57c0d1079bf60341ec31e}{%
+           family={Mathis},
+           familyi={M\bibinitperiod},
+           given={Mackenzie\bibnamedelima Weygandt},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{d258da6ba002d954065f2d89b17963e6}
+      \strng{fullhash}{b698883535c882e51416b033a67e2851}
+      \strng{bibnamehash}{b698883535c882e51416b033a67e2851}
+      \strng{authorbibnamehash}{b698883535c882e51416b033a67e2851}
+      \strng{authornamehash}{d258da6ba002d954065f2d89b17963e6}
+      \strng{authorfullhash}{b698883535c882e51416b033a67e2851}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pretraining Boosts Out-of-Domain Robustness for Pose Estimation}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.48550/arxiv.1909.11229
+      \endverb
+    \endentry
+    \entry{10.1101/2023.05.31.23290789}{article}{}
+      \name{author}{4}{}{%
+        {{hash=31ef56eb33fe35570aea0f69ad1abe2c}{%
+           family={Rajaraman},
+           familyi={R\bibinitperiod},
+           given={Sivaramakrishnan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f92b99567ca18f79ac55f8db57b458f1}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b618965e06b748e1f1fb7d3d4bb756d4}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Zhaohui},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=9f65936868c778e461c918c33a40c262}{%
+           family={Xue},
+           familyi={X\bibinitperiod},
+           given={Zhiyun},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{6752a1f6796b0d68ca7abd316fe4eafc}
+      \strng{fullhash}{ae8aad595ad4f2119225e2abce439aac}
+      \strng{bibnamehash}{ae8aad595ad4f2119225e2abce439aac}
+      \strng{authorbibnamehash}{ae8aad595ad4f2119225e2abce439aac}
+      \strng{authornamehash}{6752a1f6796b0d68ca7abd316fe4eafc}
+      \strng{authorfullhash}{ae8aad595ad4f2119225e2abce439aac}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Uncovering the Effects of Model Initialization on Deep Model Generalization: A Study With Adult and Pediatric Chest X-Ray Images}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1101/2023.05.31.23290789
       \endverb
     \endentry
   \enddatalist

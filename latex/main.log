@@ -1349,4 +1349,710 @@ File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )<<oml.cmap>>
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 17.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 20
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)<<oms.cmap>>
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 17.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 17.
+<<omx.cmap>>
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 17.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 17.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 17.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 17.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+
+
+
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc} <./pictures/sbu.png>])
+\openout2 = `content/0_abstract.aux'.
+
+ (./content/0_abstract.tex
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmss.fd
+File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)) [1
+
+
+
+
+
+
+] (./main.toc
+Package acronym Info: Label `acro:TSR' newly defined as it shall be overridden
+although it is yet undefined on input line 13.
+
+
+Package acronym Warning: Acronym `TSR' is not defined on input line 13.
+
+
+Package acronym Warning: Acronym `TSR' is not defined on input line 13.
+
+[2
+
+
+
+
+])
+\tf@toc=\write6
+\openout6 = `main.toc'.
+
+ [3]
+\openout2 = `content/1_introduction.aux'.
+
+ (./content/1_introduction.tex
+chapter without number
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\label' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\index' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\glossary' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\xdef' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@temptokena' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mark_insert:nn' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mark_insert:nn' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mark' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\endgroup' on input line 1.
+
+Package acronym Info: Label `acro:V2X' newly defined as it shall be overridden
+although it is yet undefined on input line 12.
+
+Package acronym Warning: Acronym `V2X' is not defined on input line 12.
+
+
+Package acronym Warning: Acronym `V2X' is not defined on input line 12.
+
+[4
+
+
+
+]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 34.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)) [5{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
+\openout2 = `content/2_background.aux'.
+
+ (./content/2_background.tex
+chapter 1.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\label' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\index' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\glossary' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\xdef' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@temptokena' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mark_insert:nn' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mark_insert:nn' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mark' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\endgroup' on input line 1.
+
+Package acronym Info: Label `acro:ITS' newly defined as it shall be overridden
+although it is yet undefined on input line 13.
+
+Package acronym Warning: Acronym `ITS' is not defined on input line 13.
+
+
+Package acronym Warning: Acronym `ITS' is not defined on input line 13.
+
+Package acronym Info: Label `acro:V2V' newly defined as it shall be overridden
+although it is yet undefined on input line 16.
+
+Package acronym Warning: Acronym `V2V' is not defined on input line 16.
+
+
+Package acronym Warning: Acronym `V2V' is not defined on input line 16.
+
+Package acronym Info: Label `acro:V2I' newly defined as it shall be overridden
+although it is yet undefined on input line 17.
+
+Package acronym Warning: Acronym `V2I' is not defined on input line 17.
+
+
+Package acronym Warning: Acronym `V2I' is not defined on input line 17.
+
+Package acronym Info: Label `acro:V2P' newly defined as it shall be overridden
+although it is yet undefined on input line 19.
+
+Package acronym Warning: Acronym `V2P' is not defined on input line 19.
+
+
+Package acronym Warning: Acronym `V2P' is not defined on input line 19.
+
+Package acronym Info: Label `acro:V2C' newly defined as it shall be overridden
+although it is yet undefined on input line 20.
+
+Package acronym Warning: Acronym `V2C' is not defined on input line 20.
+
+
+Package acronym Warning: Acronym `V2C' is not defined on input line 20.
+
+<images/figure1.png, id=137, 1223.57124pt x 866.23625pt>
+File: images/figure1.png Graphic file (type png)
+<use images/figure1.png>
+Package pdftex.def Info: images/figure1.png  used on input line 25.
+(pdftex.def)             Requested size: 426.79141pt x 302.14304pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.29 
+      [1
+
+
+
+
+
+
+]
+Package acronym Info: Label `acro:V2N' newly defined as it shall be overridden
+although it is yet undefined on input line 32.
+
+
+Package acronym Warning: Acronym `V2N' is not defined on input line 32.
+
+
+Package acronym Warning: Acronym `V2N' is not defined on input line 32.
+
+Package acronym Info: Label `acro:eNB' newly defined as it shall be overridden
+although it is yet undefined on input line 32.
+
+Package acronym Warning: Acronym `eNB' is not defined on input line 32.
+
+
+Package acronym Warning: Acronym `eNB' is not defined on input line 32.
+
+Package acronym Info: Label `acro:RSUs' newly defined as it shall be overridden
+although it is yet undefined on input line 37.
+
+Package acronym Warning: Acronym `RSUs' is not defined on input line 37.
+
+
+Package acronym Warning: Acronym `RSUs' is not defined on input line 37.
+
+Package acronym Info: Label `acro:DSRC' newly defined as it shall be overridden
+although it is yet undefined on input line 46.
+
+Package acronym Warning: Acronym `DSRC' is not defined on input line 46.
+
+
+Package acronym Warning: Acronym `DSRC' is not defined on input line 46.
+
+Package acronym Info: Label `acro:C-V2X' newly defined as it shall be overridden
+although it is yet undefined on input line 48.
+
+Package acronym Warning: Acronym `C-V2X' is not defined on input line 48.
+
+
+Package acronym Warning: Acronym `C-V2X' is not defined on input line 48.
+
+[2 <./images/figure1.png>]
+<images/figure3.png, id=165, 827.09pt x 672.5125pt>
+File: images/figure3.png Graphic file (type png)
+<use images/figure3.png>
+Package pdftex.def Info: images/figure3.png  used on input line 60.
+(pdftex.def)             Requested size: 256.07744pt x 208.22017pt.
+ [3 <./images/figure3.png>]
+Package acronym Info: Label `acro:VANET' newly defined as it shall be overridden
+although it is yet undefined on input line 70.
+
+
+Package acronym Warning: Acronym `VANET' is not defined on input line 70.
+
+
+Package acronym Warning: Acronym `VANET' is not defined on input line 70.
+
+
+Package acronym Warning: Acronym `TSR' is not defined on input line 86.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ac' on input line 86.
+
+Package acronym Info: Label `acro:ADAS' newly defined as it shall be overridden
+although it is yet undefined on input line 94.
+
+Package acronym Warning: Acronym `ADAS' is not defined on input line 94.
+
+
+Package acronym Warning: Acronym `ADAS' is not defined on input line 94.
+
+[4]
+Package acronym Info: Label `acro:GTSRB' newly defined as it shall be overridden
+although it is yet undefined on input line 106.
+
+
+Package acronym Warning: Acronym `GTSRB' is not defined on input line 106.
+
+
+Package acronym Warning: Acronym `GTSRB' is not defined on input line 106.
+
+<images/figure2.png, id=196, 1117.17375pt x 666.49pt>
+File: images/figure2.png Graphic file (type png)
+<use images/figure2.png>
+Package pdftex.def Info: images/figure2.png  used on input line 122.
+(pdftex.def)             Requested size: 341.43442pt x 203.69102pt.
+[5]
+Package acronym Info: Label `acro:CNNs' newly defined as it shall be overridden
+although it is yet undefined on input line 128.
+
+
+Package acronym Warning: Acronym `CNNs' is not defined on input line 128.
+
+
+Package acronym Warning: Acronym `CNNs' is not defined on input line 128.
+
+<images/figure4.png, id=211, 767.86874pt x 303.1325pt>
+File: images/figure4.png Graphic file (type png)
+<use images/figure4.png>
+Package pdftex.def Info: images/figure4.png  used on input line 139.
+(pdftex.def)             Requested size: 426.79141pt x 168.48567pt.
+[6 <./images/figure2.png>]) [7 <./images/figure4.png>]
+\openout2 = `content/3_method.aux'.
+
+ (./content/3_method.tex
+chapter 2.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\label' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\index' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\glossary' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\xdef' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@temptokena' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mark_insert:nn' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mark_insert:nn' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mark' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\endgroup' on input line 1.
+
+[8
+
+
+
+
+
+]
+<images/figure7.png, id=256, 575.14874pt x 424.58624pt>
+File: images/figure7.png Graphic file (type png)
+<use images/figure7.png>
+Package pdftex.def Info: images/figure7.png  used on input line 20.
+(pdftex.def)             Requested size: 341.43442pt x 252.05858pt.
+<images/figure8.png, id=257, 575.14874pt x 172.645pt>
+File: images/figure8.png Graphic file (type png)
+<use images/figure8.png>
+Package pdftex.def Info: images/figure8.png  used on input line 28.
+(pdftex.def)             Requested size: 341.43442pt x 102.4919pt.
+ [9 <./images/figure7.png>]
+<images/figure6.png, id=273, 725.71124pt x 320.19624pt>
+File: images/figure6.png Graphic file (type png)
+<use images/figure6.png>
+Package pdftex.def Info: images/figure6.png  used on input line 38.
+(pdftex.def)             Requested size: 341.43442pt x 150.64859pt.
+<images/figure5.png, id=283, 769.87625pt x 699.61375pt>
+File: images/figure5.png Graphic file (type png)
+<use images/figure5.png>
+Package pdftex.def Info: images/figure5.png  used on input line 47.
+(pdftex.def)             Requested size: 341.43442pt x 310.27563pt.
+ [10 <./images/figure8.png> <./images/figure6.png>] [11 <./images/figure5.png>] [12] [13] [14] [15]
+<images/figure10.png, id=344, 985.6825pt x 539.01375pt>
+File: images/figure10.png Graphic file (type png)
+<use images/figure10.png>
+Package pdftex.def Info: images/figure10.png  used on input line 146.
+(pdftex.def)             Requested size: 341.43442pt x 186.70837pt.
+ [16 <./images/figure10.png>]) [17]
+\openout2 = `content/4_result.aux'.
+
+ (./content/4_result.tex
+chapter 3.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\label' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\index' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\glossary' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\xdef' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@temptokena' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mark_insert:nn' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mark_insert:nn' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mark' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\endgroup' on input line 1.
+
+) [18
+
+
+
+
+
+]
+\openout2 = `content/5_discussion.aux'.
+
+ (./content/5_discussion.tex
+chapter 4.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\label' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\index' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\glossary' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\xdef' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@temptokena' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mark_insert:nn' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mark_insert:nn' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mark' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\endgroup' on input line 1.
+
+) [19
+
+
+
+
+
+]
+\openout2 = `content/6_conclusion.aux'.
+
+ (./content/6_conclusion.tex
+chapter 5.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\label' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\index' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\glossary' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\xdef' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@temptokena' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mark_insert:nn' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mark_insert:nn' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mark' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\endgroup' on input line 1.
+
+) [20
+
+
+
+
+
+]
+chapter without number
+LaTeX Font Info:    Trying to load font information for T1+fvm on input line 40.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/bera/t1fvm.fd
+File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
+)
+LaTeX Font Info:    Calculating math sizes for size <10.00002> on input line 40.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.00002> on input line 40.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6.99997> on input line 40.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 40.
+ [21
+
+
+
+
+{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}] [22]
+Overfull \hbox (8.80382pt too wide) in paragraph at lines 41--41
+[]\T1/lmr/m/n/12 P. Perez-Murueta, A. Gómez-Espinosa, C. Cár-de-nas, and M. González-Mendoza.
+ []
+
+[23]
+Overfull \hbox (4.19809pt too wide) in paragraph at lines 41--41
+[]\T1/lmr/m/n/12 M. San-dler, A. Howard, M. Zhu, A. Zh-mogi-nov, and L.[]C. Chen. ^^P  Mo-bileNetV2:
+ []
+
+[24] [25] (./main.aux (./framework/titlepage.aux) (./content/0_abstract.aux) (./content/1_introduction.aux) (./content/2_background.aux) (./content/3_method.aux) (./content/4_result.aux) (./content/5_discussion.aux) (./content/6_conclusion.aux))
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2020/03/25>
+ ***********
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 52669 strings out of 474116
+ 1192728 string characters out of 5743681
+ 2231130 words of memory out of 5000000
+ 73992 multiletter control sequences out of 15000+600000
+ 641729 words of font info for 92 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 130i,20n,134p,10954b,1697s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmro12.pfb>
+Output written on main.pdf (31 pages, 10640142 bytes).
+PDF statistics:
+ 634 PDF objects out of 1000 (max. 8388607)
+ 560 compressed objects within 6 object streams
+ 152 named destinations out of 1000 (max. 500000)
+ 411 words of extra memory for PDF output out of 10000 (max. 10000000)
+

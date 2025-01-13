@@ -2248,4 +2248,195 @@
       <bcf:entrytype>incollection</bcf:entrytype>
       <bcf:entrytype>suppcollection</bcf:entrytype>
       <bcf:entrytype>inreference</bcf:entrytype>
-      <bcf:constraint 
+      <bcf:constraint type="mandatory">
+        <bcf:field>author</bcf:field>
+        <bcf:field>editor</bcf:field>
+        <bcf:field>title</bcf:field>
+        <bcf:field>booktitle</bcf:field>
+      </bcf:constraint>
+    </bcf:constraints>
+    <bcf:constraints>
+      <bcf:entrytype>dataset</bcf:entrytype>
+      <bcf:constraint type="mandatory">
+        <bcf:field>title</bcf:field>
+      </bcf:constraint>
+    </bcf:constraints>
+    <bcf:constraints>
+      <bcf:entrytype>manual</bcf:entrytype>
+      <bcf:constraint type="mandatory">
+        <bcf:field>title</bcf:field>
+      </bcf:constraint>
+    </bcf:constraints>
+    <bcf:constraints>
+      <bcf:entrytype>misc</bcf:entrytype>
+      <bcf:entrytype>software</bcf:entrytype>
+      <bcf:constraint type="mandatory">
+        <bcf:field>title</bcf:field>
+      </bcf:constraint>
+    </bcf:constraints>
+    <bcf:constraints>
+      <bcf:entrytype>online</bcf:entrytype>
+      <bcf:constraint type="mandatory">
+        <bcf:field>title</bcf:field>
+        <bcf:fieldor>
+          <bcf:field>url</bcf:field>
+          <bcf:field>doi</bcf:field>
+          <bcf:field>eprint</bcf:field>
+        </bcf:fieldor>
+      </bcf:constraint>
+    </bcf:constraints>
+    <bcf:constraints>
+      <bcf:entrytype>patent</bcf:entrytype>
+      <bcf:constraint type="mandatory">
+        <bcf:field>author</bcf:field>
+        <bcf:field>title</bcf:field>
+        <bcf:field>number</bcf:field>
+      </bcf:constraint>
+    </bcf:constraints>
+    <bcf:constraints>
+      <bcf:entrytype>periodical</bcf:entrytype>
+      <bcf:constraint type="mandatory">
+        <bcf:field>editor</bcf:field>
+        <bcf:field>title</bcf:field>
+      </bcf:constraint>
+    </bcf:constraints>
+    <bcf:constraints>
+      <bcf:entrytype>proceedings</bcf:entrytype>
+      <bcf:entrytype>mvproceedings</bcf:entrytype>
+      <bcf:constraint type="mandatory">
+        <bcf:field>title</bcf:field>
+      </bcf:constraint>
+    </bcf:constraints>
+    <bcf:constraints>
+      <bcf:entrytype>inproceedings</bcf:entrytype>
+      <bcf:constraint type="mandatory">
+        <bcf:field>author</bcf:field>
+        <bcf:field>title</bcf:field>
+        <bcf:field>booktitle</bcf:field>
+      </bcf:constraint>
+    </bcf:constraints>
+    <bcf:constraints>
+      <bcf:entrytype>report</bcf:entrytype>
+      <bcf:constraint type="mandatory">
+        <bcf:field>author</bcf:field>
+        <bcf:field>title</bcf:field>
+        <bcf:field>type</bcf:field>
+        <bcf:field>institution</bcf:field>
+      </bcf:constraint>
+    </bcf:constraints>
+    <bcf:constraints>
+      <bcf:entrytype>thesis</bcf:entrytype>
+      <bcf:constraint type="mandatory">
+        <bcf:field>author</bcf:field>
+        <bcf:field>title</bcf:field>
+        <bcf:field>type</bcf:field>
+        <bcf:field>institution</bcf:field>
+      </bcf:constraint>
+    </bcf:constraints>
+    <bcf:constraints>
+      <bcf:entrytype>unpublished</bcf:entrytype>
+      <bcf:constraint type="mandatory">
+        <bcf:field>author</bcf:field>
+        <bcf:field>title</bcf:field>
+      </bcf:constraint>
+    </bcf:constraints>
+    <bcf:constraints>
+      <bcf:constraint type="data" datatype="isbn">
+        <bcf:field>isbn</bcf:field>
+      </bcf:constraint>
+      <bcf:constraint type="data" datatype="issn">
+        <bcf:field>issn</bcf:field>
+      </bcf:constraint>
+      <bcf:constraint type="data" datatype="ismn">
+        <bcf:field>ismn</bcf:field>
+      </bcf:constraint>
+      <bcf:constraint type="data" datatype="pattern" pattern="(?:sf|sm|sn|pf|pm|pn|pp)">
+        <bcf:field>gender</bcf:field>
+      </bcf:constraint>
+    </bcf:constraints>
+  </bcf:datamodel>
+  <!-- CITATION DATA -->
+  <!-- SECTION 0 -->
+  <bcf:bibdata section="0">
+    <bcf:datasource type="file" datatype="bibtex" glob="false">bibtex.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="0">
+    <bcf:citekey order="1" intorder="1">10782104</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">PEARRE201961</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">avant1986recognition</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">8605302</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">cite-key</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">10806826</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">cite-key1</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">8690818</bcf:citekey>
+    <bcf:citekey order="8" intorder="2">Sidorenko2024</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">zEslami</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">zEslami</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">zEslami</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">Thakur2024</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">Zhang2022</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">cite-key2</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">STALLKAMP2012323</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">10.1109/tits.2012.2209421</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">10.1016/j.neunet.2012.02.023</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">10.3390/a10040127</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">10.18178/wcse.2019.06.020</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">10.18280/isi.250211</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">10.1016/j.neunet.2012.02.023</bcf:citekey>
+    <bcf:citekey order="21" intorder="2">10.1109/icde48307.2020.00079</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">10.1109/aipr50011.2020.9425267</bcf:citekey>
+    <bcf:citekey order="22" intorder="2">10.48550/arxiv.1911.07399</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">10.1109/cvpr42600.2020.00038</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">10.1109/tits.2019.2913588</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">10.22214/ijraset.2022.40672</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">10.1002/cpe.7979</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">10.1109/access.2022.3144112</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">10.32604/cmc.2019.03581</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">10.3390/app9132717</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">10.1371/journal.pone.0283121</bcf:citekey>
+    <bcf:citekey order="30" intorder="2">10.1109/cvpr.2018.00474</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">10.21203/rs.3.rs-4523549/v1</bcf:citekey>
+    <bcf:citekey order="31" intorder="2">10.1109/cvpr.2018.00474</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">10.1109/ojemb.2021.3066097</bcf:citekey>
+    <bcf:citekey order="32" intorder="2">10.1002/cpe.7405</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">10.21203/rs.3.rs-4523549/v1</bcf:citekey>
+    <bcf:citekey order="33" intorder="2">10.3389/fpls.2023.1321877</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">10.3389/fpls.2023.1321877</bcf:citekey>
+    <bcf:citekey order="34" intorder="2">10.1109/cvpr.2018.00474</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">10.1109/ojemb.2021.3066097</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">10.1109/ojemb.2021.3066097</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">10.21203/rs.3.rs-4496133/v1</bcf:citekey>
+    <bcf:citekey order="37" intorder="2">10.55927/mudima.v3i9.5924</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">10.55927/mudima.v3i9.5924</bcf:citekey>
+    <bcf:citekey order="38" intorder="2">10.5109/6792818</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">10.1109/ojemb.2021.3066097</bcf:citekey>
+    <bcf:citekey order="39" intorder="2">10.55927/mudima.v3i9.5924</bcf:citekey>
+    <bcf:citekey order="39" intorder="3">10.14569/ijacsa.2023.01406105</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">10.1109/cvpr.2018.00474</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">10.55927/mudima.v3i9.5924</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">10.55927/mudima.v3i9.5924</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">10.1167/tvst.9.2.35</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">10.1167/tvst.9.2.35</bcf:citekey>
+    <bcf:citekey order="44" intorder="2">10.48550/arxiv.1909.11229</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">10.1101/2023.05.31.23290789</bcf:citekey>
+  </bcf:section>
+  <!-- SORTING TEMPLATES -->
+  <bcf:sortingtemplate name="none">
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="2">
+      <bcf:sortitem order="1">intciteorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sortingtemplate>
+  <!-- DATALISTS -->
+  <bcf:datalist section="0"
+                name="none/global//global/global"
+                type="entry"
+                sortingtemplatename="none"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+</bcf:controlfile>

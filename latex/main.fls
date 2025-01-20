@@ -488,6 +488,9 @@ INPUT content/5_discussion.aux
 INPUT ./content/6_conclusion.aux
 INPUT ./content/6_conclusion.aux
 INPUT content/6_conclusion.aux
+INPUT ./framework/declaration_of_authorship.aux
+INPUT ./framework/declaration_of_authorship.aux
+INPUT framework/declaration_of_authorship.aux
 OUTPUT main.aux
 INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -798,6 +801,12 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/bera/fvmr8t.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/bera/fvmr8r.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc
+INPUT ./framework/declaration_of_authorship.tex
+INPUT ./framework/declaration_of_authorship.tex
+OUTPUT framework/declaration_of_authorship.aux
+INPUT ./framework/declaration_of_authorship.tex
+INPUT ./framework/declaration_of_authorship.tex
+INPUT framework/declaration_of_authorship.tex
 INPUT main.aux
 INPUT ./framework/titlepage.aux
 INPUT ./framework/titlepage.aux
@@ -826,6 +835,9 @@ INPUT content/5_discussion.aux
 INPUT ./content/6_conclusion.aux
 INPUT ./content/6_conclusion.aux
 INPUT content/6_conclusion.aux
+INPUT ./framework/declaration_of_authorship.aux
+INPUT ./framework/declaration_of_authorship.aux
+INPUT framework/declaration_of_authorship.aux
 INPUT ./main.out
 INPUT ./main.out
 INPUT main.run.xml

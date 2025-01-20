@@ -103,26 +103,41 @@ This VANET (Vehicular Ad-Hoc Network) simulation models how vehicles dynamically
     \item By simulating road constraints (looped roads) and communication ranges, it models real-world challenges in VANET systems.
 \end{itemize}
 
-\section{Simulating Adverse Conditions}
+\subsection{Consensus Mechanism}
+The implemented consensus algorithm aggregates predictions from multiple sources, including the system's own predictions, 
+to identify the most probable class along with its associated confidence score. The process begins by combining all available 
+predictions and counting the frequency of each predicted class. Subsequently, confidence scores are grouped by class to 
+facilitate further analysis. The class with the highest frequency is identified as the primary candidate; however, 
+in the event of a tie, the algorithm resolves it by selecting the class with the highest average confidence across
+ all predictions. Finally, the average confidence for the selected class is computed and reported alongside the predicted class.
+  This approach ensures a balanced decision-making process by considering both class popularity and the reliability of
+   the associated confidence scores, providing a robust framework for prediction consensus in ensemble or multi-agent systems.
 
-The primary goal of training the model and developing the VANET simulation system was to evaluate its performance under various conditions and assess its resilience.
+   \newpage
+   \section{Simulating Adverse Conditions}
 
-For each condition, two sets of tests were conducted:
+   The primary objective of training the model and developing the VANET simulation system was to rigorously evaluate its performance under a range of environmental conditions and assess its resilience in diverse scenarios. These evaluations were designed to explore how well the system adapts to challenging environments and leverages vehicle-to-vehicle communication for enhanced decision-making.
+   
+   For each condition, two distinct test configurations were conducted:
+   
+   \begin{enumerate}
+       \item \textbf{Independent Vehicle Test:} A single vehicle operated in isolation without any connectivity or data exchange with other vehicles. It relied entirely on its onboard recognition capabilities to detect and interpret traffic signs. This test served as a baseline to evaluate the standalone effectiveness of individual vehicles.
+       
+       \item \textbf{VANET System Test:} The same conditions were applied as in the independent vehicle test, but this time the vehicles were part of a VANET system. In this setup, vehicles communicated with one another, sharing data and predictions in real time. A consensus mechanism was employed to collaboratively interpret traffic signs and make collective predictions, simulating a connected and cooperative driving environment.
+   \end{enumerate}
+   
+   The simulated environmental conditions:
+   
+   \begin{enumerate}
+       \item \textbf{Normal (no alterations):} The baseline scenario with standard lighting and conditions, providing a control case for comparisons.
+       \item \textbf{Brightness Variation:} Simulated changes in ambient lighting, such as sudden sunlight glare or shadows, to test the system's robustness to extreme lighting conditions.
+       \item \textbf{Motion Blur:} Artificially induced blur in images, mimicking the effects of rapid movement or poor camera stabilization, challenging the system's ability to identify traffic signs accurately.
+       \item \textbf{Angle and Rotation Adjustments:} Variations in the orientation of traffic signs, such as tilted or skewed signs, to assess the system's capacity to interpret signs from different perspectives.
+   \end{enumerate}
+   
 
-\begin{enumerate}
-    \item \textbf{Independent Vehicle Test:} A single vehicle operated without any connection or communication with other vehicles, relying solely on its own recognition capabilities.
-    
-    \item \textbf{VANET System Test:} The same conditions were applied, but this time vehicles communicated and shared information. Predictions were made collaboratively through a consensus mechanism, allowing vehicles to collectively interpret traffic signs.
-\end{enumerate}
 
-The environmental conditions used for testing were:
-
-\begin{enumerate}
-    \item Normal (no alterations)
-    \item Brightness variation
-    \item Motion blur
-    \item Angle and rotation adjustments
-\end{enumerate}
+\newpage
 
 \subsection{Normal (no alterations)}
 
